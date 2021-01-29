@@ -1,43 +1,11 @@
-                                   |         Concordant alignment         |   Discordant   |
-| Sample_ID  | % overall alignment | % mapped pairs | % multimapped pairs | % mapped pairs |
-|------------|---------------------|----------------|---------------------|----------------|
-| P18257_101 |        90.15        |      79.81     |         4.48        |      1.54      |
-| P18257_102 |
-| P18257_103 |
-| P18257_104 |
-| P18257_105 |
-| P18257_106 |
-| P18257_107 |
-| P18257_108 |
-| P18257_109 |
-| P18257_111 |
-| P18257_112 |
-| P18257_113 |
-| P18257_114 |
-| P18257_115 |
-| P18257_116 |
-| P18257_117 |
-| P18257_118 |
-| P18257_119 |
-| P18257_120 |
-| P18257_121 |
-| P18257_122 |
-| P18257_123 |
-| P18257_124 |
-| P18257_125 |
-| P18257_126 |
-| P18257_127 |
-| P18257_128 |
-| P18257_129 |
-| P18257_130 |
-| P18257_131 |
-| P18257_132 |
-| P18257_133 |
-| P18257_134 |
-| P18257_135 |
-| P18257_136 |
-| P18257_138 |
-| P18257_139 |
-| P18257_140 |
-| P18257_141 |
-| P18257_201 |
+# Mapping the RNAseq reads to the reference genome to get an idea of how well everything maps
+
+Compare with mapping to the transcriptome to see how much additional data is lost
+
+Problem - GF04 maps around 10% worse to the (R05) reference than R05
+* Also need to consider heterozygous sites... Relax mapping parameters?
+* Discussion on use of non-native reference genome (in bacteria): https://doi.org/10.1371/journal.pone.0180904
+  * Long reads are preferred
+  * Relaxed parameters could lead to false positives...
+
+At the very least, within-strain comparisons can be performed

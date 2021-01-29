@@ -1,0 +1,28 @@
+#$ -cwd
+#$ -q sandbox
+#$ -pe mpi 8
+#$ -S /bin/bash
+
+module load Anaconda3/v2019.10
+module load FastQC/v0.11.8
+
+SAMPLE=${PWD##*/}
+FILEPATH=../../P18257/${SAMPLE}/02-FASTQ/210122_A00187_0419_AHNKKTDSXY
+INFILE1=$(ls ${FILEPATH}/*R1*)
+INFILE2=$(ls ${FILEPATH}/*R2*)
+FILEROOT1=${INFILE1##*/}
+FILEROOT2=${INFILE2##*/}
+OUTFILE1=${FILEROOT1%.fastq.gz}.QC.fastq.gz
+OUTFILE2=${FILEROOT2%.fastq.gz}.QC.fastq.gz
+
+cutadapt -j $NSLOTS \
+-a AGATCGGAAGAGC \
+-A AGATCGGAAGAGC \
+-q 30 \
+-m 50 \
+-o $OUTFILE1 \
+-p $OUTFILE2 \
+$INFILE1 \
+$INFILE2
+
+fastqc -t $NSLOTS *.QC.fastq.gz
