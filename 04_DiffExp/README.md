@@ -37,3 +37,19 @@
   * Would need to remove a GF04 control _106 too, as this would be the only one in the other batch if so...
 
 Would I need to remove the B samples from R05 too if I removed them from GF04...?
+
+Note from [DESeq2 vignette](http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html):  
+
+"... blind dispersion estimation is not the appropriate choice if one expects that many or the majority of genes  
+(rows) will have large differences in counts which are explainable by the experimental design..."
+* Keep this in mind when interpreting results
+
+Note from [DESeq2 paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8):  
+
+"The rlog transformation accounts for variation in sequencing depth across samples"  
+"... while the VST is also effective at stabilizing variance, it does not directly take into account differences  
+in size factors; and in datasets with large variation in sequencing depth (dynamic range of size factors ≳4)  
+we observed undesirable artifacts in the performance of the VST."  
+
+"A disadvantage of the rlog transformation with respect to the VST is, however, that the ordering of genes within  
+a sample will change if neighboring genes undergo shrinkage of different strength."
