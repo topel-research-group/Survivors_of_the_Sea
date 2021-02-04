@@ -3,5 +3,12 @@
 00_data/Trimmed/multiqc_data/
 00_data/Trimmed/*.sge.*
 01_mapping/References/
+01_mapping/OLD_VsReferenceGenome/
 01_mapping/VsMicrobiome/P18257_*
 01_mapping/VsReferenceGenome/P18257_*
+01_mapping/VsTranscriptome_Preliminary/P18257_*
+01_mapping/VsTranscriptome_Preliminary/infiles/
+02_assembly/GF04/
+02_assembly/R05/
+03_quantification/VsTranscriptome_Preliminary/P18257_*
+03_quantification/VsTranscriptome_Preliminary/runSalmon.sge.*
