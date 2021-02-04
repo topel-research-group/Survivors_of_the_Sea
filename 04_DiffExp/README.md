@@ -35,6 +35,10 @@
       size factors ≳4) we observed undesirable artifacts in the performance of the VST."  
     * "A disadvantage of the rlog transformation with respect to the VST is, however, that the ordering of genes  
       within a sample will change if neighboring genes undergo shrinkage of different strength."
+  * From the DESeq2 manual
+    * "... `rlog` is more robust in the case when the size factors vary widely."
+    * "The `rlog` is less sensitive to size factors, which can be an issue when size factors vary widely."
+  * Wide difference in sequencing depth (between 9.4M and 48M reads), so `rlog` would be most appropriate
 
 * Blind or not?
   * Likely NOT
