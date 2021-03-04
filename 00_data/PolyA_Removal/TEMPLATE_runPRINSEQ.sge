@@ -1,0 +1,37 @@
+#$ -cwd
+#$ -q sandbox
+#$ -pe mpi 16
+#$ -S /bin/bash
+
+set -e
+set -u
+set -o pipefail
+
+module load prinseq/v0.20.4
+module load pigz/v2.4
+
+SAMPLE=${PWD##*/}
+IN1=$(ls ../../rRNA_Filter/${SAMPLE}/${SAMPLE}*R1*fastq.gz)
+IN2=$(ls ../../rRNA_Filter/${SAMPLE}/${SAMPLE}*R2*fastq.gz)
+INUN1=${IN1%.*}
+INUN2=${IN2%.*}
+
+gunzip $IN1
+gunzip $IN2
+
+prinseq-lite.pl -fastq $INUN1 -fastq2 $INUN2 -out_format 3 \
+-out_good ${SAMPLE}.polyAtrim.rRNAdecon.QC \
+-out_bad BAD_${SAMPLE}.polyAtrim.rRNAdecon.QC \
+-log ${SAMPLE}_logfile.txt \
+-trim_tail_left 10 \
+-trim_tail_right 10 \
+-min_len 50
+
+pigz -p $NSLOTS $INUN1
+pigz -p $NSLOTS $INUN2
+
+grep -c "^+$" ${SAMPLE}.polyAtrim.rRNAdecon.QC_1.fastq
+grep -c "^+$" ${SAMPLE}.polyAtrim.rRNAdecon.QC_2.fastq
+cat ${SAMPLE}.polyAtrim.rRNAdecon.QC_1.fastq ${SAMPLE}.polyAtrim.rRNAdecon.QC_2.fastq | paste - - - - | cut -f 2 | tr -d '\n' | wc -c
+
+pigz -p $NSLOTS *.fastq

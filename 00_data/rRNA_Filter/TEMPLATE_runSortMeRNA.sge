@@ -1,0 +1,25 @@
+#$ -cwd
+#$ -q Annotation-3
+#$ -pe mpi 40
+#$ -S /bin/bash
+
+set -e
+set -u
+set -o pipefail
+
+module load sortmerna/v4.2.0
+module load pigz/v2.4
+
+REF=../R05_rRNA_clusters.fasta
+
+SAMPLE=${PWD##*/}
+IN1=$(ls ../../Trimmed/${SAMPLE}/${SAMPLE}*R1*QC.fastq)
+IN2=$(ls ../../Trimmed/${SAMPLE}/${SAMPLE}*R2*QC.fastq)
+
+sortmerna --workdir $PWD --fastx --other non_rRNA --paired_in --out2 --threads $NSLOTS \
+--ref $REF --reads $IN1 --reads $IN2
+
+mv non_rRNA_fwd.fastq ${SAMPLE}_R1.rRNAdecon.QC.fastq
+mv non_rRNA_rev.fastq ${SAMPLE}_R2.rRNAdecon.QC.fastq
+
+pigz -p $NSLOTS *fastq
