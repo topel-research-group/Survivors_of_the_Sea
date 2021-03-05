@@ -1,6 +1,6 @@
 #$ -cwd
-#$ -q sandbox
-#$ -pe mpi 16
+#$ -q Annotation-1
+#$ -pe mpi 20
 #$ -S /bin/bash
 
 set -e
@@ -12,8 +12,8 @@ module load samtools/v1.10
 
 REF=../../References/Skeletonema_marinoi_Ref_v1.1.2.fst
 SAMPLE=${PWD##*/}
-MATE1=$(ls ../../../00_data/Trimmed/${SAMPLE}/*R1*QC.fastq.gz)
-MATE2=$(ls ../../../00_data/Trimmed/${SAMPLE}/*R2*QC.fastq.gz)
+MATE1=$(ls ../../../00_data/PolyA_Removal/${SAMPLE}/${SAMPLE}.polyAtrim.rRNAdecon.QC_1.fastq)
+MATE2=$(ls ../../../00_data/PolyA_Removal/${SAMPLE}/${SAMPLE}.polyAtrim.rRNAdecon.QC_2.fastq)
 NAME=${SAMPLE}_vs_RefGenome.MaxInt10K
 
 # Not using `--no-unal` flag, so that unaligned reads can be checked more easily

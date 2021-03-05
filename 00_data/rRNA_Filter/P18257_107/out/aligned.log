@@ -1,0 +1,37 @@
+ Command:
+    sortmerna --workdir /proj/data25/Survivors_of_the_Sea/00_data/rRNA_Filter/P18257_107 --fastx --other non_rRNA --paired_in --out2 --threads 40 --ref ../R05_rRNA_clusters.fasta --reads ../../Trimmed/P18257_107/P18257_107_S92_L003_R1_001.QC.fastq --reads ../../Trimmed/P18257_107/P18257_107_S92_L003_R2_001.QC.fastq 
+
+ Process pid = 12012
+
+ Parameters summary: 
+    Reference file: ../R05_rRNA_clusters.fasta
+        Seed length = 18
+        Pass 1 = 18, Pass 2 = 9, Pass 3 = 3
+        Gumbel lambda = 0.605157
+        Gumbel K = 0.331486
+        Minimal SW score based on E-value = 51
+    Number of seeds = 2
+    Edges = 4
+    SW match = 2
+    SW mismatch = -3
+    SW gap open penalty = 5
+    SW gap extend penalty = 2
+    SW ambiguous nucleotide = -3
+    SQ tags are not output
+    Number of alignment processing threads = 40
+    Reads file: ../../Trimmed/P18257_107/P18257_107_S92_L003_R1_001.QC.fastq
+    Reads file: ../../Trimmed/P18257_107/P18257_107_S92_L003_R2_001.QC.fastq
+    Total reads = 28949648
+
+ Results:
+    Total reads passing E-value threshold = 110527 (0.38)
+    Total reads failing E-value threshold = 28839121 (99.62)
+    Minimum read length = 50
+    Maximum read length = 151
+    Mean read length    = 147
+
+ Coverage by database:
+    ../R05_rRNA_clusters.fasta		0.38
+
+ Wed Mar  3 23:03:57 2021
+

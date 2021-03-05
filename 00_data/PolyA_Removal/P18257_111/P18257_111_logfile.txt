@@ -1,0 +1,28 @@
+[prinseq-lite-0.20.4] [03/04/2021 09:18:40] Executing PRINSEQ with command: "perl prinseq-lite.pl -fastq ../../rRNA_Filter/P18257_111/P18257_111_R1.rRNAdecon.QC.fastq -fastq2 ../../rRNA_Filter/P18257_111/P18257_111_R2.rRNAdecon.QC.fastq -out_format 3 -trim_tail_left 10 -trim_tail_right 10 -log P18257_111_logfile.txt -min_len 50 -out_good P18257_111.polyAtrim.rRNAdecon.QC -out_bad BAD_P18257_111.polyAtrim.rRNAdecon.QC"
+[prinseq-lite-0.20.4] [03/04/2021 09:18:40] Parsing and processing input data: "../../rRNA_Filter/P18257_111/P18257_111_R1.rRNAdecon.QC.fastq" and "../../rRNA_Filter/P18257_111/P18257_111_R2.rRNAdecon.QC.fastq"
+[prinseq-lite-0.20.4] [03/04/2021 09:48:53] Done parsing and processing input data
+[prinseq-lite-0.20.4] [03/04/2021 09:52:59] Input sequences (file 1): 16,986,496
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Input bases (file 1): 2,503,527,088
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Input mean length (file 1): 147.38
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Input sequences (file 2): 16,986,496
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Input bases (file 2): 2,499,235,345
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Input mean length (file 2): 147.13
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Good sequences (pairs): 16,978,527
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Good bases (pairs): 5,000,510,051
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Good mean length (pairs): 294.52
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Good sequences (singletons file 1): 7,864 (0.05%)
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Good bases (singletons file 1): 1,158,316
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Good mean length (singletons file 1): 147.29
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Good sequences (singletons file 2): 92 (0.00%)
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Good bases (singletons file 2): 13,518
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Good mean length (singletons file 2): 146.93
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Bad sequences (file 1): 105 (0.00%)
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Bad bases (file 1): 10,627
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Bad mean length (file 1): 101.21
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Bad sequences (file 2): 7,877 (0.05%)
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Bad bases (file 2): 1,067,225
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Bad mean length (file 2): 135.49
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] Sequences filtered by specified parameters:
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] trim_tail_left: 67
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] trim_tail_right: 1
+[prinseq-lite-0.20.4] [03/04/2021 09:53:00] min_len: 7914
