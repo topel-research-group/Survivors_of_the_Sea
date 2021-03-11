@@ -1,0 +1,19 @@
+#$ -cwd
+#$ -q sandbox@compute-0-10
+#$ -pe mpi 16
+#$ -S /bin/bash
+
+module load salmon/v1.3.0
+
+SMAR_INDEX=Smar_R05_DeNovo.NoDups.WithDecoys_index
+READ_PATH=../../00_data/PolyA_Removal
+
+while read i; do
+	SAMPLE=${i}
+	echo "Processing sample ${SAMPLE}"
+	FWD=${READ_PATH}/${SAMPLE}/${SAMPLE}.polyAtrim.rRNAdecon.QC_1.fastq
+	REV=${READ_PATH}/${SAMPLE}/${SAMPLE}.polyAtrim.rRNAdecon.QC_2.fastq
+	
+	salmon quant -i $SMAR_INDEX -l A -1 $FWD -2 $REV \
+		-p $NSLOTS --gcBias --seqBias -o ${SAMPLE}
+done < ../../R05.lst

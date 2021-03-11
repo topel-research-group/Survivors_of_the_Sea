@@ -1,0 +1,52 @@
+Threads = 16
+Vertex length = 31
+Hash functions = 5
+Filter size = 1073741824
+Capacity = 2
+Files: 
+Smar_R05_DeNovo.NoDups.WithDecoys_index/ref_k31_fixed.fa
+--------------------------------------------------------------------------------
+Round 0, 0:1073741824
+Pass	Filling	Filtering
+1	9	19	
+2	8	0
+True junctions count = 586988
+False junctions count = 599655
+Hash table size = 1186643
+Candidate marks count = 5387845
+--------------------------------------------------------------------------------
+Reallocating bifurcations time: 1
+True marks count: 3818727
+Edges construction time: 10
+--------------------------------------------------------------------------------
+Distinct junctions = 586988
+
+for info, total work write each  : 2.331    total work inram from level 3 : 4.322  total work raw : 25.000 
+Bitarray       265483008  bits (100.00 %)   (array + ranks )
+final hash             0  bits (0.00 %) (nb in final hash 0)
+Threads = 16
+Vertex length = 31
+Hash functions = 5
+Filter size = 1073741824
+Capacity = 2
+Files: 
+Smar_GF04_DeNovo.NoDups.WithDecoys_index/ref_k31_fixed.fa
+--------------------------------------------------------------------------------
+Round 0, 0:1073741824
+Pass	Filling	Filtering
+1	8	18	
+2	8	0
+True junctions count = 776595
+False junctions count = 924102
+Hash table size = 1700697
+Candidate marks count = 6367056
+--------------------------------------------------------------------------------
+Reallocating bifurcations time: 4
+True marks count: 4291596
+Edges construction time: 9
+--------------------------------------------------------------------------------
+Distinct junctions = 776595
+
+for info, total work write each  : 2.331    total work inram from level 3 : 4.322  total work raw : 25.000 
+Bitarray       293658560  bits (100.00 %)   (array + ranks )
+final hash             0  bits (0.00 %) (nb in final hash 0)

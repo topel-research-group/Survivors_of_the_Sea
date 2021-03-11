@@ -24,7 +24,9 @@
 
 * R05 vegetative vs. R05 resting (each timepoint separately?)
 * GF04 vegetative vs. GF04 resting (each timepoint separately?)
-* All vegetative vs. All resting?
+
+* Can't run all vegetative vs. all resting as using two different references...
+  * Is this problematic...?
 
 ## Which transformation to use for heatmaps/PCA plots?
 * vst or rlog?
@@ -38,6 +40,7 @@
   * From the DESeq2 manual
     * "... `rlog` is more robust in the case when the size factors vary widely."
     * "The `rlog` is less sensitive to size factors, which can be an issue when size factors vary widely."
+
   * Wide difference in sequencing depth (between 9.4M and 48M reads), so `rlog` would be most appropriate
 
 * Blind or not?
@@ -49,9 +52,13 @@
 ## Samples to check
 * R05 control _103
   * Very separated from other controls in rlog, less so in vst
+* Many of the other samples seem to be mixed, which wasn't the case when quantifying vs. gene models
+
 * GF04 49d _112 (sorts itself with 72d samples...)
   * Very separated from other samples in rlog, but not in vst...
   * Batch effect?
   * Would need to remove a GF04 control _106 too, as this would be the only one in the other batch if so...
+* GF04 _136 also doesn't sort itself with the correct time group...
+  * Same pattern as when quantifying vs. gene models
 
 Would I need to remove the B samples from R05 too if I removed them from GF04...?

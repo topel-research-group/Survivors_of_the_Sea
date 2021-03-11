@@ -1,5 +1,5 @@
 # Quality control procedure
-1. FastQC - Illumina adaptor removal, quality trimming of bases with Phred score below 30, with a minimum read length of 50bp
+1. Cutadapt - Illumina adaptor removal, quality trimming of bases with Phred score below 30, with a minimum read length of 50bp
   * `Trimmed` directory
 2. SortMeRNA - Removal of rRNA sequences, based on the S. marinoi genome (and some manual checking of rRNA boundaries)
   * `rRNA_Filter` directory
