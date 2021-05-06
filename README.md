@@ -10,6 +10,7 @@
 2. Transcriptome assembly (separately for R05 and GF04)
   a. Trinity - de novo assembly, inclusion of jaccard_clip parameter to minimise fusion transcripts
   b. Transrate - verified versus the trimmed reads
+	* Run vs. Maker models?
   c. CD-HIT - removed a small number of transcripts with 100% identity (reduced number of multi-mappers)
 
 3. Mapping reads to transcriptome
@@ -17,9 +18,10 @@
      and should stop reads mapping to different transcripts
 
 4. Quantification of transcripts
-  a. `salmon quant`, attempted using two different methods:
-    i. Mapping-based quantification (using the reads and an index of the transcriptome)
-    ii. Alignment-based quantification (using the (unsorted) BAM file outputted by Bowtie2 above)
+  a. `featureCounts` in R, with the following parameter choices
+    i. `allowMultiOverlap=FALSE` - where two genes overlap and the reads map entirely to the overlap, this avoids ambiguity
+    ii. `largestOverlap=TRUE` - in cases where the overlap isn't complete, this should resolve the ambiguity
+    iii. `countMultiMappingReads=TRUE` - after Googling this parameter, `TRUE` seems like the best choice to avoid bias against homologues
 
 5. Differential expression analysis
   a. DESeq2 pipeline
@@ -27,10 +29,10 @@
        The DESeq2 manual also states that "the rlog transformation inherently accounts for differences in sequencing depth",
        and in our case, there are between 9.4M and 48M read pairs per sample
 
-## Issues
+### Previous steps
 
-1. Are the mapping rates acceptable?
-  * Between 73.91% and 86.39% of reads mapped to the assembled transcriptomes
-  * When using the indexing method (4. a. i. above), the mapping rates are
+4. ~Quantification of transcripts~
+  a. ~`salmon quant`, attempted using two different methods:~
+    i. ~Mapping-based quantification (using the reads and an index of the transcriptome)~
+    ii. ~Alignment-based quantification (using the (unsorted) BAM file outputted by Bowtie2 above)~
 
-2. Clustering

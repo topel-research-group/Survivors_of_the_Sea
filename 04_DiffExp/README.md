@@ -1,64 +1,60 @@
 # Differential expression analysis of vegetative vs. resting cells
 
-## Groups
+* R05/GF04 - require one read in at least three samples; no LFC filtering
+* R05_v2/GF04_v2 - require one read in at least three samples; LFC threshold 1/-1
+* R05_v3/GF04_v3 - require one read in at least TWO samples; LFC filtering 1/-1
 
-| Strain | Incubation (days) | n |
-|--------|-------------------|---|
-|  R05   |    0 (control)    | 3 |
-|  R05   |      49 (T1)      | 3 |
-|  R05   |      56 (T2)      | 3 |
-|  R05   |      72 (T3)      | 3 |
-|  R05   |      91 (T4)      | 3 |
-|  R05   |     126 (T5)      | 3 |
-|  R05   |     189 (T6)      | 2 |
-|--------|-------------------|---|
-|  GF04  |    0 (control)    | 3 |
-|  GF04  |      49 (T1)      | 3 |
-|  GF04  |      56 (T2)      | 3 |
-|  GF04  |      72 (T3)      | 3 |
-|  GF04  |      91 (T4)      | 3 |
-|  GF04  |     126 (T5)      | 3 |
-|  GF04  |     189 (T6)      | 2 |
+v2 and v3 are somewhat similar in terms of gene numbers
 
-## Which comparisons to make?
+## Observations by category
 
-* R05 vegetative vs. R05 resting (each timepoint separately?)
-* GF04 vegetative vs. GF04 resting (each timepoint separately?)
+1. What is turned off when resting (only present in vegetative)?
+2. What is turned on when resting (totally absent in vegetative)?
+3. Which genes increase in expression throughout resting?
+4. Which genes decrease in expression throughout resting?
+5. Which genes fall into subcategories of the above (e.g. only on during the final timepoint)?
 
-* Can't run all vegetative vs. all resting as using two different references...
-  * Is this problematic...?
 
-## Which transformation to use for heatmaps/PCA plots?
-* vst or rlog?
-  * Notes from [DESeq2 paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8):
-    * "The rlog transformation accounts for variation in sequencing depth across samples"  
-    * "... while the VST is also effective at stabilizing variance, it does not directly take into account  
-      differences in size factors; and in datasets with large variation in sequencing depth (dynamic range of  
-      size factors ≳4) we observed undesirable artifacts in the performance of the VST."  
-    * "A disadvantage of the rlog transformation with respect to the VST is, however, that the ordering of genes  
-      within a sample will change if neighboring genes undergo shrinkage of different strength."
-  * From the DESeq2 manual
-    * "... `rlog` is more robust in the case when the size factors vary widely."
-    * "The `rlog` is less sensitive to size factors, which can be an issue when size factors vary widely."
+## Initial observations
 
-  * Wide difference in sequencing depth (between 9.4M and 48M reads), so `rlog` would be most appropriate
+* Based on the heatmap and PCA, the vegetative cells have VERY different expression patterns versus the resting stages
+* R05 189d relatively distant from other resting timepoints, AND from one another...
+  * Worth redoing the analysis without 189d?
+* GF04 resting stages seem to cluster together rather more cleanly...
 
-* Blind or not?
-  * Likely NOT
-  * Note from [DESeq2 vignette](http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html):
-    * "... blind dispersion estimation is not the appropriate choice if one expects that many or the majority of  
-      genes (rows) will have large differences in counts which are explainable by the experimental design..."
+Some concerns; looking at downregulated-in-resting genes...
+* Sm_t00017228-RA appears to be the top downregulated-in-56d gene in R05, but looking at the plotCounts plot, 2/3 of the vegetative
+  samples show no expression...
 
-## Samples to check
-* R05 control _103
-  * Very separated from other controls in rlog, less so in vst
-* Many of the other samples seem to be mixed, which wasn't the case when quantifying vs. gene models
+## Interesting results (based on expression of v1.1.2 models)
 
-* GF04 49d _112 (sorts itself with 72d samples...)
-  * Very separated from other samples in rlog, but not in vst...
-  * Batch effect?
-  * Would need to remove a GF04 control _106 too, as this would be the only one in the other batch if so...
-* GF04 _136 also doesn't sort itself with the correct time group...
-  * Same pattern as when quantifying vs. gene models
+* Sm_t00012191-RA appears to be a fatty acid desaturase, and is upregulated in all resting stage timepoints in both strains
+  * This would seem to be consistent with existing findings on resting stage storage compounds- from Ellegaard & Ribeiro, 2017:
+    "In C. curvisetus (and other diatoms) changes in the composition of fatty acids were recorded,
+     mainly consisting of increased amounts of neutral lipids and UNSATURATED FATTY ACIDS (e.g. Kuwata et al., 1993)."
 
-Would I need to remove the B samples from R05 too if I removed them from GF04...?
+* Other genes seemingly upregulated in all R05 resting stages vs. vegetative, and in the top ten in terms of upregulation
+  * Sm_t00003059-RA
+  * Sm_t00009227-RA
+  * Sm_t00018719-RA - PA14
+  * Sm_t00021541-RA
+* Sm_t00009316-RA (heat shock factor) and Sm_t00019204-RA (chitin synthase activity) are both in the top ten of 5/6 comparisons
+
+* Other genes seemingly upregulated in all GF04 resting stages vs. vegetative, and in the top ten in terms of upregulation
+  * Sm_t00002056-RA - YjgF/chorismate_mutase-like, putative endoribonuclease
+  * Sm_t00006630-RA
+  * Sm_t00009980-RA
+  * Sm_t00012155-RA - Rit1 N-terminal domain
+  * Sm_t00021963-RA
+* Sm_t00009520-RA (Bacterial protein of unknown function (DUF839)) is in the top ten of 5/6 comparisons
+
+* Sm_t00009759-RA is the only gene in R05 which is significantly downregulated in 189d vs. 126d
+  * Down in 49d, up again in 56d, then gradually down
+  * Same general pattern in GF04, albeit with more spread of normalised counts so less significant
+* Sm_t00002815-RA is the only gene in GF04 which is significantly downregulated in 189d vs. 126d
+  * Gradual downregulation over time
+  * Same general pattern in R05, albeit with more spread of normalised counts so less significant
+
+
+* Regarding GO terms, ribosome-related GO terms appear to be upregulated in ALL resting stages vs. vegetative
+  * Consistent with Pelosi's findings in Chaetoceros socialis (doctoral thesis, 2018)

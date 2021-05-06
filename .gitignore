@@ -37,3 +37,6 @@
 03_quantification/MappingBasedMode/runSalmon.*.sge.o*
 03_quantification/MappingBasedMode/runSalmonIndex.sge.e*
 */OLD*
+04_DiffExp/R05*/*d/
+04_DiffExp/GF04*/*d/
+04_DiffExp/GF04*/without_outlier/*d/
