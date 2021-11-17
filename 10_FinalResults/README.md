@@ -11,8 +11,6 @@ Relevance: Energy release from fats, carbohydrates and proteins, and production 
 
 The cycle overall seems to have a 56d uptick, slightly delayed after addition of nutrients, before dropping
 
-### R05
-![R05_TCA_Cycle_partial](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.lfc0.png)
-
-### GF04
-![GF04_TCA_Cycle_partial](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.lfc0.png)
+| R05 | GF04 |
+|-----|------|
+| ![R05_TCA_Cycle_partial](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.lfc0.png) | ![GF04_TCA_Cycle_partial](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.lfc0.png) |
