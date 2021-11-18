@@ -56,3 +56,15 @@ _Are there any more glutamine synthetases I'm missing?_
 | R05 | GF04 |
 |-----|------|
 | ![R05_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.R05.lfc0.png) | ![GF04_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.GF04.lfc0.png) |
+
+### Ribosomes
+Relevance: Potential nitrogen storage, or protein synthesis is in overdrive to ensure survival
+
+Ribosomal proteins are upregulated at all timepoints during the experiment
+* R05 has a peak at 49d
+* GF04 has a peak at 56d
+_Likely missing some ribosomal proteins at the moment_
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_RibosomalProteins](../08_GenesToLookFor/GeneChecks/RibosomalProteins/RibosomalProteins.R05.lfc0.png) | ![GF04_RibosomalProteins](../08_GenesToLookFor/GeneChecks/RibosomalProteins/RibosomalProteins.GF04.lfc0.png) |
