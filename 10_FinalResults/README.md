@@ -46,3 +46,13 @@ _Some genes still need to be checked_
 | R05 | GF04 |
 |-----|------|
 | ![R05_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.R05.lfc0.png) | ![GF04_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.GF04.lfc0.png) |
+
+### GS-GOGAT cycle
+Relevance: Ammonium assimmilation (i.e. downstream from DNRA?)
+
+Two glutamate synthases seem to be upregulated  throughout
+_Are there any more glutamine synthetases I'm missing?_
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.R05.lfc0.png) | ![GF04_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.GF04.lfc0.png) |
