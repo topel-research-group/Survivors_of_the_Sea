@@ -18,7 +18,7 @@ The cycle overall seems to have a 56d uptick, slightly delayed after addition of
 
 ### Urea Cycle
 a.k.a. ornithine-urea cycle  
-**Relevance:** Production of urea, potential nitrogen storage? __check specifics in literature__
+**Relevance:** Production of urea, potential nitrogen storage? _Check specifics in literature_
 
 Parts of the cycle are upregulated at all times, some experience an uptick, others are downregulated
 * What is the consequence of this regarding accumulation of intermediates?
@@ -26,3 +26,13 @@ Parts of the cycle are upregulated at all times, some experience an uptick, othe
 | R05 | GF04 |
 |-----|------|
 | ![R05_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.R05.lfc0.png) | ![GF04_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.GF04.lfc0.png) |
+
+### Glycolysis
+Relevance: Ultimately leads to the production of pyruvate and energy
+
+Need to check that all annotations are correct, but very little seems to be regulated; SOME upregulation at 56d?  
+_Results below are preliminary_
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_Glycolysis_prelim](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.R05.lfc0.png) | ![GF04_Glycolysis_prelim](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.GF04.lfc0.png) |
