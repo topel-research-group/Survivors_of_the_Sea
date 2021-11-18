@@ -28,9 +28,10 @@ Parts of the cycle are upregulated at all times, some experience an uptick, othe
 | ![R05_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.R05.lfc0.png) | ![GF04_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.GF04.lfc0.png) |
 
 ### Glycolysis
-Relevance: Ultimately leads to the production of pyruvate and energy
+**Relevance**: Ultimately leads to the production of pyruvate and energy
 
-Need to check that all annotations are correct, but very little seems to be regulated; SOME upregulation at 56d?  
+Need to check that all annotations are correct, but very little seems to be regulated; SOME upregulation at 56d?
+
 _Results below are preliminary; some genes may be unaccounted for_
 
 | R05 | GF04 |
@@ -38,9 +39,10 @@ _Results below are preliminary; some genes may be unaccounted for_
 | ![R05_Glycolysis_prelim](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.R05.lfc0.png) | ![GF04_Glycolysis_prelim](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.GF04.lfc0.png) |
 
 ### Gluconeogenesis
-Relevance: Production of hexoses from pyruvate as fuel for storage carbohydrate synthesis
+**Relevance**: Production of hexoses from pyruvate as fuel for storage carbohydrate synthesis
 
-Seems to be upregulated overall, to varying degrees  
+Seems to be upregulated overall, to varying degrees
+
 _Some genes still need to be checked_
 
 | R05 | GF04 |
@@ -48,9 +50,10 @@ _Some genes still need to be checked_
 | ![R05_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.R05.lfc0.png) | ![GF04_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.GF04.lfc0.png) |
 
 ### GS-GOGAT cycle
-Relevance: Ammonium assimmilation (i.e. downstream from DNRA?)
+**Relevance**: Ammonium assimmilation (i.e. downstream from DNRA?)
 
 Two glutamate synthases seem to be upregulated  throughout
+
 _Are there any more glutamine synthetases I'm missing?_
 
 | R05 | GF04 |
@@ -58,11 +61,12 @@ _Are there any more glutamine synthetases I'm missing?_
 | ![R05_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.R05.lfc0.png) | ![GF04_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.GF04.lfc0.png) |
 
 ### Ribosomes
-Relevance: Potential nitrogen storage, or protein synthesis is in overdrive to ensure survival
+**Relevance**: Potential nitrogen storage, or protein synthesis is in overdrive to ensure survival
 
 Ribosomal proteins are upregulated at all timepoints during the experiment
 * R05 has a peak at 49d
 * GF04 has a peak at 56d
+
 _Likely missing some ribosomal proteins at the moment_
 
 | R05 | GF04 |
