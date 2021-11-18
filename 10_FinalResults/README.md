@@ -31,8 +31,18 @@ Parts of the cycle are upregulated at all times, some experience an uptick, othe
 Relevance: Ultimately leads to the production of pyruvate and energy
 
 Need to check that all annotations are correct, but very little seems to be regulated; SOME upregulation at 56d?  
-_Results below are preliminary_
+_Results below are preliminary; some genes may be unaccounted for_
 
 | R05 | GF04 |
 |-----|------|
 | ![R05_Glycolysis_prelim](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.R05.lfc0.png) | ![GF04_Glycolysis_prelim](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.GF04.lfc0.png) |
+
+### Gluconeogenesis
+Relevance: Production of hexoses from pyruvate as fuel for storage carbohydrate synthesis
+
+Seems to be upregulated overall, to varying degrees  
+_Some genes still need to be checked_
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.R05.lfc0.png) | ![GF04_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.GF04.lfc0.png) |
