@@ -72,3 +72,18 @@ _Likely missing some ribosomal proteins at the moment_
 | R05 | GF04 |
 |-----|------|
 | ![R05_RibosomalProteins](../08_GenesToLookFor/GeneChecks/RibosomalProteins/RibosomalProteins.R05.lfc0.png) | ![GF04_RibosomalProteins](../08_GenesToLookFor/GeneChecks/RibosomalProteins/RibosomalProteins.GF04.lfc0.png) |
+
+### DNRA
+**Relevance**: Phenomenon seen in several diatoms as a means of anaerobic energy generation
+
+Both nitrate reductase (Sm_t00006755-RA) and nitrite reductase (Sm_t00001748-RA) show increased expression at 49d before dropping
+* Nitrate reductase shows LFC 3.93 increase at 49d in R05, LFC 8.15 increase at 49d in GF04 (upregulated throughout)
+* Nitrite reductase shows LFC 2.66 increase at 49d in R05, LFC 5.35 increase at 49d in GF04
+  * Downregulated in all subsequent R05 timepoints, upregulated at 56/72d in GF04 (down at 189d, rest not significant)
+* Nitric oxide reductase ()
+* No nitrous oxide reductase found
+* This is consistent with expectations regarding resting stages being capable of DNRA
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.R05.lfc0.png) | ![GF04_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.GF04.lfc0.png) |
