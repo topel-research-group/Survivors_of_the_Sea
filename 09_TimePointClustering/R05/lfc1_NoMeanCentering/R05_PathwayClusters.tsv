@@ -1,0 +1,594 @@
+L-ornithine biosynthesis II	{'NA': 13, 'Cluster 44': 1, 'Cluster 16': 1, 'Cluster 46': 1, 'Cluster 47': 1}
+L-threonine degradation V	{'NA': 3}
+nucleoside and nucleotide degradation (archaea)	{'NA': 9, 'Cluster 1': 2, 'Cluster 39': 1}
+purine ribonucleosides degradation	{'NA': 12}
+diphthamide biosynthesis I (archaea)	{'NA': 5, 'Cluster 38': 1, 'Cluster 48': 1}
+methylglyoxal degradation V	{'NA': 19, 'Cluster 7': 2, 'Cluster 17': 1, 'Cluster 74': 2, 'Cluster 39': 1, 'Cluster 12': 1}
+L-alanine degradation V (oxidative Stickland reaction)	{'NA': 9, 'Cluster 20': 1}
+C4 photosynthetic carbon assimilation cycle, NAD-ME type	{'NA': 54, 'Cluster 8': 3, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2, 'Cluster 20': 1, 'Cluster 42': 1, 'Cluster 23': 1, 'Cluster 65': 1}
+acetoacetate degradation (to acetyl CoA)	{'NA': 7}
+4-hydroxybenzoate biosynthesis III (plants)	{'NA': 8}
+3-phosphoinositide biosynthesis	{'NA': 12, 'Cluster 43': 1, 'Cluster 28': 1}
+purine deoxyribonucleosides degradation I	{'NA': 12}
+L-serine biosynthesis II	{'NA': 1}
+L-histidine degradation V	{'NA': 2}
+urea degradation II	{'NA': 2}
+photorespiration	{'NA': 15, 'Cluster 1': 2}
+3-(4-hydroxyphenyl)pyruvate biosynthesis	{'NA': 41, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+phytosterol biosynthesis (plants)	{'NA': 5, 'Cluster 39': 1}
+purine deoxyribonucleosides degradation II	{'NA': 12}
+NADPH repair (prokaryotes)	{'NA': 2}
+chlorophyll <i>a</i> biosynthesis II	{'NA': 4, 'Cluster 39': 1}
+glucosinolate biosynthesis from pentahomomethionine	{'NA': 2}
+flavin biosynthesis II (archaea)	{'NA': 8, 'Cluster 67': 1, 'Cluster 7': 1}
+D-gluconate degradation	{'NA': 2}
+testosterone degradation (anaerobic)	{'NA': 0, 'Cluster 77': 1}
+glucosinolate biosynthesis from tyrosine	{'NA': 2}
+D-galactose detoxification	{'NA': 7, 'Cluster 80': 1, 'Cluster 55': 1}
+complex <i>N</i>-linked glycan biosynthesis (vertebrates)	{'NA': 6, 'Cluster 55': 1}
+L-proline degradation I	{'NA': 1}
+adenosine nucleotides degradation I	{'NA': 18, 'Cluster 25': 2, 'Cluster 31': 2, 'Cluster 69': 1, 'Cluster 66': 1, 'Cluster 17': 1, 'Cluster 5': 1}
+NADH repair (prokaryotes)	{'NA': 2}
+pyridoxal 5'-phosphate salvage I	{'NA': 7, 'Cluster 27': 1, 'Cluster 3': 1}
+5-hydroxybenzimidazole biosynthesis (anaerobic)	{'NA': 1}
+pyruvate fermentation to butanol I	{'NA': 47, 'Cluster 21': 1, 'Cluster 26': 1, 'Cluster 55': 1}
+superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis	{'NA': 75, 'Cluster 83': 1, 'Cluster 77': 1, 'Cluster 17': 2, 'Cluster 67': 2, 'Cluster 31': 1, 'Cluster 5': 2, 'Cluster 47': 2, 'Cluster 29': 1, 'Cluster 28': 1, 'Cluster 16': 2, 'Cluster 8': 1, 'Cluster 2': 2, 'Cluster 1': 1, 'Cluster 25': 1, 'Cluster 59': 1, 'Cluster 9': 2, 'Cluster 72': 1, 'Cluster 66': 1, 'Cluster 36': 1, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 51': 2, 'Cluster 63': 1, 'Cluster 46': 1}
+queuosine biosynthesis I (<i>de novo</i>)	{'NA': 6, 'Cluster 17': 1}
+xanthommatin biosynthesis	{'NA': 0, 'Cluster 51': 1}
+inosine 5'-phosphate degradation	{'NA': 9, 'Cluster 25': 2, 'Cluster 31': 2, 'Cluster 69': 1, 'Cluster 66': 1}
+L-carnitine biosynthesis	{'NA': 3, 'Cluster 3': 1}
+cytochrome <i>c</i> biogenesis (system III type)	{'NA': 2}
+glycosaminoglycan-protein linkage region biosynthesis	{'NA': 2}
+NAD salvage pathway III (to nicotinamide riboside)	{'NA': 6, 'Cluster 83': 1, 'Cluster 66': 1}
+C4 photosynthetic carbon assimilation cycle, PEPCK type	{'NA': 51, 'Cluster 8': 3, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2, 'Cluster 20': 1, 'Cluster 23': 1, 'Cluster 65': 1}
+stearate biosynthesis I (animals)	{'NA': 15, 'Cluster 5': 1, 'Cluster 37': 1, 'Cluster 19': 1, 'Cluster 3': 1, 'Cluster 32': 1, 'Cluster 30': 1}
+thiamine diphosphate salvage III	{'NA': 3}
+2-methyl-branched fatty acid &beta;-oxidation	{'NA': 58, 'Cluster 8': 1, 'Cluster 37': 1, 'Cluster 19': 1, 'Cluster 3': 1, 'Cluster 32': 1, 'Cluster 30': 1, 'Cluster 55': 1, 'Cluster 26': 1, 'Cluster 21': 1}
+pentose phosphate pathway (oxidative branch) I	{'NA': 4, 'Cluster 2': 1, 'Cluster 3': 1, 'Cluster 67': 1}
+linamarin degradation	{'NA': 1}
+pyruvate decarboxylation to acetyl CoA III	{'NA': 8}
+thiosulfate oxidation III (multienzyme complex)	{'NA': 6, 'Cluster 34': 1, 'Cluster 25': 1}
+phytochelatins biosynthesis	{'NA': 2, 'Cluster 15': 1, 'Cluster 17': 1, 'Cluster 7': 1}
+acetate and ATP formation from acetyl-CoA II	{'NA': 1}
+even <i>iso</i>-branched-chain fatty acid biosynthesis	{'NA': 7, 'Cluster 11': 1, 'Cluster 24': 1}
+sphingomyelin metabolism	{'NA': 8, 'Cluster 72': 1}
+2-methyladeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	{'NA': 2, 'Cluster 77': 1}
+sterol:steryl ester interconversion (yeast)	{'NA': 1}
+arsenic detoxification (mammals)	{'NA': 7, 'Cluster 33': 1}
+L-asparagine biosynthesis I	{'NA': 5, 'Cluster 25': 1, 'Cluster 8': 1, 'Cluster 15': 1}
+L-arginine degradation VI (arginase 2 pathway)	{'NA': 13, 'Cluster 39': 1, 'Cluster 31': 1}
+choline biosynthesis III	{'NA': 10, 'Cluster 3': 2}
+jasmonic acid biosynthesis	{'NA': 19, 'Cluster 25': 1, 'Cluster 87': 1, 'Cluster 8': 1}
+pyrimidine deoxyribonucleotides dephosphorylation	{'NA': 27, 'Cluster 83': 1, 'Cluster 77': 1, 'Cluster 17': 1, 'Cluster 67': 1, 'Cluster 31': 1, 'Cluster 5': 2, 'Cluster 47': 1, 'Cluster 29': 1, 'Cluster 28': 1, 'Cluster 16': 1, 'Cluster 8': 1, 'Cluster 2': 1, 'Cluster 1': 1}
+xylan biosynthesis	{'NA': 2}
+pentose phosphate pathway (partial)	{'NA': 7}
+NAD salvage pathway IV (from nicotinamide riboside)	{'NA': 0, 'Cluster 17': 1}
+very long chain fatty acid biosynthesis II	{'NA': 36, 'Cluster 5': 1, 'Cluster 21': 1, 'Cluster 26': 1, 'Cluster 55': 1, 'Cluster 38': 1}
+ppGpp metabolism	{'NA': 6, 'Cluster 33': 1, 'Cluster 67': 1}
+pyrimidine deoxyribonucleotides biosynthesis from CTP	{'NA': 25, 'Cluster 2': 1, 'Cluster 25': 1, 'Cluster 59': 1, 'Cluster 9': 1, 'Cluster 72': 1, 'Cluster 67': 1, 'Cluster 17': 1, 'Cluster 66': 1, 'Cluster 36': 1}
+cytosolic NADPH production (yeast)	{'NA': 8, 'Cluster 33': 1, 'Cluster 12': 1}
+2-deoxy-D-glucose 6-phosphate degradation	{'NA': 0, 'Cluster 18': 1}
+creatine phosphate biosynthesis	{'NA': 0, 'Cluster 31': 1}
+UTP and CTP dephosphorylation I	{'NA': 11, 'Cluster 17': 1, 'Cluster 66': 1, 'Cluster 67': 1}
+sulfoquinovosyl diacylglycerol biosynthesis	{'NA': 0, 'Cluster 35': 1}
+thiamine diphosphate biosynthesis III (Staphylococcus)	{'NA': 4, 'Cluster 19': 1}
+cardiolipin biosynthesis II	{'NA': 4}
+phosphatidylcholine biosynthesis I	{'NA': 4}
+guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I	{'NA': 5, 'Cluster 9': 1, 'Cluster 59': 1, 'Cluster 72': 1, 'Cluster 25': 1}
+ribose phosphorylation	{'NA': 2, 'Cluster 16': 1}
+L-asparagine biosynthesis III (tRNA-dependent)	{'NA': 19, 'Cluster 69': 1, 'Cluster 15': 1, 'Cluster 8': 1, 'Cluster 25': 1, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1, 'Cluster 47': 1, 'Cluster 2': 1, 'Cluster 22': 1, 'Cluster 33': 1}
+L-tryptophan biosynthesis	{'NA': 21, 'Cluster 17': 1, 'Cluster 46': 1, 'Cluster 30': 1, 'Cluster 25': 2, 'Cluster 41': 1, 'Cluster 13': 1, 'Cluster 60': 1, 'Cluster 37': 1, 'Cluster 16': 1, 'Cluster 14': 1}
+docosahexaenoate biosynthesis III (6-desaturase, mammals)	{'NA': 48, 'Cluster 38': 1, 'Cluster 8': 1, 'Cluster 21': 1, 'Cluster 26': 1, 'Cluster 55': 1}
+canavanine degradation	{'NA': 9, 'Cluster 39': 1, 'Cluster 31': 1}
+pentose phosphate pathway (non-oxidative branch) I	{'NA': 11, 'Cluster 28': 1}
+stachyose degradation	{'NA': 8, 'Cluster 6': 1, 'Cluster 80': 1, 'Cluster 55': 1, 'Cluster 2': 1}
+trehalose biosynthesis I	{'NA': 3}
+L-citrulline biosynthesis	{'NA': 41, 'Cluster 69': 1, 'Cluster 15': 1, 'Cluster 8': 1, 'Cluster 25': 1, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1, 'Cluster 47': 2, 'Cluster 2': 1, 'Cluster 22': 1, 'Cluster 33': 1, 'Cluster 39': 1, 'Cluster 31': 1, 'Cluster 16': 1, 'Cluster 46': 1}
+sucrose biosynthesis II	{'NA': 36, 'Cluster 16': 1, 'Cluster 45': 1, 'Cluster 77': 1, 'Cluster 67': 2, 'Cluster 55': 1, 'Cluster 23': 1, 'Cluster 2': 1, 'Cluster 44': 2}
+phytyl diphosphate biosynthesis	{'NA': 1}
+mucin core 1 and core 2 <i>O</i>-glycosylation	{'NA': 9, 'Cluster 13': 1}
+pinobanksin biosynthesis	{'NA': 17, 'Cluster 64': 1, 'Cluster 7': 1, 'Cluster 29': 1}
+hentriaconta-3,6,9,12,15,19,22,25,28-nonaene biosynthesis	{'NA': 1}
+Rubisco shunt	{'NA': 26, 'Cluster 1': 2, 'Cluster 28': 1, 'Cluster 39': 1, 'Cluster 11': 1, 'Cluster 26': 1, 'Cluster 47': 1, 'Cluster 64': 1, 'Cluster 16': 1}
+L-serine degradation	{'NA': 3, 'Cluster 47': 1}
+glutaminyl-tRNA<sup>gln</sup> biosynthesis via transamidation	{'NA': 19, 'Cluster 69': 1, 'Cluster 15': 1, 'Cluster 8': 1, 'Cluster 25': 1, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1, 'Cluster 47': 1, 'Cluster 2': 1, 'Cluster 22': 1, 'Cluster 33': 1}
+(1,4)-&beta;-D-xylan degradation	{'NA': 2}
+L-alanine degradation IV	{'NA': 1, 'Cluster 75': 1, 'Cluster 42': 1}
+urate conversion to allantoin I	{'NA': 0, 'Cluster 2': 1}
+L-aspartate degradation I	{'NA': 40, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+procollagen hydroxylation and glycosylation	{'NA': 8, 'Cluster 38': 1, 'Cluster 64': 1}
+geranyl acetate biosynthesis	{'NA': 2}
+4-hydroxy-2-nonenal detoxification	{'NA': 17, 'Cluster 8': 1, 'Cluster 14': 1, 'Cluster 59': 1, 'Cluster 7': 1, 'Cluster 56': 1, 'Cluster 2': 1, 'Cluster 66': 1}
+cholesterol biosynthesis (plants, early side-chain reductase)	{'NA': 5, 'Cluster 77': 1, 'Cluster 39': 1}
+L-alanine degradation II (to D-lactate)	{'NA': 13, 'Cluster 20': 1, 'Cluster 44': 1, 'Cluster 38': 1, 'Cluster 36': 1, 'Cluster 11': 1}
+Calvin-Benson-Bassham cycle	{'NA': 26, 'Cluster 1': 2, 'Cluster 46': 1, 'Cluster 30': 1, 'Cluster 24': 1, 'Cluster 26': 1, 'Cluster 31': 1, 'Cluster 19': 1, 'Cluster 39': 1}
+volatile esters biosynthesis (during fruit ripening)	{'NA': 2}
+(8<i>E</i>,10<i>E</i>)-dodeca-8,10-dienol biosynthesis	{'NA': 47, 'Cluster 55': 1, 'Cluster 26': 1, 'Cluster 21': 1, 'Cluster 8': 1}
+3-methylthiopropanoate biosynthesis	{'NA': 1}
+xanthine and xanthosine salvage	{'NA': 3}
+pyrimidine deoxyribonucleosides degradation	{'NA': 22, 'Cluster 18': 1}
+L-arginine degradation VII (arginase 3 pathway)	{'NA': 12, 'Cluster 39': 1, 'Cluster 31': 1}
+L-asparagine degradation III (mammalian)	{'NA': 43, 'Cluster 22': 1, 'Cluster 33': 1, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+violaxanthin, antheraxanthin and zeaxanthin interconversion	{'NA': 8, 'Cluster 47': 1}
+UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II	{'NA': 10, 'Cluster 55': 2, 'Cluster 7': 1, 'Cluster 67': 1, 'Cluster 23': 1, 'Cluster 44': 1}
+juniperonate biosynthesis	{'NA': 3, 'Cluster 5': 1, 'Cluster 38': 1}
+taurine biosynthesis II	{'NA': 1}
+<i>Spodoptera littoralis</i> pheromone biosynthesis	{'NA': 47, 'Cluster 8': 1, 'Cluster 21': 1, 'Cluster 26': 1, 'Cluster 55': 1}
+hydroxymethylpyrimidine salvage	{'NA': 2}
+phosphatidylserine and phosphatidylethanolamine biosynthesis I	{'NA': 2}
+phosphatidylcholine biosynthesis VII	{'NA': 1}
+nitric oxide biosynthesis I (plants)	{'NA': 12, 'Cluster 64': 1, 'Cluster 8': 1}
+phosphatidylcholine acyl editing	{'NA': 12, 'Cluster 30': 1, 'Cluster 32': 1, 'Cluster 3': 1, 'Cluster 19': 1, 'Cluster 37': 1}
+4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis I	{'NA': 3}
+cellulose degradation II (fungi)	{'NA': 4, 'Cluster 66': 1, 'Cluster 29': 1}
+L-glutamate degradation VI (to pyruvate)	{'NA': 1}
+L-cysteine degradation II	{'NA': 1, 'Cluster 31': 1}
+adenosine deoxyribonucleotides <i>de novo</i> biosynthesis I	{'NA': 5, 'Cluster 9': 1, 'Cluster 59': 1, 'Cluster 72': 1, 'Cluster 25': 1}
+L-cysteine biosynthesis VII (from <i>S</i>-sulfo-L-cysteine)	{'NA': 3}
+putrescine biosynthesis III	{'NA': 11, 'Cluster 1': 1, 'Cluster 39': 1, 'Cluster 31': 1}
+pyrimidine ribonucleosides salvage II	{'NA': 21, 'Cluster 18': 1, 'Cluster 17': 1, 'Cluster 5': 1}
+L-tyrosine biosynthesis IV	{'NA': 1, 'Cluster 34': 1}
+superpathway of sterol biosynthesis in diatoms	{'NA': 5, 'Cluster 39': 1, 'Cluster 77': 1}
+heme <i>a</i> biosynthesis	{'NA': 1, 'Cluster 33': 1}
+propanoyl CoA degradation I	{'NA': 6}
+L-phenylalanine degradation I (aerobic)	{'NA': 1, 'Cluster 34': 1}
+UDP-&alpha;-D-galactofuranose biosynthesis	{'NA': 3, 'Cluster 6': 1}
+cell-surface glycoconjugate-linked phosphocholine biosynthesis	{'NA': 4}
+<i>cis</i>-alkene biosynthesis	{'NA': 1}
+chitin deacetylation	{'NA': 6, 'Cluster 41': 1, 'Cluster 42': 1}
+xyloglucan degradation II (exoglucanase)	{'NA': 1}
+CO<sub>2</sub> fixation into oxaloacetate (anaplerotic)	{'NA': 9, 'Cluster 8': 3, 'Cluster 23': 1, 'Cluster 65': 1}
+thiamine diphosphate biosynthesis I (E. coli)	{'NA': 1, 'Cluster 19': 1}
+glycogen degradation II	{'NA': 33, 'Cluster 19': 1, 'Cluster 12': 1, 'Cluster 16': 1, 'Cluster 45': 1, 'Cluster 77': 1, 'Cluster 67': 2, 'Cluster 2': 1, 'Cluster 44': 2}
+CMP phosphorylation	{'NA': 14, 'Cluster 51': 2, 'Cluster 63': 1, 'Cluster 60': 1}
+L-citrulline degradation	{'NA': 10, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1}
+allantoin degradation to ureidoglycolate I (urea producing)	{'NA': 0, 'Cluster 41': 1, 'Cluster 8': 1}
+L-tryptophan degradation II (via pyruvate)	{'NA': 2, 'Cluster 56': 1}
+thiamine diphosphate biosynthesis II (Bacillus)	{'NA': 1, 'Cluster 19': 1}
+Kdo transfer to lipid IV<sub>A</sub> I (E. coli)	{'NA': 3, 'Cluster 33': 1, 'Cluster 64': 1, 'Cluster 48': 1}
+phytol degradation	{'NA': 15, 'Cluster 30': 1, 'Cluster 32': 1, 'Cluster 3': 1, 'Cluster 19': 1, 'Cluster 37': 1}
+maltose degradation	{'NA': 1}
+dTDP-&beta;-L-rhamnose biosynthesis	{'NA': 2, 'Cluster 5': 1}
+L-valine biosynthesis	{'NA': 3, 'Cluster 11': 1}
+pyrimidine ribonucleosides degradation	{'NA': 22, 'Cluster 18': 1}
+L-lysine biosynthesis VI	{'NA': 39, 'Cluster 16': 1, 'Cluster 47': 1, 'Cluster 46': 2, 'Cluster 7': 2, 'Cluster 1': 1, 'Cluster 25': 1, 'Cluster 12': 1, 'Cluster 24': 1, 'Cluster 56': 2, 'Cluster 36': 1, 'Cluster 26': 1, 'Cluster 8': 1}
+L-methionine degradation III	{'NA': 2}
+D-<i>myo</i>-inositol-5-phosphate metabolism	{'NA': 4}
+xyloglucan degradation III (cellobiohydrolase)	{'NA': 1}
+geranyl diphosphate biosynthesis	{'NA': 7, 'Cluster 7': 1, 'Cluster 25': 1, 'Cluster 51': 1, 'Cluster 52': 1, 'Cluster 59': 1, 'Cluster 28': 1, 'Cluster 1': 1}
+phosphopantothenate biosynthesis III (archaea)	{'NA': 3}
+protein <i>N</i>-glycosylation initial phase (eukaryotic)	{'NA': 20}
+L-rhamnose degradation II	{'NA': 2}
+L-glutamine degradation II	{'NA': 0, 'Cluster 2': 1}
+pyrimidine ribonucleosides salvage I	{'NA': 23, 'Cluster 18': 1, 'Cluster 39': 1}
+Kdo transfer to lipid IV<sub>A</sub> (<i>P. gingivalis</i>)	{'NA': 3, 'Cluster 33': 1, 'Cluster 64': 1, 'Cluster 48': 1}
+pyrimidine nucleobases salvage I	{'NA': 2}
+starch degradation I	{'NA': 1}
+melibiose degradation	{'NA': 0, 'Cluster 6': 1}
+phosphopantothenate biosynthesis I	{'NA': 5, 'Cluster 60': 1}
+phosphatidylinositol biosynthesis II (eukaryotes)	{'NA': 2}
+protein <I>O</i>-mannosylation II (mammals, core M1 and core M2)	{'NA': 5}
+anandamide degradation	{'NA': 1}
+sucrose degradation III (sucrose invertase)	{'NA': 8, 'Cluster 16': 1, 'Cluster 23': 1, 'Cluster 44': 1, 'Cluster 31': 1}
+formaldehyde oxidation II (glutathione-dependent)	{'NA': 2, 'Cluster 55': 1, 'Cluster 3': 1}
+ATP biosynthesis	{'NA': 34, 'Cluster 66': 3, 'Cluster 34': 1, 'Cluster 35': 1, 'Cluster 14': 1, 'Cluster 6': 1, 'Cluster 1': 2, 'Cluster 59': 1, 'Cluster 31': 1, 'Cluster 43': 1}
+L-leucine biosynthesis	{'NA': 2, 'Cluster 5': 1, 'Cluster 12': 1, 'Cluster 11': 1, 'Cluster 7': 1, 'Cluster 67': 1}
+glutathione degradation (DUG pathway - yeast)	{'NA': 1}
+betulinate biosynthesis	{'NA': 1}
+UMP biosynthesis I	{'NA': 12, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1}
+lactose degradation II	{'NA': 1}
+fructose 2,6-bisphosphate biosynthesis	{'NA': 3}
+salidroside biosynthesis	{'NA': 3}
+spermidine biosynthesis I	{'NA': 11, 'Cluster 6': 1, 'Cluster 63': 1, 'Cluster 12': 1, 'Cluster 3': 2, 'Cluster 19': 1, 'Cluster 2': 1, 'Cluster 23': 1, 'Cluster 25': 1, 'Cluster 45': 1, 'Cluster 55': 1, 'Cluster 13': 1}
+L-phenylalanine biosynthesis I	{'NA': 52, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+formate oxidation to CO<sub>2</sub>	{'NA': 1, 'Cluster 15': 1}
+UDP-&alpha;-D-glucose biosynthesis	{'NA': 6, 'Cluster 55': 1, 'Cluster 2': 1, 'Cluster 44': 1, 'Cluster 67': 1}
+GDP-L-colitose biosynthesis	{'NA': 8, 'Cluster 61': 2, 'Cluster 7': 1, 'Cluster 5': 1}
+fatty acid elongation -- saturated	{'NA': 5, 'Cluster 24': 1}
+homocysteine and cysteine interconversion	{'NA': 7, 'Cluster 30': 1, 'Cluster 25': 1, 'Cluster 41': 1, 'Cluster 60': 1, 'Cluster 16': 1}
+L-isoleucine biosynthesis I (from threonine)	{'NA': 5, 'Cluster 11': 1}
+UDP-<i>N</i>-acetyl-&alpha;-D-mannosaminouronate biosynthesis	{'NA': 0, 'Cluster 61': 1}
+rutin degradation	{'NA': 1, 'Cluster 11': 1, 'Cluster 38': 1}
+photosynthesis light reactions	{'NA': 38, 'Cluster 9': 1, 'Cluster 26': 2, 'Cluster 56': 1, 'Cluster 2': 2, 'Cluster 3': 1, 'Cluster 41': 1, 'Cluster 4': 1}
+UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)	{'NA': 1, 'Cluster 61': 1}
+glutathione-mediated detoxification I	{'NA': 19, 'Cluster 8': 1, 'Cluster 14': 1, 'Cluster 59': 1, 'Cluster 7': 1, 'Cluster 56': 1, 'Cluster 2': 1, 'Cluster 66': 1}
+L-cysteine biosynthesis III (from L-homocysteine)	{'NA': 6, 'Cluster 30': 1, 'Cluster 25': 1, 'Cluster 41': 1, 'Cluster 60': 1, 'Cluster 16': 1}
+succinate to cytochrome <i>c</i> oxidase via plastocyanin	{'NA': 15, 'Cluster 26': 1, 'Cluster 66': 1, 'Cluster 77': 1, 'Cluster 16': 1, 'Cluster 19': 1, 'Cluster 47': 1, 'Cluster 23': 1}
+spermine biosynthesis	{'NA': 11, 'Cluster 6': 1, 'Cluster 63': 1, 'Cluster 12': 1, 'Cluster 3': 2, 'Cluster 19': 1, 'Cluster 2': 1, 'Cluster 23': 1, 'Cluster 25': 1, 'Cluster 45': 1, 'Cluster 55': 1, 'Cluster 13': 1}
+protein NEDDylation	{'NA': 2}
+oleate biosynthesis III (cyanobacteria)	{'NA': 7}
+ammonia assimilation cycle III	{'NA': 26, 'Cluster 30': 1, 'Cluster 1': 1, 'Cluster 31': 1, 'Cluster 69': 1, 'Cluster 15': 1, 'Cluster 8': 1, 'Cluster 25': 1, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1, 'Cluster 47': 1, 'Cluster 22': 1, 'Cluster 33': 1, 'Cluster 44': 1, 'Cluster 2': 1}
+phytol salvage pathway	{'NA': 1, 'Cluster 14': 1}
+fatty acid &beta;-oxidation II (plant peroxisome)	{'NA': 56, 'Cluster 30': 1, 'Cluster 32': 1, 'Cluster 3': 1, 'Cluster 19': 1, 'Cluster 37': 1, 'Cluster 55': 1, 'Cluster 26': 1, 'Cluster 21': 1, 'Cluster 8': 1}
+L-isoleucine degradation II	{'NA': 3, 'Cluster 11': 1}
+spermidine biosynthesis III	{'NA': 8, 'Cluster 1': 1, 'Cluster 12': 1, 'Cluster 2': 1, 'Cluster 23': 1, 'Cluster 25': 1, 'Cluster 45': 1, 'Cluster 55': 1, 'Cluster 13': 1}
+glutathione-mediated detoxification II	{'NA': 19, 'Cluster 8': 1, 'Cluster 14': 1, 'Cluster 59': 1, 'Cluster 7': 1, 'Cluster 56': 1, 'Cluster 2': 1, 'Cluster 66': 1}
+L-tyrosine biosynthesis I	{'NA': 45, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+oxalate degradation VI	{'NA': 2, 'Cluster 15': 1, 'Cluster 19': 1, 'Cluster 37': 1}
+neurosporaxanthin biosynthesis	{'NA': 4, 'Cluster 38': 1}
+stigma estolide biosynthesis	{'NA': 16, 'Cluster 5': 1, 'Cluster 27': 1}
+solasodine glycosylation	{'NA': 1, 'Cluster 77': 1}
+mitochondrial NADPH production (yeast)	{'NA': 21, 'Cluster 33': 1}
+adenosylcobalamin salvage from cobalamin	{'NA': 1}
+L-tyrosine degradation I	{'NA': 49, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+stearate biosynthesis II (bacteria and plants)	{'NA': 16, 'Cluster 24': 1, 'Cluster 37': 1, 'Cluster 19': 1, 'Cluster 3': 1, 'Cluster 32': 1, 'Cluster 30': 1}
+ethanol degradation II	{'NA': 5, 'Cluster 42': 1}
+L-phenylalanine degradation III	{'NA': 52, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+glycine biosynthesis I	{'NA': 5}
+aerobic respiration I (cytochrome c)	{'NA': 80, 'Cluster 66': 3, 'Cluster 31': 1, 'Cluster 6': 2, 'Cluster 39': 1, 'Cluster 1': 1, 'Cluster 46': 1, 'Cluster 14': 1, 'Cluster 44': 1, 'Cluster 57': 1, 'Cluster 21': 1, 'Cluster 2': 1, 'Cluster 17': 1, 'Cluster 51': 1, 'Cluster 8': 1, 'Cluster 77': 1, 'Cluster 19': 1, 'Cluster 47': 1, 'Cluster 23': 1, 'Cluster 16': 1, 'Cluster 25': 1}
+chlorophyll <i>b</i><sub>2</sub> biosynthesis	{'NA': 6}
+L-phenylalanine degradation II (anaerobic)	{'NA': 51, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+L-glutamine biosynthesis I	{'NA': 5, 'Cluster 30': 1, 'Cluster 1': 1, 'Cluster 31': 1}
+cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate	{'NA': 1, 'Cluster 26': 1, 'Cluster 15': 1}
+L-alanine biosynthesis II	{'NA': 1, 'Cluster 20': 1}
+methylerythritol phosphate pathway II	{'NA': 7, 'Cluster 27': 1, 'Cluster 5': 1, 'Cluster 29': 1, 'Cluster 31': 1, 'Cluster 77': 1}
+folate transformations III (<i>E. coli</i>)	{'NA': 18, 'Cluster 17': 1, 'Cluster 38': 1, 'Cluster 7': 1, 'Cluster 47': 1, 'Cluster 36': 1}
+phosphatidylcholine biosynthesis V	{'NA': 2, 'Cluster 52': 1}
+alkylnitronates degradation	{'NA': 2, 'Cluster 25': 2, 'Cluster 31': 2, 'Cluster 26': 1}
+dehydro-D-arabinono-1,4-lactone biosynthesis	{'NA': 3}
+protein ubiquitination	{'NA': 37, 'Cluster 7': 1, 'Cluster 51': 1, 'Cluster 15': 1, 'Cluster 29': 2}
+L-glutamate biosynthesis IV	{'NA': 0, 'Cluster 47': 1}
+indole glucosinolate activation (intact plant cell)	{'NA': 17, 'Cluster 8': 1, 'Cluster 14': 1, 'Cluster 59': 1, 'Cluster 7': 1, 'Cluster 56': 1, 'Cluster 2': 1, 'Cluster 66': 1}
+superpathway of L-serine and glycine biosynthesis I	{'NA': 6, 'Cluster 38': 1, 'Cluster 11': 1}
+CDP-diacylglycerol biosynthesis II	{'NA': 12}
+glycerol-3-phosphate to fumarate electron transfer	{'NA': 2, 'Cluster 47': 1, 'Cluster 23': 1, 'Cluster 19': 1, 'Cluster 16': 1, 'Cluster 77': 1}
+linustatin bioactivation	{'NA': 1}
+superpathway of branched chain amino acid biosynthesis	{'NA': 6, 'Cluster 5': 1, 'Cluster 12': 1, 'Cluster 7': 1, 'Cluster 67': 1, 'Cluster 11': 1}
+adenosine ribonucleotides <i>de novo</i> biosynthesis	{'NA': 13, 'Cluster 51': 2, 'Cluster 63': 1}
+NAD salvage pathway I (PNC VI cycle)	{'NA': 3, 'Cluster 17': 1, 'Cluster 83': 1, 'Cluster 69': 1}
+phosphatidylethanolamine biosynthesis II	{'NA': 5, 'Cluster 7': 1}
+geranylgeranyl diphosphate biosynthesis	{'NA': 2, 'Cluster 28': 1}
+L-homocysteine biosynthesis	{'NA': 2}
+chlorophyll cycle	{'NA': 7}
+NAD(P)/NADPH interconversion	{'NA': 60, 'Cluster 75': 2, 'Cluster 42': 1, 'Cluster 33': 1, 'Cluster 1': 1, 'Cluster 46': 1, 'Cluster 14': 1, 'Cluster 44': 1, 'Cluster 57': 1, 'Cluster 21': 1, 'Cluster 2': 1, 'Cluster 17': 1, 'Cluster 51': 1, 'Cluster 8': 1}
+hydrogen production III	{'NA': 2}
+tRNA splicing II	{'NA': 4}
+L-serine biosynthesis I	{'NA': 1, 'Cluster 38': 1, 'Cluster 11': 1}
+aerobic respiration II (cytochrome c) (yeast)	{'NA': 42, 'Cluster 66': 3, 'Cluster 31': 1, 'Cluster 6': 2, 'Cluster 39': 1, 'Cluster 77': 1, 'Cluster 19': 1, 'Cluster 47': 1, 'Cluster 23': 1, 'Cluster 16': 1, 'Cluster 25': 1}
+thiamine triphosphate metabolism	{'NA': 1}
+glucosinolate biosynthesis from tetrahomomethionine	{'NA': 2}
+acetaldehyde biosynthesis I	{'NA': 2}
+NAD phosphorylation and transhydrogenation	{'NA': 8, 'Cluster 33': 1, 'Cluster 75': 2, 'Cluster 42': 1}
+2-aminoethylphosphonate biosynthesis	{'NA': 3}
+1D-<i>myo</i>-inositol hexakisphosphate biosynthesis IV (<i>Dictyostelium</i>)	{'NA': 6}
+hydrogen sulfide biosynthesis II (mammalian)	{'NA': 7, 'Cluster 30': 1, 'Cluster 25': 1, 'Cluster 41': 1, 'Cluster 60': 1, 'Cluster 16': 1, 'Cluster 31': 1}
+glycerol-3-phosphate shuttle	{'NA': 4}
+alanine racemization	{'NA': 6, 'Cluster 17': 1, 'Cluster 1': 1, 'Cluster 47': 1}
+lanosterol biosynthesis	{'NA': 1}
+L-cysteine biosynthesis II (tRNA-dependent)	{'NA': 1}
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate	{'NA': 1, 'Cluster 26': 1, 'Cluster 15': 1}
+ceramide degradation (generic)	{'NA': 1}
+glycerophosphodiester degradation	{'NA': 8, 'Cluster 69': 1}
+L-glutamate degradation I	{'NA': 11, 'Cluster 44': 1, 'Cluster 38': 1, 'Cluster 36': 1, 'Cluster 11': 1}
+NAD phosphorylation and dephosphorylation	{'NA': 9, 'Cluster 33': 1, 'Cluster 75': 2, 'Cluster 42': 1}
+L-cysteine degradation I	{'NA': 2}
+plasmalogen biosynthesis	{'NA': 15, 'Cluster 7': 1}
+sterculate biosynthesis	{'NA': 1}
+coumarin biosynthesis (via 2-coumarate)	{'NA': 1}
+thioredoxin pathway	{'NA': 1}
+phosphate acquisition	{'NA': 16, 'Cluster 76': 2, 'Cluster 75': 1, 'Cluster 44': 1, 'Cluster 27': 1, 'Cluster 5': 1}
+superpathway of guanosine nucleotides <i>de novo</i> biosynthesis I	{'NA': 8, 'Cluster 25': 3, 'Cluster 31': 2, 'Cluster 69': 2, 'Cluster 5': 1, 'Cluster 9': 1, 'Cluster 59': 1, 'Cluster 72': 1}
+tRNA-uridine 2-thiolation (mammalian mitochondria)	{'NA': 4, 'Cluster 82': 1}
+gala-series glycosphingolipids biosynthesis	{'NA': 3, 'Cluster 12': 1}
+superpathway of adenosine nucleotides <i>de novo</i> biosynthesis I	{'NA': 18, 'Cluster 51': 2, 'Cluster 63': 1, 'Cluster 9': 1, 'Cluster 59': 1, 'Cluster 72': 1, 'Cluster 25': 1}
+pseudouridine degradation	{'NA': 1}
+acetate conversion to acetyl-CoA	{'NA': 2, 'Cluster 42': 1}
+pyruvate fermentation to acetate III	{'NA': 9}
+ergosterol biosynthesis I	{'NA': 2}
+NADP biosynthesis	{'NA': 7, 'Cluster 33': 1}
+biotin biosynthesis from 8-amino-7-oxononanoate III	{'NA': 6}
+superpathway of purine nucleotides <i>de novo</i> biosynthesis I	{'NA': 25, 'Cluster 53': 1, 'Cluster 69': 3, 'Cluster 64': 2, 'Cluster 17': 1, 'Cluster 51': 2, 'Cluster 63': 1, 'Cluster 25': 3, 'Cluster 31': 2, 'Cluster 5': 1, 'Cluster 9': 1, 'Cluster 59': 1, 'Cluster 72': 1}
+fatty acid biosynthesis initiation (mitochondria)	{'NA': 7, 'Cluster 26': 1}
+hydrogen production VIII	{'NA': 2}
+cyclopropane fatty acid (CFA) biosynthesis	{'NA': 1}
+cyanate degradation	{'NA': 9, 'Cluster 23': 1, 'Cluster 65': 1}
+GDP-L-fucose biosynthesis I (from GDP-D-mannose)	{'NA': 8, 'Cluster 61': 2, 'Cluster 7': 1, 'Cluster 5': 1}
+Entner-Doudoroff pathway I	{'NA': 22, 'Cluster 2': 1, 'Cluster 3': 1, 'Cluster 67': 1, 'Cluster 46': 1, 'Cluster 16': 1, 'Cluster 47': 1, 'Cluster 64': 1, 'Cluster 11': 1, 'Cluster 26': 1}
+N<sup>6</sup>-L-threonylcarbamoyladenosine<sup>37</sup>-modified tRNA biosynthesis	{'NA': 0, 'Cluster 7': 1}
+&beta;-1,4-D-mannosyl-<i>N</i>-acetyl-D-glucosamine degradation	{'NA': 0, 'Cluster 67': 2, 'Cluster 29': 1}
+tetrahydropteridine recycling	{'NA': 4}
+lotaustralin degradation	{'NA': 1}
+arsenic detoxification (yeast)	{'NA': 6, 'Cluster 33': 2}
+hypusine biosynthesis	{'NA': 1, 'Cluster 18': 1}
+cholesterol biosynthesis (algae, late side-chain reductase)	{'NA': 5, 'Cluster 77': 1, 'Cluster 39': 1}
+ethanol degradation IV	{'NA': 6, 'Cluster 42': 1}
+ammonia assimilation cycle I	{'NA': 5, 'Cluster 47': 1, 'Cluster 30': 1, 'Cluster 1': 1, 'Cluster 31': 1}
+divinyl ether biosynthesis I	{'NA': 1}
+L-cysteine biosynthesis I	{'NA': 7, 'Cluster 30': 1, 'Cluster 25': 1, 'Cluster 41': 1, 'Cluster 60': 1, 'Cluster 16': 1}
+L-phenylalanine degradation V	{'NA': 5, 'Cluster 34': 1}
+phospholipid remodeling (phosphatidate, yeast)	{'NA': 6}
+reactive oxygen species degradation	{'NA': 10, 'Cluster 59': 1, 'Cluster 46': 1, 'Cluster 25': 1, 'Cluster 16': 1, 'Cluster 13': 1, 'Cluster 41': 1}
+L-ascorbate biosynthesis VI (plants, <i>myo</i>-inositol pathway)	{'NA': 3, 'Cluster 30': 1}
+8-amino-7-oxononanoate biosynthesis IV	{'NA': 4, 'Cluster 24': 1}
+GDP-L-fucose biosynthesis II (from L-fucose)	{'NA': 2}
+<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)	{'NA': 8, 'Cluster 52': 1, 'Cluster 1': 1}
+flavin biosynthesis I (bacteria and plants)	{'NA': 11, 'Cluster 7': 1, 'Cluster 67': 1}
+UDP-&alpha;-D-xylose biosynthesis	{'NA': 3, 'Cluster 27': 1, 'Cluster 61': 1}
+succinate to chytochrome <i>c</i> oxidase via cytochrome <i>c</i><sub>6</sub>	{'NA': 10, 'Cluster 66': 1, 'Cluster 77': 1, 'Cluster 16': 1, 'Cluster 19': 1, 'Cluster 47': 1, 'Cluster 23': 1}
+mRNA capping I	{'NA': 9, 'Cluster 83': 1}
+ubiquinol-10 biosynthesis (late decarboxylation)	{'NA': 5, 'Cluster 69': 1}
+neolinustatin bioactivation	{'NA': 1}
+assimilatory sulfate reduction II	{'NA': 2, 'Cluster 5': 1}
+arsenite methylation (bacterial)	{'NA': 5, 'Cluster 33': 1}
+<i>S</i>-methyl-5'-thioadenosine degradation I	{'NA': 2, 'Cluster 27': 1}
+oxygenic photosynthesis	{'NA': 64, 'Cluster 9': 1, 'Cluster 26': 3, 'Cluster 56': 1, 'Cluster 2': 2, 'Cluster 3': 1, 'Cluster 41': 1, 'Cluster 4': 1, 'Cluster 1': 2, 'Cluster 46': 1, 'Cluster 30': 1, 'Cluster 24': 1, 'Cluster 31': 1, 'Cluster 19': 1, 'Cluster 39': 1}
+GDP-mannose biosynthesis	{'NA': 3, 'Cluster 29': 1, 'Cluster 67': 2, 'Cluster 23': 1}
+trehalose biosynthesis II	{'NA': 3}
+ursolate biosynthesis	{'NA': 1}
+<i>myo</i>-inositol biosynthesis	{'NA': 6}
+UTP and CTP dephosphorylation II	{'NA': 8, 'Cluster 66': 1, 'Cluster 17': 1, 'Cluster 67': 1}
+putrescine degradation II	{'NA': 3, 'Cluster 30': 1}
+1D-<i>myo</i>-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)	{'NA': 4}
+2-oxobutanoate degradation I	{'NA': 7}
+tRNA methylation (yeast)	{'NA': 5, 'Cluster 19': 2, 'Cluster 51': 1, 'Cluster 17': 1, 'Cluster 62': 1, 'Cluster 5': 1, 'Cluster 53': 1}
+acrylonitrile degradation I	{'NA': 3}
+hydrogen oxidation I (aerobic)	{'NA': 1}
+protein <i>N</i>-glycosylation processing phase (plants and animals)	{'NA': 4}
+sterol biosynthesis (methylotrophs)	{'NA': 3, 'Cluster 77': 1}
+thymine degradation	{'NA': 1}
+valproate &beta;-oxidation	{'NA': 47, 'Cluster 55': 1, 'Cluster 26': 1, 'Cluster 21': 1, 'Cluster 8': 1}
+lipoate biosynthesis and incorporation IV (yeast)	{'NA': 2, 'Cluster 67': 2, 'Cluster 62': 1, 'Cluster 14': 1}
+UTP and CTP <i>de novo</i> biosynthesis	{'NA': 25, 'Cluster 51': 2, 'Cluster 63': 1, 'Cluster 16': 1, 'Cluster 47': 1, 'Cluster 46': 1}
+nitric oxide biosynthesis II (mammals)	{'NA': 15, 'Cluster 8': 1, 'Cluster 64': 1}
+<i>anteiso</i>-branched-chain fatty acid biosynthesis	{'NA': 7, 'Cluster 11': 1, 'Cluster 24': 1}
+C20 prostanoid biosynthesis	{'NA': 7, 'Cluster 64': 1, 'Cluster 56': 1}
+phosphatidylglycerol biosynthesis I (plastidic)	{'NA': 15}
+phosphatidylglycerol biosynthesis II (non-plastidic)	{'NA': 16}
+seleno-amino acid biosynthesis (plants)	{'NA': 8, 'Cluster 30': 1, 'Cluster 60': 1}
+superpathway of pyrimidine ribonucleotides <i>de novo</i> biosynthesis	{'NA': 37, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1, 'Cluster 51': 2, 'Cluster 63': 1, 'Cluster 16': 1, 'Cluster 47': 1, 'Cluster 46': 1}
+oleate biosynthesis I (plants)	{'NA': 12, 'Cluster 37': 1, 'Cluster 19': 1, 'Cluster 3': 1, 'Cluster 32': 1, 'Cluster 30': 1}
+sucrose degradation V (sucrose &alpha;-glucosidase)	{'NA': 14, 'Cluster 33': 1, 'Cluster 31': 2, 'Cluster 30': 1, 'Cluster 24': 1, 'Cluster 26': 1}
+pentose phosphate pathway	{'NA': 15, 'Cluster 28': 1, 'Cluster 2': 1, 'Cluster 3': 1, 'Cluster 67': 1}
+gluconeogenesis III	{'NA': 35, 'Cluster 19': 1, 'Cluster 31': 1, 'Cluster 46': 1, 'Cluster 16': 1, 'Cluster 47': 1, 'Cluster 64': 1, 'Cluster 30': 1, 'Cluster 24': 1, 'Cluster 26': 1, 'Cluster 9': 1, 'Cluster 42': 1, 'Cluster 23': 1}
+arginine dependent acid resistance	{'NA': 1, 'Cluster 1': 1}
+nitrate reduction II (assimilatory)	{'NA': 2}
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	{'NA': 15, 'Cluster 2': 1, 'Cluster 21': 1, 'Cluster 80': 1, 'Cluster 7': 1, 'Cluster 59': 1, 'Cluster 25': 1, 'Cluster 51': 1, 'Cluster 52': 1, 'Cluster 1': 1, 'Cluster 5': 1, 'Cluster 29': 1, 'Cluster 31': 1, 'Cluster 77': 1, 'Cluster 28': 1}
+lipoate biosynthesis and incorporation I	{'NA': 2, 'Cluster 14': 1, 'Cluster 67': 2, 'Cluster 62': 1}
+5-oxo-L-proline metabolism	{'NA': 8}
+urea cycle	{'NA': 19, 'Cluster 39': 1, 'Cluster 31': 1, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1}
+shikimate degradation II	{'NA': 2}
+phosphatidate biosynthesis (yeast)	{'NA': 11}
+tetrahydrofolate biosynthesis	{'NA': 7, 'Cluster 47': 1, 'Cluster 7': 1, 'Cluster 36': 1, 'Cluster 38': 1}
+arsenic detoxification (plants)	{'NA': 1, 'Cluster 33': 1}
+heterolactic fermentation	{'NA': 32, 'Cluster 46': 1, 'Cluster 16': 2, 'Cluster 47': 1, 'Cluster 64': 1, 'Cluster 11': 1, 'Cluster 26': 1, 'Cluster 2': 1, 'Cluster 3': 1, 'Cluster 67': 1, 'Cluster 23': 1, 'Cluster 44': 1}
+8-oxo-(d)GTP detoxification II	{'NA': 1}
+chitin degradation II (Vibrio)	{'NA': 19, 'Cluster 14': 1, 'Cluster 55': 1, 'Cluster 10': 2, 'Cluster 5': 1}
+triacylglycerol degradation	{'NA': 8, 'Cluster 31': 1, 'Cluster 6': 1, 'Cluster 59': 1}
+phenylethylamine degradation I	{'NA': 2}
+<i>cis</i>-vaccenate biosynthesis	{'NA': 2, 'Cluster 24': 1}
+uracil degradation I (reductive)	{'NA': 1}
+L-glutamine degradation I	{'NA': 19, 'Cluster 69': 1, 'Cluster 15': 1, 'Cluster 8': 1, 'Cluster 25': 1, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1, 'Cluster 47': 1, 'Cluster 2': 1, 'Cluster 22': 1, 'Cluster 33': 1}
+selenate reduction	{'NA': 0, 'Cluster 5': 1}
+CDP-diacylglycerol biosynthesis I	{'NA': 13}
+3-dehydroquinate biosynthesis I	{'NA': 2, 'Cluster 17': 1}
+retinol biosynthesis	{'NA': 8, 'Cluster 28': 1}
+formate assimilation into 5,10-methylenetetrahydrofolate	{'NA': 3, 'Cluster 38': 1, 'Cluster 7': 1, 'Cluster 47': 1}
+L-threonine degradation III (to methylglyoxal)	{'NA': 1}
+palmitoleate biosynthesis II (plants and bacteria)	{'NA': 1}
+chorismate biosynthesis I	{'NA': 9, 'Cluster 17': 1}
+all-<i>trans</i>-decaprenyl diphosphate biosynthesis	{'NA': 1}
+canavanine biosynthesis	{'NA': 3}
+nickel cofactor biosynthesis	{'NA': 2}
+fructan biosynthesis	{'NA': 5, 'Cluster 31': 1}
+glycine biosynthesis IV	{'NA': 2, 'Cluster 56': 1}
+phospholipid remodeling (phosphatidylethanolamine, yeast)	{'NA': 22, 'Cluster 17': 1, 'Cluster 67': 1, 'Cluster 11': 1, 'Cluster 35': 1, 'Cluster 77': 1, 'Cluster 8': 1, 'Cluster 69': 1}
+diacylglycerol and triacylglycerol biosynthesis	{'NA': 32, 'Cluster 27': 1, 'Cluster 5': 1, 'Cluster 47': 1, 'Cluster 3': 1}
+phosphatidate metabolism, as a signaling molecule	{'NA': 14, 'Cluster 33': 1, 'Cluster 3': 2}
+assimilatory sulfate reduction IV	{'NA': 4, 'Cluster 31': 1, 'Cluster 5': 1, 'Cluster 66': 1}
+1,3-&beta;-D-glucan biosynthesis	{'NA': 0, 'Cluster 35': 1}
+5'-deoxyadenosine degradation II	{'NA': 5, 'Cluster 27': 1}
+24-<i>epi</i>-campesterol, fucosterol, and clionasterol biosynthesis (diatoms)	{'NA': 5, 'Cluster 39': 1}
+sulfate activation for sulfonation	{'NA': 0, 'Cluster 31': 1, 'Cluster 5': 1}
+tetrapyrrole biosynthesis I (from glutamate)	{'NA': 8, 'Cluster 39': 1}
+quinate degradation II	{'NA': 1}
+S-methyl-L-methionine cycle	{'NA': 2, 'Cluster 45': 1}
+galactolipid biosynthesis I	{'NA': 5, 'Cluster 16': 1, 'Cluster 12': 1}
+tRNA charging	{'NA': 31, 'Cluster 37': 1, 'Cluster 55': 3, 'Cluster 67': 3, 'Cluster 15': 1, 'Cluster 38': 1, 'Cluster 14': 1, 'Cluster 11': 1, 'Cluster 49': 1, 'Cluster 39': 1, 'Cluster 64': 1, 'Cluster 61': 1, 'Cluster 34': 1, 'Cluster 7': 2, 'Cluster 51': 1, 'Cluster 33': 1, 'Cluster 19': 1, 'Cluster 10': 1}
+heme degradation I	{'NA': 5, 'Cluster 8': 1}
+tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	{'NA': 2, 'Cluster 47': 1, 'Cluster 7': 1, 'Cluster 38': 1}
+folate polyglutamylation	{'NA': 9}
+coenzyme B/coenzyme M regeneration I (methanophenazine-dependent)	{'NA': 1}
+5-aminoimidazole ribonucleotide biosynthesis I	{'NA': 1, 'Cluster 53': 1, 'Cluster 69': 1}
+D-galactose degradation I (Leloir pathway)	{'NA': 9, 'Cluster 80': 1, 'Cluster 2': 1, 'Cluster 44': 1, 'Cluster 67': 1}
+L-methionine salvage from L-homocysteine	{'NA': 2, 'Cluster 45': 1}
+monoacylglycerol metabolism (yeast)	{'NA': 23, 'Cluster 17': 1, 'Cluster 67': 1, 'Cluster 11': 1, 'Cluster 59': 1, 'Cluster 35': 1, 'Cluster 77': 1}
+&alpha;-carotene biosynthesis	{'NA': 2}
+pyridoxal 5'-phosphate biosynthesis I	{'NA': 5, 'Cluster 27': 1, 'Cluster 38': 1}
+L-selenocysteine biosynthesis II (archaea and eukaryotes)	{'NA': 6}
+phytochromobilin biosynthesis	{'NA': 2}
+<i>S</i>-methyl-5'-thioadenosine degradation II	{'NA': 1}
+cadaverine biosynthesis	{'NA': 1, 'Cluster 8': 1}
+L-homoserine biosynthesis	{'NA': 15, 'Cluster 16': 1, 'Cluster 47': 1, 'Cluster 46': 1}
+glucosinolate biosynthesis from phenylalanine	{'NA': 2}
+chorismate biosynthesis from 3-dehydroquinate	{'NA': 7}
+aspirin triggered resolvin E biosynthesis	{'NA': 3, 'Cluster 26': 1}
+ergosterol biosynthesis II	{'NA': 4, 'Cluster 39': 1}
+icosapentaenoate biosynthesis II (6-desaturase, mammals)	{'NA': 14, 'Cluster 30': 1, 'Cluster 32': 1, 'Cluster 3': 1, 'Cluster 19': 1, 'Cluster 37': 1, 'Cluster 38': 1}
+ceramide <i>de novo</i> biosynthesis	{'NA': 3}
+flexixanthin biosynthesis	{'NA': 2}
+wax esters biosynthesis I	{'NA': 5}
+&beta;-D-glucuronide and D-glucuronate degradation	{'NA': 0, 'Cluster 16': 1}
+protein citrullination	{'NA': 1}
+wax esters biosynthesis II	{'NA': 16, 'Cluster 30': 1, 'Cluster 32': 1, 'Cluster 3': 1, 'Cluster 19': 1, 'Cluster 37': 1}
+UDP-D-apiose biosynthesis (from UDP-D-glucuronate)	{'NA': 0, 'Cluster 27': 1}
+inosine-5'-phosphate biosynthesis II	{'NA': 4, 'Cluster 64': 2, 'Cluster 17': 1}
+palmitate biosynthesis (type II fatty acid synthase)	{'NA': 16, 'Cluster 24': 1, 'Cluster 37': 1, 'Cluster 19': 1, 'Cluster 3': 1, 'Cluster 32': 1, 'Cluster 30': 1}
+citrate degradation	{'NA': 4, 'Cluster 5': 1}
+NAD <i>de novo</i> biosynthesis I (from aspartate)	{'NA': 4, 'Cluster 17': 1, 'Cluster 69': 1, 'Cluster 19': 1}
+adenosylcobinamide-GDP biosynthesis from cobyrinate <i>a,c</i>-diamide	{'NA': 2, 'Cluster 38': 1}
+methyl indole-3-acetate interconversion	{'NA': 4, 'Cluster 28': 1}
+sporopollenin precursors biosynthesis	{'NA': 15, 'Cluster 37': 1, 'Cluster 19': 1, 'Cluster 3': 1, 'Cluster 32': 1, 'Cluster 30': 1}
+L-valine degradation I	{'NA': 38, 'Cluster 11': 1, 'Cluster 55': 1, 'Cluster 26': 1, 'Cluster 21': 1}
+phenylacetate degradation I (aerobic)	{'NA': 36, 'Cluster 55': 1, 'Cluster 26': 1, 'Cluster 21': 1}
+L-phenylalanine biosynthesis III (cytosolic, plants)	{'NA': 1}
+L-valine degradation III (oxidative Stickland reaction)	{'NA': 2, 'Cluster 11': 1}
+9-<i>cis</i>, 11-<i>trans</i>-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)	{'NA': 10, 'Cluster 8': 1}
+Arg/N-end rule pathway (eukaryotic)	{'NA': 9, 'Cluster 48': 1, 'Cluster 33': 1}
+chlorophyll <i>a</i> biosynthesis I	{'NA': 3, 'Cluster 39': 1}
+L-threonine biosynthesis	{'NA': 2, 'Cluster 13': 1, 'Cluster 37': 1}
+L-alanine biosynthesis III	{'NA': 3}
+PRPP biosynthesis	{'NA': 2}
+guanine and guanosine salvage II	{'NA': 2, 'Cluster 23': 1}
+glycolysis III (from glucose)	{'NA': 29, 'Cluster 30': 3, 'Cluster 31': 1, 'Cluster 24': 1, 'Cluster 26': 2, 'Cluster 46': 1, 'Cluster 47': 1, 'Cluster 64': 1, 'Cluster 11': 1, 'Cluster 23': 1, 'Cluster 44': 1, 'Cluster 16': 1}
+ethene biosynthesis I (plants)	{'NA': 1}
+demethylmenaquinol-8 biosynthesis I	{'NA': 0, 'Cluster 7': 1}
+<i>S</i>-adenosyl-L-methionine salvage II	{'NA': 2}
+glycerol degradation II	{'NA': 4, 'Cluster 18': 1}
+D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation	{'NA': 3}
+glutaryl-CoA degradation	{'NA': 39, 'Cluster 8': 1, 'Cluster 21': 1, 'Cluster 26': 1, 'Cluster 55': 1}
+sulfide oxidation II (flavocytochrome <em>c</em>)	{'NA': 1, 'Cluster 77': 1}
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	{'NA': 43, 'Cluster 83': 1, 'Cluster 77': 1, 'Cluster 17': 2, 'Cluster 67': 2, 'Cluster 31': 1, 'Cluster 5': 2, 'Cluster 47': 1, 'Cluster 29': 1, 'Cluster 28': 1, 'Cluster 16': 1, 'Cluster 8': 1, 'Cluster 2': 2, 'Cluster 1': 1, 'Cluster 25': 1, 'Cluster 59': 1, 'Cluster 9': 1, 'Cluster 72': 1, 'Cluster 66': 1, 'Cluster 36': 1}
+phenylmercury acetate degradation	{'NA': 2, 'Cluster 8': 1}
+gliotoxin biosynthesis	{'NA': 23, 'Cluster 8': 1, 'Cluster 14': 2, 'Cluster 59': 1, 'Cluster 7': 1, 'Cluster 56': 1, 'Cluster 2': 1, 'Cluster 66': 1, 'Cluster 22': 1}
+siroheme biosynthesis	{'NA': 1, 'Cluster 49': 1}
+fatty acid &beta;-oxidation III (unsaturated, odd number)	{'NA': 12, 'Cluster 21': 1}
+propanoyl-CoA degradation II	{'NA': 8, 'Cluster 8': 1}
+L-glutamate degradation II	{'NA': 41, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+acyl carrier protein activation	{'NA': 0, 'Cluster 27': 1}
+phenylethanol biosynthesis	{'NA': 4}
+chlorophyll <i>a</i><sub>2</sub> biosynthesis	{'NA': 2}
+Entner-Doudoroff shunt	{'NA': 2}
+L-ascorbate biosynthesis II (plants, L-gulose pathway)	{'NA': 1}
+oleate &beta;-oxidation	{'NA': 60, 'Cluster 37': 1, 'Cluster 19': 1, 'Cluster 3': 1, 'Cluster 32': 1, 'Cluster 30': 1, 'Cluster 8': 1, 'Cluster 21': 1, 'Cluster 26': 1, 'Cluster 55': 1}
+fatty acid &beta;-oxidation I (generic)	{'NA': 58, 'Cluster 30': 1, 'Cluster 32': 1, 'Cluster 3': 1, 'Cluster 19': 1, 'Cluster 37': 1, 'Cluster 8': 1, 'Cluster 55': 1, 'Cluster 26': 1, 'Cluster 21': 1}
+mevalonate pathway I (eukaryotes and bacteria)	{'NA': 9, 'Cluster 2': 1, 'Cluster 21': 1, 'Cluster 80': 1, 'Cluster 5': 1, 'Cluster 29': 1, 'Cluster 31': 1, 'Cluster 77': 1}
+di-<i>trans</i>,poly-<i>cis</i>-undecaprenyl phosphate biosynthesis	{'NA': 1, 'Cluster 15': 1}
+tetradecanoate biosynthesis (mitochondria)	{'NA': 5, 'Cluster 24': 1}
+pyrimidine deoxyribonucleotide phosphorylation	{'NA': 14, 'Cluster 2': 1, 'Cluster 51': 2, 'Cluster 63': 1}
+L-aspartate biosynthesis	{'NA': 40, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2}
+glucosinolate biosynthesis from hexahomomethionine	{'NA': 2}
+fatty acid &beta;-oxidation V (unsaturated, odd number, di-isomerase-dependent)	{'NA': 18, 'Cluster 8': 1, 'Cluster 21': 1}
+thyroid hormone metabolism I (via deiodination)	{'NA': 2}
+plastoquinol-9 biosynthesis I	{'NA': 3, 'Cluster 13': 1}
+protein <I>O</i>-mannosylation I (yeast)	{'NA': 5}
+L-arginine degradation II (AST pathway)	{'NA': 3, 'Cluster 33': 1}
+<i>cis</i>-zeatin biosynthesis	{'NA': 0, 'Cluster 59': 1}
+L-leucine degradation I	{'NA': 3, 'Cluster 11': 1}
+acetyl-CoA biosynthesis from citrate	{'NA': 0, 'Cluster 70': 1, 'Cluster 30': 1}
+2-arachidonoylglycerol biosynthesis	{'NA': 13, 'Cluster 6': 1, 'Cluster 31': 1, 'Cluster 5': 1, 'Cluster 27': 1}
+odd <i>iso</i>-branched-chain fatty acid biosynthesis	{'NA': 7, 'Cluster 11': 1, 'Cluster 24': 1}
+fatty acid &beta;-oxidation VII (yeast peroxisome)	{'NA': 21, 'Cluster 30': 1, 'Cluster 32': 1, 'Cluster 3': 1, 'Cluster 19': 1, 'Cluster 37': 1, 'Cluster 8': 1}
+molybdopterin biosynthesis	{'NA': 6, 'Cluster 51': 1}
+vitamin K-epoxide cycle	{'NA': 2}
+10-<i>trans</i>-heptadecenoyl-CoA degradation (reductase-dependent, yeast)	{'NA': 10, 'Cluster 8': 1}
+<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I	{'NA': 5, 'Cluster 47': 1}
+vitamin E biosynthesis (tocopherols)	{'NA': 4}
+cobalamin salvage (eukaryotic)	{'NA': 2}
+malate/L-aspartate shuttle pathway	{'NA': 44, 'Cluster 20': 1, 'Cluster 59': 1, 'Cluster 56': 1, 'Cluster 39': 1, 'Cluster 7': 1, 'Cluster 46': 1, 'Cluster 38': 1, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 30': 2, 'Cluster 51': 2, 'Cluster 42': 1}
+L-histidine biosynthesis	{'NA': 12, 'Cluster 75': 1, 'Cluster 63': 1, 'Cluster 21': 1, 'Cluster 47': 1, 'Cluster 51': 2, 'Cluster 17': 1, 'Cluster 74': 1, 'Cluster 15': 1, 'Cluster 33': 1}
+adeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	{'NA': 2, 'Cluster 77': 1}
+queuosine biosynthesis II (queuine salvage)	{'NA': 4}
+mixed acid fermentation	{'NA': 20, 'Cluster 11': 1, 'Cluster 26': 1, 'Cluster 8': 3, 'Cluster 47': 1, 'Cluster 23': 1, 'Cluster 19': 1, 'Cluster 16': 1, 'Cluster 77': 1, 'Cluster 75': 1, 'Cluster 67': 1, 'Cluster 12': 1, 'Cluster 42': 1}
+benzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	{'NA': 2, 'Cluster 77': 1}
+7-(3-amino-3-carboxypropyl)-wyosine biosynthesis	{'NA': 3, 'Cluster 5': 1, 'Cluster 53': 1}
+L-ornithine degradation I (L-proline biosynthesis)	{'NA': 3}
+2,3-dihydroxybenzoate biosynthesis	{'NA': 1}
+oleate biosynthesis II (animals and fungi)	{'NA': 5}
+UDP-&alpha;-D-galactose biosynthesis	{'NA': 3}
+very long chain fatty acid biosynthesis I	{'NA': 3, 'Cluster 5': 1, 'Cluster 38': 1}
+serotonin and melatonin biosynthesis	{'NA': 2, 'Cluster 35': 1}
+glucosinolate biosynthesis from trihomomethionine	{'NA': 2}
+sulfide oxidation IV (mitochondria)	{'NA': 17, 'Cluster 53': 2, 'Cluster 18': 1, 'Cluster 69': 1, 'Cluster 7': 1, 'Cluster 51': 1}
+ceramide and sphingolipid recycling and degradation (yeast)	{'NA': 13, 'Cluster 37': 1, 'Cluster 19': 1, 'Cluster 3': 1, 'Cluster 32': 1, 'Cluster 30': 1}
+thiazole component of thiamine diphosphate biosynthesis II	{'NA': 6}
+glycine cleavage	{'NA': 9, 'Cluster 44': 1}
+vitamin E biosynthesis (tocotrienols)	{'NA': 2}
+glyoxylate cycle	{'NA': 9, 'Cluster 75': 1, 'Cluster 67': 1, 'Cluster 42': 1}
+reductive monocarboxylic acid cycle	{'NA': 9}
+adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I	{'NA': 2, 'Cluster 77': 1}
+dTMP <i>de novo</i> biosynthesis (mitochondrial)	{'NA': 11, 'Cluster 47': 1, 'Cluster 7': 1, 'Cluster 38': 1, 'Cluster 36': 1}
+mycothiol biosynthesis	{'NA': 4, 'Cluster 67': 2}
+TCA cycle I (prokaryotic)	{'NA': 14, 'Cluster 70': 1, 'Cluster 30': 1, 'Cluster 6': 1, 'Cluster 44': 1, 'Cluster 75': 1, 'Cluster 67': 1, 'Cluster 12': 1, 'Cluster 42': 1, 'Cluster 47': 1, 'Cluster 23': 1, 'Cluster 19': 1, 'Cluster 16': 1, 'Cluster 77': 1}
+guanosine nucleotides degradation III	{'NA': 8, 'Cluster 66': 1}
+glycine biosynthesis II	{'NA': 9, 'Cluster 44': 1}
+L-malate degradation II	{'NA': 2}
+pyruvate fermentation to acetone	{'NA': 16}
+GDP-L-galactose biosynthesis	{'NA': 1}
+acyl-CoA hydrolysis	{'NA': 4}
+cholesterol biosynthesis (diatoms)	{'NA': 5, 'Cluster 39': 1, 'Cluster 77': 1}
+heme <i>b</i> biosynthesis I (aerobic)	{'NA': 6, 'Cluster 55': 1, 'Cluster 11': 1}
+adenosylcobinamide-GDP salvage from cobinamide II	{'NA': 2, 'Cluster 38': 1}
+L-arginine biosynthesis II (acetyl cycle)	{'NA': 14, 'Cluster 25': 1, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1, 'Cluster 16': 1, 'Cluster 46': 1}
+betaxanthin biosynthesis (via dopamine)	{'NA': 1}
+4-aminobenzoate biosynthesis I	{'NA': 2, 'Cluster 59': 1}
+L-isoleucine degradation I	{'NA': 39, 'Cluster 11': 1, 'Cluster 55': 1, 'Cluster 26': 1, 'Cluster 21': 1}
+palmitoleate biosynthesis IV (fungi and animals)	{'NA': 5}
+10-<i>cis</i>-heptadecenoyl-CoA degradation (yeast)	{'NA': 10, 'Cluster 8': 1}
+phospholipid remodeling (phosphatidylcholine, yeast)	{'NA': 6}
+catecholamine biosynthesis	{'NA': 3, 'Cluster 63': 1, 'Cluster 45': 1, 'Cluster 44': 1}
+Entner-Doudoroff pathway II (non-phosphorylative)	{'NA': 19, 'Cluster 47': 1, 'Cluster 64': 1, 'Cluster 11': 1, 'Cluster 26': 1}
+arachidonate biosynthesis I (6-desaturase, lower eukaryotes)	{'NA': 3, 'Cluster 38': 1}
+Ac/N-end rule pathway	{'NA': 3, 'Cluster 48': 1, 'Cluster 33': 1}
+<i>trans, trans</i>-farnesyl diphosphate biosynthesis	{'NA': 7, 'Cluster 7': 1, 'Cluster 59': 1, 'Cluster 25': 1, 'Cluster 51': 1, 'Cluster 52': 1, 'Cluster 28': 1, 'Cluster 1': 1, 'Cluster 5': 1, 'Cluster 29': 1, 'Cluster 31': 1, 'Cluster 77': 1}
+molybdenum cofactor sulfulylation (eukaryotes)	{'NA': 2, 'Cluster 31': 1}
+epoxysqualene biosynthesis	{'NA': 2, 'Cluster 52': 1, 'Cluster 1': 1}
+long-chain fatty acid activation	{'NA': 11, 'Cluster 30': 1, 'Cluster 32': 1, 'Cluster 3': 1, 'Cluster 19': 1, 'Cluster 37': 1}
+inositol diphosphates biosynthesis	{'NA': 4}
+ricinoleate biosynthesis	{'NA': 1}
+creatinine degradation I	{'NA': 6, 'Cluster 48': 1, 'Cluster 33': 1}
+ultra-long-chain fatty acid biosynthesis	{'NA': 3, 'Cluster 5': 1, 'Cluster 38': 1}
+1D-<i>myo</i>-inositol hexakisphosphate biosynthesis I (from Ins(1,4,5)P3)	{'NA': 3}
+glutathione biosynthesis	{'NA': 3}
+betanidin degradation	{'NA': 0, 'Cluster 51': 1}
+phosphatidylglycerol degradation	{'NA': 1}
+reductive TCA cycle I	{'NA': 22, 'Cluster 67': 1, 'Cluster 70': 2, 'Cluster 30': 1, 'Cluster 20': 2, 'Cluster 22': 2, 'Cluster 8': 3, 'Cluster 12': 1, 'Cluster 42': 1, 'Cluster 47': 1, 'Cluster 23': 1, 'Cluster 19': 1, 'Cluster 16': 1, 'Cluster 77': 1}
+thiosulfate disproportionation IV (rhodanese)	{'NA': 16, 'Cluster 53': 2, 'Cluster 18': 1, 'Cluster 69': 1, 'Cluster 7': 1, 'Cluster 51': 1}
+L-glutamate biosynthesis III	{'NA': 3, 'Cluster 44': 1, 'Cluster 2': 1}
+5-methylbenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	{'NA': 2, 'Cluster 77': 1}
+8-oxo-(d)GTP detoxification I	{'NA': 2}
+adenosine nucleotides degradation II	{'NA': 18, 'Cluster 66': 1}
+L-leucine degradation III	{'NA': 3, 'Cluster 11': 1}
+oleandomycin activation/inactivation	{'NA': 3, 'Cluster 47': 1}
+adenine salvage	{'NA': 5, 'Cluster 23': 1}
+progesterone biosynthesis	{'NA': 1}
+cytidylyl molybdenum cofactor sulfurylation	{'NA': 3}
+L-glutamate biosynthesis I	{'NA': 22, 'Cluster 69': 1, 'Cluster 15': 1, 'Cluster 8': 1, 'Cluster 25': 1, 'Cluster 38': 1, 'Cluster 26': 1, 'Cluster 7': 1, 'Cluster 9': 1, 'Cluster 47': 1, 'Cluster 22': 1, 'Cluster 33': 1, 'Cluster 44': 1, 'Cluster 2': 1}
+ketolysis	{'NA': 5}
+arsenate detoxification I	{'NA': 0, 'Cluster 33': 1}
+baicalein degradation (hydrogen peroxide detoxification)	{'NA': 0, 'Cluster 51': 1}
+N-end rule pathway I (prokaryotic)	{'NA': 3}
+protein <i>S</i>-nitrosylation and denitrosylation	{'NA': 2}
+L-lysine degradation XI (mammalian)	{'NA': 1, 'Cluster 6': 1}
+sphingosine and sphingosine-1-phosphate metabolism	{'NA': 13, 'Cluster 37': 1, 'Cluster 19': 1, 'Cluster 3': 1, 'Cluster 32': 1, 'Cluster 30': 1}
+ophthalmate biosynthesis	{'NA': 3}
+tRNA processing	{'NA': 4, 'Cluster 69': 1, 'Cluster 58': 1, 'Cluster 67': 2}
+methylamine degradation I	{'NA': 1}
+2-oxoisovalerate decarboxylation to isobutanoyl-CoA	{'NA': 8, 'Cluster 20': 1, 'Cluster 66': 1, 'Cluster 44': 1}
+4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II	{'NA': 7, 'Cluster 53': 1, 'Cluster 27': 1, 'Cluster 3': 1}
+arachidonate biosynthesis IV (8-detaturase, lower eukaryotes)	{'NA': 3, 'Cluster 5': 1, 'Cluster 38': 1}
+sciadonate biosynthesis	{'NA': 3, 'Cluster 5': 1, 'Cluster 38': 1}
+hydroxylated fatty acid biosynthesis (plants)	{'NA': 3, 'Cluster 5': 1, 'Cluster 38': 1}
+5-hydroxybenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	{'NA': 2, 'Cluster 77': 1}
+L-glutamate degradation IX (via 4-aminobutanoate)	{'NA': 0, 'Cluster 30': 1}
+L-glutamate degradation X	{'NA': 3, 'Cluster 44': 1}
+biotin biosynthesis from 8-amino-7-oxononanoate I	{'NA': 6, 'Cluster 59': 1}
+oleate &beta;-oxidation (isomerase-dependent, yeast)	{'NA': 18, 'Cluster 8': 1, 'Cluster 21': 1}
+glutathione-peroxide redox reactions	{'NA': 7, 'Cluster 59': 1, 'Cluster 17': 1, 'Cluster 21': 1, 'Cluster 1': 1}
+L-glutamate biosynthesis II	{'NA': 3, 'Cluster 44': 1}
+[2Fe-2S] iron-sulfur cluster biosynthesis	{'NA': 5}
+guanosine ribonucleotides <i>de novo</i> biosynthesis	{'NA': 7, 'Cluster 25': 2, 'Cluster 31': 2, 'Cluster 69': 2, 'Cluster 5': 1}
+luteolin triglucuronide degradation	{'NA': 0, 'Cluster 51': 1}
+dTDP-&beta;-D-fucofuranose biosynthesis	{'NA': 0, 'Cluster 69': 1, 'Cluster 54': 1, 'Cluster 5': 1}
+pyruvate decarboxylation to acetyl CoA I	{'NA': 10, 'Cluster 66': 1, 'Cluster 44': 1, 'Cluster 8': 1}
+aerobactin biosynthesis	{'NA': 2}
+pyruvate fermentation to (<i>R</i>)-lactate	{'NA': 1}
+superoxide radicals degradation	{'NA': 6, 'Cluster 46': 1, 'Cluster 25': 1, 'Cluster 16': 1, 'Cluster 13': 1, 'Cluster 41': 1}
+2-oxoglutarate decarboxylation to succinyl-CoA	{'NA': 3, 'Cluster 20': 1, 'Cluster 44': 1, 'Cluster 6': 1}
+methylsalicylate degradation	{'NA': 4, 'Cluster 28': 1}
+adenine and adenosine salvage VI	{'NA': 1}
+<i>trans</i>-4-hydroxy-L-proline degradation I	{'NA': 1}
+dipyrromethane cofactor biosynthesis	{'NA': 3}
+glycine biosynthesis III	{'NA': 1}
+bile acids deconjugation	{'NA': 1}
+&beta;-carotene biosynthesis	{'NA': 2}
+methyl-coenzyme M reduction to methane	{'NA': 5}
+farnesylcysteine salvage pathway	{'NA': 3, 'Cluster 14': 1}
+L-arabinose degradation I	{'NA': 0, 'Cluster 31': 2}
+formaldehyde oxidation VII (THF pathway)	{'NA': 2, 'Cluster 38': 1, 'Cluster 7': 1, 'Cluster 47': 1}
+guanine and guanosine salvage I	{'NA': 4, 'Cluster 23': 1}
+D-<i>myo</i>-inositol (1,4,5)-trisphosphate biosynthesis	{'NA': 14, 'Cluster 28': 1, 'Cluster 43': 1}
+diphthamide biosynthesis II (eukaryotes)	{'NA': 5, 'Cluster 38': 1}
+purine nucleobases degradation II (anaerobic)	{'NA': 20, 'Cluster 15': 1, 'Cluster 47': 2, 'Cluster 38': 1, 'Cluster 7': 1}
+L-proline biosynthesis I (from L-glutamate)	{'NA': 12, 'Cluster 16': 1, 'Cluster 47': 1, 'Cluster 46': 1}
+glycerol degradation V	{'NA': 2, 'Cluster 18': 1}
+adenine and adenosine salvage III	{'NA': 14, 'Cluster 23': 1}
