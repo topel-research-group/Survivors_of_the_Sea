@@ -111,6 +111,9 @@ _Check the upregulated genes_
 
 (Cytosolic in diatoms? [cf. plastidic in plants])
 
+Largely upregulated, especially phosphopentose isomerase
+
+_What are the consequences in terms of products?_
 
 | R05 | GF04 |
 |-----|------|
