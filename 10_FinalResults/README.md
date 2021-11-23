@@ -92,10 +92,26 @@ _Any further conclusions to be drawn?_
 |-----|------|
 | ![R05_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.R05.lfc0.png) | ![GF04_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.GF04.lfc0.png) |
 
-### Calvin Cycle
+### Calvin cycle
 **Relevance**: Related to photosynthesis, so would expect downregulation
+
+Results need checking, as many of the genes involved seem to be upregulated, some quite significantly
+* This could be due to these genes being involved in other pathways, however
+
+_Check the upregulated genes_
 
 
 | R05 | GF04 |
 |-----|------|
 | ![R05_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.R05.lfc0.png) | ![GF04_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.GF04.lfc0.png) |
+
+
+### Pentose phosphate pathway
+**Relevance**: Parallel process to glycolysis
+
+(Cytosolic in diatoms? [cf. plastidic in plants])
+
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.R05.lfc0.png) | ![GF04_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.GF04.lfc0.png) |
