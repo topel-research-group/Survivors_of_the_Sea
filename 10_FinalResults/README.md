@@ -6,23 +6,31 @@ be differentially expressed (see [`04_DiffExp`](../04_DiffExp)),  despite restin
 
 ## Pathways
 
-### Citric Acid Cycle
-a.k.a. TCA cycle, Krebs cycle  
+### Citric Acid Cycle (a.k.a. TCA cycle, Krebs cycle)
 **Relevance:** Energy release from fats, carbohydrates and proteins, and production of NADH and AA precursors
 
-The cycle overall seems to have a 56d uptick, slightly delayed after addition of nutrients, before dropping
-* A few genes appear to be **up**regulated, albeit very slightly
-  * 2-oxoglutarate dehydrogenase E2 (Sm_t00006507-RA)
-  * Fumarate hydratase (class II) (Sm_t00006973-RA)
+**Expectations in darkness, anoxia, and nitrogen starvation?**
+* Nitrogen starvation
+  * [Lin et al., 2017](https://doi.org/10.1371/journal.pone.0184849) - upregulation of several TCA cycle genes (_T. pseudonana_, 7 days)
+  * [Alipanah et al., 2015](https://doi.org/10.1093/jxb/erv340) - upregulation of early TCA cycle genes (_P. tricornutum_, 3 days)
+  * [Levitan et al., 2015](https://doi.org/10.1073/pnas.1419818112) - upregulation of TCA cycle genes (_P. tricornutum_, 2 days)
+  * [Pelusi, 2019](https://doi.org/10.21954/ou.ro.0000e77c) - upregulation of most TCA cycle genes (_C. socialis_, 4 days)
+
+* Darkness
+  * [Kennedy et al., 2019](https://doi.org/10.1111/nph.15843) - upregulation of TCA cycle, even later in the experiment (_F. cylindrus_, 120 days + recovery)
+
+The cycle overall seems to be downregulated, with upticks at 56d and 189d
+
+A few genes appear to be **up**regulated, albeit very slightly
+* a-ketoglutarate dehydrogenase E2 (Sm_t00006507-RA)
+* Fumarate hydratase (class II) (Sm_t00006973-RA)
+* Malate dehydrogenase (cytosolic) (Sm_t00001686-RA)
+
+_Consequences of these potentially-upregulated genes?_
 
 | R05 | GF04 |
 |-----|------|
 | ![R05_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.lfc0.png) | ![GF04_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.lfc0.png) |
-
-
-
-
-
 
 
 ### Urea Cycle
