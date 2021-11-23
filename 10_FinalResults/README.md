@@ -80,10 +80,22 @@ Both nitrate reductase (Sm_t00006755-RA) and nitrite reductase (Sm_t00001748-RA)
 * Nitrate reductase shows LFC 3.93 increase at 49d in R05, LFC 8.15 increase at 49d in GF04 (upregulated throughout)
 * Nitrite reductase shows LFC 2.66 increase at 49d in R05, LFC 5.35 increase at 49d in GF04
   * Downregulated in all subsequent R05 timepoints, upregulated at 56/72d in GF04 (down at 189d, rest not significant)
-* Nitric oxide reductase ()
+* **This is consistent with expectations regarding resting stages being capable of DNRA**
+
+* Nitric oxide reductase (Sm_t00000914-RA and Sm_t00013435-RA?) slightly upregulated; consequences?
 * No nitrous oxide reductase found
-* This is consistent with expectations regarding resting stages being capable of DNRA
+
+_Any further conclusions to be drawn?_
+
 
 | R05 | GF04 |
 |-----|------|
 | ![R05_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.R05.lfc0.png) | ![GF04_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.GF04.lfc0.png) |
+
+### Calvin Cycle
+**Relevance**: Related to photosynthesis, so would expect downregulation
+
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.R05.lfc0.png) | ![GF04_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.GF04.lfc0.png) |
