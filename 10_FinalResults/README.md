@@ -11,10 +11,19 @@ a.k.a. TCA cycle, Krebs cycle
 **Relevance:** Energy release from fats, carbohydrates and proteins, and production of NADH and AA precursors
 
 The cycle overall seems to have a 56d uptick, slightly delayed after addition of nutrients, before dropping
+* A few genes appear to be **up**regulated, albeit very slightly
+  * 2-oxoglutarate dehydrogenase E2 (Sm_t00006507-RA)
+  * Fumarate hydratase (class II) (Sm_t00006973-RA)
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_TCA_Cycle_partial](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.lfc0.png) | ![GF04_TCA_Cycle_partial](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.lfc0.png) |
+| ![R05_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.lfc0.png) | ![GF04_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.lfc0.png) |
+
+
+
+
+
+
 
 ### Urea Cycle
 a.k.a. ornithine-urea cycle  
@@ -118,3 +127,18 @@ _What are the consequences in terms of products?_
 | R05 | GF04 |
 |-----|------|
 | ![R05_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.R05.lfc0.png) | ![GF04_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.GF04.lfc0.png) |
+
+
+### Transporters
+**Relevance**: If transporters, particularly active ones, are being produced, the product they're transporting is likely of importance
+
+#### V-type ATPases
+"V-ATPases couple the energy of ATP hydrolysis to proton transport across intracellular and plasma membranes of eukaryotic cells." (Wikipedia)
+
+One V-type proton ATPase 16 KDa proteolipid subunit (Sm_t00014741-RA) appears to be upregulated in R05 at all timepoints
+* A few others seem to be slightly upregulated
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_V-ATPases](../08_GenesToLookFor/GeneChecks/Transporters/VtypeATPase.R05.lfc0.png) | ![GF04_V-ATPases](../08_GenesToLookFor/GeneChecks/Transporters/VtypeATPase.GF04.lfc0.png) |
+
