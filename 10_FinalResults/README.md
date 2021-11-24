@@ -9,7 +9,7 @@ be differentially expressed (see [`04_DiffExp`](../04_DiffExp)),  despite restin
 ### Citric Acid Cycle (a.k.a. TCA cycle, Krebs cycle)
 **Relevance:** Energy release from fats, carbohydrates and proteins, and production of NADH and AA precursors
 
-**Expectations in darkness, anoxia, and nitrogen starvation?**
+**Expectations in nitrogen starvation, darkness, and anoxia?**
 * Nitrogen starvation
   * [Lin et al., 2017](https://doi.org/10.1371/journal.pone.0184849) - upregulation of several TCA cycle genes (_T. pseudonana_, 7 days)
   * [Alipanah et al., 2015](https://doi.org/10.1093/jxb/erv340) - upregulation of early TCA cycle genes (_P. tricornutum_, 3 days)
@@ -17,25 +17,36 @@ be differentially expressed (see [`04_DiffExp`](../04_DiffExp)),  despite restin
   * [Pelusi, 2019](https://doi.org/10.21954/ou.ro.0000e77c) - upregulation of most TCA cycle genes (_C. socialis_, 4 days)
 
 * Darkness
-  * [Kennedy et al., 2019](https://doi.org/10.1111/nph.15843) - upregulation of TCA cycle, even later in the experiment (_F. cylindrus_, 120 days + recovery)
+  * [Kennedy et al., 2019](https://doi.org/10.1111/nph.15843) - upregulation of TCA cycle later in the experiment, from day 30 (_F. cylindrus_, 120 days + recovery)
+    * "This delayed upregulation appears to correspond with the expression of the EDP [Entner-Doudoroff pathway] and lower-phase mitochondrial glycolytic proteins."
+
+* Anoxia
+  * ?????????
 
 The cycle overall seems to be downregulated, with upticks at 56d and 189d
+* **This seems to be at odds with the above studies, which found TCA cycle upregulation!**
+
 
 A few genes appear to be **up**regulated, albeit very slightly
 * a-ketoglutarate dehydrogenase E2 (Sm_t00006507-RA)
 * Fumarate hydratase (class II) (Sm_t00006973-RA)
 * Malate dehydrogenase (cytosolic) (Sm_t00001686-RA)
 
-_Consequences of these potentially-upregulated genes?_
 
 | R05 | GF04 |
 |-----|------|
 | ![R05_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.lfc0.png) | ![GF04_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.lfc0.png) |
 
 
-### Urea Cycle
-a.k.a. ornithine-urea cycle  
+### Urea Cycle (a.k.a. ornithine-urea cycle)
 **Relevance:** Production of urea, potential nitrogen storage? _Check specifics in literature_
+
+**Expectations in nitrogen starvation, darkness, and anoxia?**
+* Nitrogen starvation
+* Darkness
+* Anoxia
+
+
 
 Parts of the cycle are upregulated at all times, some experience an uptick, others are downregulated
 * What is the consequence of this regarding accumulation of intermediates?
@@ -43,6 +54,7 @@ Parts of the cycle are upregulated at all times, some experience an uptick, othe
 | R05 | GF04 |
 |-----|------|
 | ![R05_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.R05.lfc0.png) | ![GF04_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.GF04.lfc0.png) |
+
 
 ### Glycolysis
 **Relevance**: Ultimately leads to the production of pyruvate and energy
