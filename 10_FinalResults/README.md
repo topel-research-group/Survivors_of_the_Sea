@@ -66,6 +66,15 @@ Parts of the cycle are upregulated at all times, some experience an uptick, othe
 |-----|------|
 | ![R05_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.R05.lfc0.png) | ![GF04_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.GF04.lfc0.png) |
 
+### Pyrimidine synthesis
+**Relevance:** Upregulation of carbamoyl phosphate synthetase (as seen above) may result in increased carbamoyl phosphate, which is upstream of pyrimidine synthesis
+* Is the rest of the pathway upregulated?
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_PyrimidineSynth_WIP](../08_GenesToLookFor/GeneChecks/PyrimidineSynthesis/PyrimidineSynthesis.R05.lfc0.png) | ![GF04_PyrimidineSynth_WIP](../08_GenesToLookFor/GeneChecks/PyrimidineSynthesis/PyrimidineSynthesis.GF04.lfc0.png) |
+
+
 
 ### Glycolysis
 **Relevance**: Ultimately leads to the production of pyruvate and energy
