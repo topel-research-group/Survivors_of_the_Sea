@@ -46,9 +46,20 @@ A few genes appear to be **up**regulated, albeit very slightly
 * Darkness
 * Anoxia
 
-
-
 Parts of the cycle are upregulated at all times, some experience an uptick, others are downregulated
+* Most obviously upregulated (esp. in GF04):
+  * Carbamoyl phosphate synthetase (Sm_t00011045-RA)
+  * Carbamoyl phosphate synthetase (Sm_t00016890-RA)
+    * Accumulation of carbamoyl phosphate?
+      * Synthesis of pyrimidines?
+  * Argininosuccinate lyase (Sm_t00022473-RA)
+    * Accumulation of arginine?
+  * Putative ornithine decarboxylase (Sm_t00013313-RA)
+    * Accumulation of polyamines?
+* Most obviously downregulated (esp. in GF04):
+  * Urease accessory protein (Sm_t000022475-RA)
+  * Active urea transporter (Sm_t00011008-RA)
+
 * What is the consequence of this regarding accumulation of intermediates?
 
 | R05 | GF04 |
