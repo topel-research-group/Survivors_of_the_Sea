@@ -87,6 +87,8 @@ Some genes modestly upregulated, particularly in GF04
 **Relevance**: Ultimately leads to the production of pyruvate and energy
 
 Need to check that all annotations are correct, but very little seems to be regulated; SOME upregulation at 56d?
+* Where there are multiple copies of a gene, some are upregulated while others are downregulated
+  * How different are their sequences?
 
 _Results below are preliminary; some genes may be unaccounted for_
 
