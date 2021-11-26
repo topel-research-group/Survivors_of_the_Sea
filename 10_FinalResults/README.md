@@ -89,6 +89,10 @@ Some genes modestly upregulated, particularly in GF04
 Need to check that all annotations are correct, but very little seems to be regulated; SOME upregulation at 56d?
 * Where there are multiple copies of a gene, some are upregulated while others are downregulated
   * How different are their sequences?
+* Re: glyceraldehyde 3-phosphate dehydrogenase:
+  * "In addition to this long established metabolic function, GAPDH has recently been implicated in several non-metabolic processes,
+     including transcription activation, initiation of apoptosis, ER to Golgi vesicle shuttling, and fast axonal, or axoplasmic transport" (Wikipedia)
+
 
 _Results below are preliminary; some genes may be unaccounted for_
 
@@ -153,11 +157,22 @@ _Any further conclusions to be drawn?_
 ### Calvin cycle
 **Relevance**: Related to photosynthesis, so would expect downregulation
 
-Results need checking, as many of the genes involved seem to be upregulated, some quite significantly
-* This could be due to these genes being involved in other pathways, however
+Some upregulated genes shared with glycolysis:
+* Phosphoglycerate kinase (Sm_t00000224-RA)
+* Triosephosphate isomerase (Sm_t00010996-RA)
+* Fructose-bisphosphate aldolase (Sm_t00010852-RA)
 
-_Check the upregulated genes_
+Some upregulated genes are shared with the pentose phosphate pathway
+* Transketolase
+* Phosphopentose isomerase
+* Phosphopentose epimerase
 
+Fructose-1,6-bisphosphatase is shared with gluconeogenesis
+
+Phosphoribulokinase (Sm_t00022457-RA) is only upregulated at 49d, but quite significantly so; it then moves into downregulation
+* This gene is supposed to be unique to the Calvin cycle, and the sequence appears to be accurate (if anything, the gene model should be extended a little)
+* Why would such a gene be upregulated in darkness?
+  * Also requires ATP so would be expending energy this way...
 
 | R05 | GF04 |
 |-----|------|
