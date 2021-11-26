@@ -104,6 +104,8 @@ _Results below are preliminary; some genes may be unaccounted for_
 **Relevance**: Production of hexoses from pyruvate as fuel for storage carbohydrate synthesis
 
 Seems to be upregulated overall, to varying degrees
+* Note: Sm_t00006651-RA _does_ have the lowest average N content in AA sidechains of the three pyruvate kinases identified, after manual correction of indels in the reference
+  * 0.307 vs. 0.345/0.341; check whether this is significant
 
 _Some genes still need to be checked_
 
@@ -159,6 +161,7 @@ _Any further conclusions to be drawn?_
 
 Some upregulated genes shared with glycolysis:
 * Phosphoglycerate kinase (Sm_t00000224-RA)
+* Glyceraldehyde 3-phosphate dehydrogenase (Sm_t00011559-RA)
 * Triosephosphate isomerase (Sm_t00010996-RA)
 * Fructose-bisphosphate aldolase (Sm_t00010852-RA)
 
