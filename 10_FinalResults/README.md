@@ -194,6 +194,7 @@ Sedoheptulose-1,7-bisphosphatase (Sm_t00001110-RA) is also upregulated and yet u
 Largely upregulated, especially phosphopentose isomerase
 
 _What are the consequences in terms of products?_
+* _Still missing some genes!_
 
 | R05 | GF04 |
 |-----|------|
