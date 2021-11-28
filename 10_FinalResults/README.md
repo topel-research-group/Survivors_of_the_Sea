@@ -107,6 +107,8 @@ Seems to be upregulated overall, to varying degrees
 * Note: Sm_t00006651-RA _does_ have the lowest average N content in AA sidechains of the three pyruvate kinases identified, after manual correction of indels in the reference
   * 0.307 vs. 0.345/0.341; check whether this is significant
 
+Note that glucose-6-phosphatase (final step in gluconeogenesis) has not yet been identified in diatoms
+
 _Some genes still need to be checked_
 
 | R05 | GF04 |
@@ -176,6 +178,8 @@ Phosphoribulokinase (Sm_t00022457-RA) is only upregulated at 49d, but quite sign
 * This gene is supposed to be unique to the Calvin cycle, and the sequence appears to be accurate (if anything, the gene model should be extended a little)
 * Why would such a gene be upregulated in darkness?
   * Also requires ATP so would be expending energy this way...
+
+Sedoheptulose-1,7-bisphosphatase (Sm_t00001110-RA) is also upregulated and yet unique to the Calvin cycle
 
 | R05 | GF04 |
 |-----|------|
