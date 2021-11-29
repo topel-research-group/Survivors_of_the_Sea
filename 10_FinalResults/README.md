@@ -181,6 +181,9 @@ Phosphoribulokinase (Sm_t00022457-RA) is only upregulated at 49d, but quite sign
 
 Sedoheptulose-1,7-bisphosphatase (Sm_t00001110-RA) is also upregulated and yet unique to the Calvin cycle
 
+_Note: Some of the a-ketoglutarate dehydrogenase E3 predictions may be dihydrolipoyl dehydrogenase
+(i.e. pyruvate dehydrogenase complex E3)_
+
 | R05 | GF04 |
 |-----|------|
 | ![R05_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.R05.lfc0.png) | ![GF04_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.GF04.lfc0.png) |
