@@ -24,7 +24,20 @@ This pathway appears to be largely downregulated. However, there are some except
   * In GF04, the both copies are upregulated at 56d but downregulated the rest of the time (with a couple of NAs)
 * Three copies of **pyruvate kinase** (`Sm_t00008044-RA`, `Sm_t00010856-RA`, `Sm_t00010857-RA`) are upregulated to varying degrees throughout, especially in GF04
 
-**Overall, there appears to be a spike in activity at 56d, as though the cells are reacting to the introduction of nitrate**
+With a |LFC| > 1 threshold, genes showing upregulation are:
+* Phosphoglycerate kinase (`Sm_t00000224-RA`)
+* Pyruvate kinase (`Sm_t00010857-RA`)
+* R05 only:
+  * Glyceraldehyde-3-phosphate dehydrogenase (`Sm_t00011559-RA`)
+* GF04 only:
+  * Fructose-bisphosphate aldolase (`Sm_t00010852-RA`, 49d only)
+  * Triosephosphate isomerase (`Sm_t00010996-RA`, 49d + 56d only)
+  * Enolase (`Sm_t00022481-RA`, 56d only)
+  * Pyruvate kinase (`Sm_t00010856-RA`)
+
+**Overall, the pathway seems to be downregulated, with a spike in activity at 56d, as though the cells are reacting to the introduction of nitrate**
+* **Some genes, particularly in the lower 'pay-off' part of the pathway are strongly upregulated throughout**
+
 
 Where there are multiple copies of a gene, some are upregulated while others are downregulated
 * How different are their sequences?
