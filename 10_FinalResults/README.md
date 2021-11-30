@@ -9,12 +9,25 @@ be differentially expressed (see [`04_DiffExp`](../04_DiffExp)),  despite restin
 ### Glycolysis
 **Relevance**: Ultimately leads to the production of pyruvate and energy
 
-Need to check that all annotations are correct, but very little seems to be regulated; SOME upregulation at 56d?
-* Where there are multiple copies of a gene, some are upregulated while others are downregulated
-  * How different are their sequences?
-* Re: glyceraldehyde 3-phosphate dehydrogenase:
+This pathway appears to be largely downregulated. However, there are some exceptions:
+* One copy of **glucose-6-phosphate isomerase** (`Sm_t00012052-RA`) is slightly upregulated in R05
+* One copy of **fructose-bisphosphate aldolase** (`Sm_t00010852-RA`) is upregulated in the first one (GF04) or two (R05) timepoints, but downregulated later
+* One copy of **triosephosphate isomerase** (`Sm_t00010996-RA`) is upregulated early at 49d before being downregulated in R05, and is consistently upregulated through to 91d in GF04
+* One copy of **glyceraldehyde-3-phosphate dehydrogenase** (`Sm_t00011559-RA`) is upregulated throughout, especially in R05
   * "In addition to this long established metabolic function, GAPDH has recently been implicated in several non-metabolic processes,
      including transcription activation, initiation of apoptosis, ER to Golgi vesicle shuttling, and fast axonal, or axoplasmic transport" (Wikipedia)
+* One copy of **phosphoglycerate kinase** (`Sm_t00000224-RA`) is upregulated throughout, especially in GF04
+  * Another copy (`Sm_t00007435-RA`) is upregulated throughout in R05, and at 49d before downregulation in GF04
+* One copy of **phosphoglycerate mutase** (`Sm_t00003852-RA`) is upregulated in later timepoints in both strains (early NAs)
+  * Another copy (`Sm_t00000874-RA`) is upregulated at 56d, but downregulated at all other timepoints (NA at 72d)
+* In R05, one copy of **enolase** (`Sm_t00022481-RA`) is upregulated between 56d and 91d (others NA), while the other copy (`Sm_t00022487-RA`) has all NAs
+  * In GF04, the both copies are upregulated at 56d but downregulated the rest of the time (with a couple of NAs)
+* Three copies of **pyruvate kinase** (`Sm_t00008044-RA`, `Sm_t00010856-RA`, `Sm_t00010857-RA`) are upregulated to varying degrees throughout, especially in GF04
+
+**Overall, there appears to be a spike in activity at 56d, as though the cells are reacting to the introduction of nitrate**
+
+Where there are multiple copies of a gene, some are upregulated while others are downregulated
+* How different are their sequences?
 
 | R05 | GF04 |
 |-----|------|
