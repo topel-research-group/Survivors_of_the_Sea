@@ -6,6 +6,22 @@ be differentially expressed (see [`04_DiffExp`](../04_DiffExp)),  despite restin
 
 ## Pathways
 
+### Glycolysis
+**Relevance**: Ultimately leads to the production of pyruvate and energy
+
+Need to check that all annotations are correct, but very little seems to be regulated; SOME upregulation at 56d?
+* Where there are multiple copies of a gene, some are upregulated while others are downregulated
+  * How different are their sequences?
+* Re: glyceraldehyde 3-phosphate dehydrogenase:
+  * "In addition to this long established metabolic function, GAPDH has recently been implicated in several non-metabolic processes,
+     including transcription activation, initiation of apoptosis, ER to Golgi vesicle shuttling, and fast axonal, or axoplasmic transport" (Wikipedia)
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_Glycolysis](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.R05.lfc0.png) | ![GF04_Glycolysis](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.GF04.lfc0.png) |
+
+
+
 ### Citric Acid Cycle (a.k.a. TCA cycle, Krebs cycle)
 **Relevance:** Energy release from fats, carbohydrates and proteins, and production of NADH and AA precursors
 
@@ -81,24 +97,6 @@ Some genes modestly upregulated, particularly in GF04
 ### Purine synthesis
 **Relevance**: As pyrimidine synthesis may be modestly upregulated, what about purine synthesis?
 
-
-
-### Glycolysis
-**Relevance**: Ultimately leads to the production of pyruvate and energy
-
-Need to check that all annotations are correct, but very little seems to be regulated; SOME upregulation at 56d?
-* Where there are multiple copies of a gene, some are upregulated while others are downregulated
-  * How different are their sequences?
-* Re: glyceraldehyde 3-phosphate dehydrogenase:
-  * "In addition to this long established metabolic function, GAPDH has recently been implicated in several non-metabolic processes,
-     including transcription activation, initiation of apoptosis, ER to Golgi vesicle shuttling, and fast axonal, or axoplasmic transport" (Wikipedia)
-
-
-_Results below are preliminary; some genes may be unaccounted for_
-
-| R05 | GF04 |
-|-----|------|
-| ![R05_Glycolysis_prelim](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.R05.lfc0.png) | ![GF04_Glycolysis_prelim](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.GF04.lfc0.png) |
 
 ### Gluconeogenesis
 **Relevance**: Production of hexoses from pyruvate as fuel for storage carbohydrate synthesis
@@ -228,6 +226,25 @@ Mitochondrial genes are either downregulated or NAs...
 ### Plastid
 
 Plastid genes differ in their regulation; what does this mean?
+
+* Thiamine biosynthesis protein upregulated at day 49 in R05
+* Photosystem II protein W upreuglated at day 49 in GF04
+* Heat shock protein 70 very upregulated in most cases (NA in R05 126d)
+  * Stress-related so this seems reasonable
+* Elongation factor Tu upregulated at some GF04 timepoints (R05 shows downregulation)
+* Ribosomal proteins L21, L27, and L34 upregulated at most timepoints in both strains (present in repeat region)
+* Ribosomal protein S14 upregulated at most timepoints in both strains
+  * S18 strongly upregulated in GF04 only
+* Preprotein translocase subunit SecA upregulated in both strains at all timepoints (present in repeat region)
+  * According to Kim et al., 2020, involved in transporting proteins INTO the thylakoid lumen (requires ATP)
+* Cell division protein upregulated in both strains (first three in R05, all in GF04)
+  * From NCBI: "ATP-dependent zinc metalloprotease FtsH family protein similar to Arabidopsis thaliana FTSH 8,
+    part of a complex that functions as an ATP-dependent zinc metallopeptidase, and which is involved in the
+    thylakoid formation and in the removal of damaged D1 in the photosystem II, preventing cell death under
+    high-intensity light conditions."
+* Mg-protoporyphyrin IX chelatase upregulated in both strains
+
+Why are only SOME ribosomal proteins upregulated? Some are also explicitly DOWNregulated (many NAs too)
 
 | R05 | GF04 |
 |-----|------|
