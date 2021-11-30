@@ -217,3 +217,18 @@ One V-type proton ATPase 16 KDa proteolipid subunit (Sm_t00014741-RA) appears to
 |-----|------|
 | ![R05_V-ATPases](../08_GenesToLookFor/GeneChecks/Transporters/VtypeATPase.R05.lfc0.png) | ![GF04_V-ATPases](../08_GenesToLookFor/GeneChecks/Transporters/VtypeATPase.GF04.lfc0.png) |
 
+### Mitochondrion
+
+Mitochondrial genes are either downregulated or NAs...
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_mito](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Mito.R05.lfc0.png) | ![GF04_mito](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Mito.GF04.lfc0.png) |
+
+### Plastid
+
+Plastid genes differ in their regulation; what does this mean?
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_plastid](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Plastid.R05.lfc0.png) | ![GF04_plastid](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Plastid.GF04.lfc0.png) |
