@@ -99,6 +99,20 @@ Note that glucose-6-phosphatase (final step in gluconeogenesis) has not yet been
 | ![R05_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.R05.lfc0.png) | ![GF04_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.GF04.lfc0.png) |
 
 
+### Pentose phosphate pathway
+**Relevance**: Parallel process to glycolysis
+
+(Cytosolic in diatoms? [cf. plastidic in plants])
+
+Largely upregulated, especially phosphopentose isomerase
+
+_What are the consequences in terms of products?_
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.R05.lfc0.png) | ![GF04_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.GF04.lfc0.png) |
+
+
 
 
 
@@ -221,21 +235,6 @@ _Note: Some of the a-ketoglutarate dehydrogenase E3 predictions may be dihydroli
 | R05 | GF04 |
 |-----|------|
 | ![R05_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.R05.lfc0.png) | ![GF04_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.GF04.lfc0.png) |
-
-
-### Pentose phosphate pathway
-**Relevance**: Parallel process to glycolysis
-
-(Cytosolic in diatoms? [cf. plastidic in plants])
-
-Largely upregulated, especially phosphopentose isomerase
-
-_What are the consequences in terms of products?_
-* _Still missing some genes!_
-
-| R05 | GF04 |
-|-----|------|
-| ![R05_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.R05.lfc0.png) | ![GF04_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.GF04.lfc0.png) |
 
 
 ### Transporters
