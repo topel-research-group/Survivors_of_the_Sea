@@ -76,6 +76,7 @@ The cycle overall seems to be downregulated, with upticks at 56d and 189d
     * Cytosolic fumarase is involved in AA metabolism?
     * Yogev et al. (2010) implies both that cytosolic AND mitochondrial fumarase is encoded from the same gene, and that cytosolic fumarase
       is involved in scavenging of fumarate from the urea cycle, AA catabolism, and DSB break repair!
+      * E. coli sequence also shows no indication of mitochondrial targeting
   * The other fumarase (class I, `Sm_t00010766-RA`), is very likely mitochondrial, perhaps implying the upregulated one is cytosolic?
 
 
@@ -84,6 +85,18 @@ The cycle overall seems to be downregulated, with upticks at 56d and 189d
 | ![R05_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.lfc0.png) | ![GF04_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.lfc0.png) |
 
 
+### Gluconeogenesis
+**Relevance**: Production of hexoses from pyruvate as fuel for storage carbohydrate synthesis
+
+Seems to be upregulated overall, to varying degrees
+* Note: Sm_t00006651-RA _does_ have the lowest average N content in AA sidechains of the three pyruvate kinases identified, after manual correction of indels in the reference
+  * 0.307 vs. 0.345/0.341; check whether this is significant
+
+Note that glucose-6-phosphatase (final step in gluconeogenesis) has not yet been identified in diatoms
+
+| R05 | GF04 |
+|-----|------|
+| ![R05_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.R05.lfc0.png) | ![GF04_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.GF04.lfc0.png) |
 
 
 
@@ -101,8 +114,8 @@ The cycle overall seems to be downregulated, with upticks at 56d and 189d
 
 Parts of the cycle are upregulated at all times, some experience an uptick, others are downregulated
 * Most obviously upregulated (esp. in GF04):
-  * Carbamoyl phosphate synthetase (Sm_t00011045-RA)
-  * Carbamoyl phosphate synthetase (Sm_t00016890-RA)
+  * Carbamoyl phosphate synthetase (Sm_t00011045-RA) - cytosolic
+  * Carbamoyl phosphate synthetase (Sm_t00016890-RA) - mitochondrial
     * Accumulation of carbamoyl phosphate?
       * Synthesis of pyrimidines?
   * Argininosuccinate lyase (Sm_t00022473-RA)
@@ -135,20 +148,6 @@ Some genes modestly upregulated, particularly in GF04
 **Relevance**: As pyrimidine synthesis may be modestly upregulated, what about purine synthesis?
 
 
-### Gluconeogenesis
-**Relevance**: Production of hexoses from pyruvate as fuel for storage carbohydrate synthesis
-
-Seems to be upregulated overall, to varying degrees
-* Note: Sm_t00006651-RA _does_ have the lowest average N content in AA sidechains of the three pyruvate kinases identified, after manual correction of indels in the reference
-  * 0.307 vs. 0.345/0.341; check whether this is significant
-
-Note that glucose-6-phosphatase (final step in gluconeogenesis) has not yet been identified in diatoms
-
-_Some genes still need to be checked_
-
-| R05 | GF04 |
-|-----|------|
-| ![R05_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.R05.lfc0.png) | ![GF04_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.GF04.lfc0.png) |
 
 ### GS-GOGAT cycle
 **Relevance**: Ammonium assimmilation (i.e. downstream from DNRA?)
