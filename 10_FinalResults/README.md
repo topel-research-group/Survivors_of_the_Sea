@@ -37,7 +37,7 @@ With a |LFC| > 1 threshold, genes showing upregulation are:
 
 **Overall, the pathway seems to be downregulated, with a spike in activity at 56d, as though the cells are reacting to the introduction of nitrate**
 * **Some genes, particularly in the lower 'pay-off' part of the pathway are strongly upregulated throughout**
-
+* _The reactant feeding into the lower half - glyceraldehyde 3-phosphate - is a byproduct in tryptophan synthesis, and a reactant in thiamine biosynthesis_
 
 Where there are multiple copies of a gene, some are upregulated while others are downregulated
 * How different are their sequences?
@@ -67,17 +67,28 @@ Where there are multiple copies of a gene, some are upregulated while others are
 
 The cycle overall seems to be downregulated, with upticks at 56d and 189d
 * **This seems to be at odds with the above studies, which found TCA cycle upregulation!**
-
-
-A few genes appear to be **up**regulated, albeit very slightly
-* a-ketoglutarate dehydrogenase E2 (Sm_t00006507-RA)
-* Fumarate hydratase (class II) (Sm_t00006973-RA)
-* Malate dehydrogenase (cytosolic) (Sm_t00001686-RA)
+* A few genes appear to be **up**regulated, albeit very slightly
+  * a-ketoglutarate dehydrogenase E2 (Sm_t00006507-RA)
+  * Fumarate hydratase (class II) (Sm_t00006973-RA)
+  * Malate dehydrogenase (cytosolic) (Sm_t00001686-RA)
+* The most noticably upregulated of the above is the **fumarate hydratase (class II)** (`Sm_t00006973-RA`)
+  * MAY be targeted to the mitochondrion, which would indicate a role in the TCA cycle
+    * Cytosolic fumarase is involved in AA metabolism?
+    * Yogev et al. (2010) implies both that cytosolic AND mitochondrial fumarase is encoded from the same gene, and that cytosolic fumarase
+      is involved in scavenging of fumarate from the urea cycle, AA catabolism, and DSB break repair!
+  * The other fumarase (class I, `Sm_t00010766-RA`), is very likely mitochondrial, perhaps implying the upregulated one is cytosolic?
 
 
 | R05 | GF04 |
 |-----|------|
 | ![R05_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.lfc0.png) | ![GF04_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.lfc0.png) |
+
+
+
+
+
+
+
 
 
 ### Urea Cycle (a.k.a. ornithine-urea cycle)
