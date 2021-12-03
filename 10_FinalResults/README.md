@@ -88,7 +88,8 @@ The cycle overall seems to be downregulated, with upticks at 56d and 189d
 ### Gluconeogenesis
 **Relevance**: Production of hexoses from pyruvate as fuel for storage carbohydrate synthesis
 
-Seems to be upregulated overall, to varying degrees
+May be _slightly_ upregulated?
+
 * Note: Sm_t00006651-RA _does_ have the lowest average N content in AA sidechains of the three pyruvate kinases identified, after manual correction of indels in the reference
   * 0.307 vs. 0.345/0.341; check whether this is significant
 
@@ -143,8 +144,10 @@ Phosphoribulokinase (Sm_t00022457-RA) is only upregulated at 49d, but quite sign
 * This gene is supposed to be unique to the Calvin cycle, and the sequence appears to be accurate (if anything, the gene model should be extended a little)
 * Why would such a gene be upregulated in darkness?
   * Also requires ATP so would be expending energy this way...
+  * May not be light-regulated
 
 Sedoheptulose-1,7-bisphosphatase (Sm_t00001110-RA) is also upregulated and yet unique to the Calvin cycle
+* May not be light-regulated
 
 _Note: Some of the a-ketoglutarate dehydrogenase E3 predictions may be dihydrolipoyl dehydrogenase
 (i.e. pyruvate dehydrogenase complex E3)_
@@ -168,8 +171,7 @@ _Note: Some of the a-ketoglutarate dehydrogenase E3 predictions may be dihydroli
 
 Parts of the cycle are upregulated at all times, some experience an uptick, others are downregulated
 * Most obviously upregulated (esp. in GF04):
-  * Carbamoyl phosphate synthetase (Sm_t00011045-RA) - cytosolic
-  * Carbamoyl phosphate synthetase (Sm_t00016890-RA) - mitochondrial
+  * **Carbamoyl phosphate synthetase (Sm_t00016890-RA) - mitochondrial, urea cycle**
     * Accumulation of carbamoyl phosphate?
       * Synthesis of pyrimidines?
   * Argininosuccinate lyase (Sm_t00022473-RA)
@@ -179,6 +181,10 @@ Parts of the cycle are upregulated at all times, some experience an uptick, othe
 * Most obviously downregulated (esp. in GF04):
   * Urease accessory protein (Sm_t000022475-RA)
   * Active urea transporter (Sm_t00011008-RA)
+
+Note: Sm_t00011045-RA represents a likely cytosolic carbamoyl phosphate synthetase (with involvement in pyrimidine synthesis),
+and despite being **highly upregulated**, is not included here as it is not involved in the urea cycle
+
 
 * What is the consequence of this regarding accumulation of intermediates?
 
