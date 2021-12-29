@@ -44,7 +44,7 @@ Where there are multiple copies of a gene, some are upregulated while others are
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_Glycolysis](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.R05.lfc0.png) | ![GF04_Glycolysis](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.GF04.lfc0.png) |
+| ![R05_Glycolysis](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.R05.v8.lfc0.png) | ![GF04_Glycolysis](../08_GenesToLookFor/GeneChecks/Glycolysis/Glycolysis.GF04.v8.lfc0.png) |
 
 
 
@@ -82,7 +82,7 @@ The cycle overall seems to be downregulated, with upticks at 56d and 189d
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.lfc0.png) | ![GF04_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.lfc0.png) |
+| ![R05_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.R05.v8.lfc0.png) | ![GF04_TCA_Cycle](../08_GenesToLookFor/GeneChecks/CitricAcidCycle/TCAcycle.GF04.v8.lfc0.png) |
 
 
 ### Gluconeogenesis
@@ -104,7 +104,7 @@ Note that glucose-6-phosphatase (final step in gluconeogenesis) has not yet been
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.R05.lfc0.png) | ![GF04_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.GF04.lfc0.png) |
+| ![R05_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.R05.v8.lfc0.png) | ![GF04_Gluconeogenesis](../08_GenesToLookFor/GeneChecks/Gluconeogenesis/Gluconeogenesis.GF04.v8.lfc0.png) |
 
 
 ### Pentose phosphate pathway
@@ -118,7 +118,7 @@ _What are the consequences in terms of products?_
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.R05.lfc0.png) | ![GF04_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.GF04.lfc0.png) |
+| ![R05_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.R05.v8.lfc0.png) | ![GF04_PentosePhosphatePathway](../08_GenesToLookFor/GeneChecks/PentosePhosphatePathway/PentosePhosphatePathway.GF04.v8.lfc0.png) |
 
 ### Calvin cycle
 **Relevance**: Related to photosynthesis, so would expect downregulation
@@ -154,7 +154,7 @@ _Note: Some of the a-ketoglutarate dehydrogenase E3 predictions may be dihydroli
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.R05.lfc0.png) | ![GF04_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.GF04.lfc0.png) |
+| ![R05_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.R05.v8.lfc0.png) | ![GF04_CalvinCycle](../08_GenesToLookFor/GeneChecks/CalvinCycle/CalvinCycle.GF04.v8.lfc0.png) |
 
 
 
@@ -190,7 +190,7 @@ and despite being **highly upregulated**, is not included here as it is not invo
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.R05.lfc0.png) | ![GF04_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.GF04.lfc0.png) |
+| ![R05_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.R05.v8.lfc0.png) | ![GF04_Urea_Cycle](../08_GenesToLookFor/GeneChecks/UreaCycle/UreaCycle.GF04.v8.lfc0.png) |
 
 ### Pyrimidine synthesis
 **Relevance**: Upregulation of carbamoyl phosphate synthetase (as seen above) may result in increased carbamoyl phosphate, which is upstream of pyrimidine synthesis
@@ -202,7 +202,7 @@ Some genes modestly upregulated, particularly in GF04
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_PyrimidineSynth_WIP](../08_GenesToLookFor/GeneChecks/PyrimidineSynthesis/PyrimidineSynthesis.R05.lfc0.png) | ![GF04_PyrimidineSynth_WIP](../08_GenesToLookFor/GeneChecks/PyrimidineSynthesis/PyrimidineSynthesis.GF04.lfc0.png) |
+| ![R05_PyrimidineSynth_WIP](../08_GenesToLookFor/GeneChecks/PyrimidineSynthesis/PyrimidineSynthesis.R05.v8.lfc0.png) | ![GF04_PyrimidineSynth_WIP](../08_GenesToLookFor/GeneChecks/PyrimidineSynthesis/PyrimidineSynthesis.GF04.v8.lfc0.png) |
 
 ### Purine synthesis
 **Relevance**: As pyrimidine synthesis may be modestly upregulated, what about purine synthesis?
@@ -218,7 +218,7 @@ _Are there any more glutamine synthetases I'm missing?_
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.R05.lfc0.png) | ![GF04_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.GF04.lfc0.png) |
+| ![R05_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.R05.v8.lfc0.png) | ![GF04_GS-GOGAT_prelim](../08_GenesToLookFor/GeneChecks/GlutamateCycle/GS-GOGAT.GF04.v8.lfc0.png) |
 
 ### Ribosomes
 **Relevance**: Potential nitrogen storage, or protein synthesis is in overdrive to ensure survival
@@ -231,7 +231,7 @@ _Likely missing some ribosomal proteins at the moment_
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_RibosomalProteins](../08_GenesToLookFor/GeneChecks/RibosomalProteins/RibosomalProteins.R05.lfc0.png) | ![GF04_RibosomalProteins](../08_GenesToLookFor/GeneChecks/RibosomalProteins/RibosomalProteins.GF04.lfc0.png) |
+| ![R05_RibosomalProteins](../08_GenesToLookFor/GeneChecks/RibosomalProteins/RibosomalProteins.R05.v8.lfc0.png) | ![GF04_RibosomalProteins](../08_GenesToLookFor/GeneChecks/RibosomalProteins/RibosomalProteins.GF04.v8.lfc0.png) |
 
 ### DNRA
 **Relevance**: Phenomenon seen in several diatoms as a means of anaerobic energy generation
@@ -250,7 +250,7 @@ _Any further conclusions to be drawn?_
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.R05.lfc0.png) | ![GF04_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.GF04.lfc0.png) |
+| ![R05_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.R05.v8.lfc0.png) | ![GF04_Nitrate](../08_GenesToLookFor/GeneChecks/NitrateMetabolism/NitrateMetabolism.GF04.v8.lfc0.png) |
 
 
 
@@ -265,7 +265,7 @@ One V-type proton ATPase 16 KDa proteolipid subunit (Sm_t00014741-RA) appears to
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_V-ATPases](../08_GenesToLookFor/GeneChecks/Transporters/VtypeATPase.R05.lfc0.png) | ![GF04_V-ATPases](../08_GenesToLookFor/GeneChecks/Transporters/VtypeATPase.GF04.lfc0.png) |
+| ![R05_V-ATPases](../08_GenesToLookFor/GeneChecks/Transporters/VtypeATPase.R05.v8.lfc0.png) | ![GF04_V-ATPases](../08_GenesToLookFor/GeneChecks/Transporters/VtypeATPase.GF04.v8.lfc0.png) |
 
 ### Mitochondrion
 
@@ -273,7 +273,7 @@ Mitochondrial genes are either downregulated or NAs...
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_mito](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Mito.R05.lfc0.png) | ![GF04_mito](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Mito.GF04.lfc0.png) |
+| ![R05_mito](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Mito.R05.v8.lfc0.png) | ![GF04_mito](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Mito.GF04.v8.lfc0.png) |
 
 ### Plastid
 
@@ -300,4 +300,4 @@ Why are only SOME ribosomal proteins upregulated? Some are also explicitly DOWNr
 
 | R05 | GF04 |
 |-----|------|
-| ![R05_plastid](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Plastid.R05.lfc0.png) | ![GF04_plastid](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Plastid.GF04.lfc0.png) |
+| ![R05_plastid](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Plastid.R05.v8.lfc0.png) | ![GF04_plastid](../08_GenesToLookFor/GeneChecks/OrganellarGenes/Plastid.GF04.v8.lfc0.png) |
