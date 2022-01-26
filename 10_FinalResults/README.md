@@ -207,7 +207,9 @@ Some genes modestly upregulated, particularly in GF04
 ### Purine synthesis
 **Relevance**: As pyrimidine synthesis may be modestly upregulated, what about purine synthesis?
 
-
+| R05 | GF04 |
+|-----|------|
+| ![R05_PurineSynth](../08_GenesToLookFor/GeneChecks/PurineSynthesis/PurineSynthesis.R05.v8.lfc0.png) | ![GF04_PurineSynth](../08_GenesToLookFor/GeneChecks/PurineSynthesis/PurineSynthesis.GF04.v8.lfc0.png) |
 
 ### GS-GOGAT cycle
 **Relevance**: Ammonium assimmilation (i.e. downstream from DNRA?)
