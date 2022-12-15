@@ -1,0 +1,1900 @@
+Sm_t00002599-RA	1-aminocyclopropane-1-carboxylate synthase	4.4.1.14				-	-
+Sm_t00015478-RA	1,3-beta-glucan synthase component	2.4.1.34				-	-
+Sm_t00004328-RA	2-oxoglutarate dehydrogenase E1 component, mitochondrial	1.2.4.2				-	Mito
+Sm_t00008556-RA	2OG-Fe(II) oxygenase	1.14.11.-				-	-
+Sm_t00012777-RA	2OG-Fe(II) oxygenase superfamily protein	-				-	-
+Sm_t00001679-RA	3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100				-	-
+Sm_t00013333-RA	3-phosphoinositide-dependent protein kinase	2.7.11.1				-	-
+Sm_t00008619-RA	3'-5' exonuclease	3.1.-.-		Half coverage		-	-
+Sm_t00012563-RA	3'-5' exonuclease	3.1.-.-		Half coverage		-	-
+Sm_t00007751-RA	4-hydroxybenzoate polyprenyltransferase, mitochondrial	2.5.1.39				-	-
+Sm_t00006986-RA	6-phosphofructokinase (ATP)	2.7.1.11				-	-
+Sm_t00000745-RA	6-phosphofructokinase (pyrophosphate)	2.7.1.90				-	-
+Sm_t00018507-RA	ABC transporter	-			Check family	-	-
+Sm_t00005181-RA	ABC transporter, ABC-B family	-			Check family	-	-
+Sm_t00006302-RA	ABC transporter, ABC-G family	-			Check family	-	-
+Sm_t00012169-RA	ABC transporter, ABC-G family	-			Check family	-	-
+Sm_t00017253-RA	ABC transporter, ABC-G family	-			Check family	-	-
+Sm_t00017650-RA	ABC transporter, ABC-G family	-			Check family	-	-
+Sm_t00002182-RA	ABC1 kinase family protein, partial	2.7.-.-		Models should be merged		-	-
+Sm_t00005412-RA	abnormal spindle-related protein	-		Model should be split and partly merged with 5411/5413		-	-
+Sm_t00011889-RA	acetyl-CoA carboxylase, chloroplastic	6.4.1.2				Plastid	-
+Sm_t00001059-RA	acetyl-CoA synthetase	6.2.1.1				-	-
+Sm_t00003804-RA	acetylornithine aminotransferase, chloroplastic	2.6.1.11				Plastid	-
+Sm_t00006829-RA	acireductone dioxygenase	1.13.11.53,1.13.11.54				-	-
+Sm_t00013845-RA	activated RNA polymerase II transcriptional coactivator p15	-				-	-
+Sm_t00001677-RA	adenine phosphoribosyltransferase, partial	2.4.2.7		Models should be merged		-	-
+Sm_t00001678-RA	adenine phosphoribosyltransferase, partial	2.4.2.7		Models should be merged		-	-
+Sm_t00006501-RA	adenylate/guanylate cyclase domain-containing protein	4.6.1.-				-	-
+Sm_t00005960-RA	adenylyl-sulfate kinase	2.7.1.25				-	-
+Sm_t00002136-RA	ADP/ATP carrier protein	-				-	-
+Sm_t00010682-RA	alanine aminotransferase, mitochondrial	2.6.1.2				-	Mito
+Sm_t00011641-RA	aldehyde dehydrogenase	1.2.1.3				-	-
+Sm_t00012259-RA	aldo-keto reductase family protein	1.1.1.-		Type?		-	-
+Sm_t00012970-RA	aldo-keto reductase family protein	1.1.1.-		Type?		-	-
+Sm_t00008430-RA	aldo-keto reductase family protein	1.1.1.-		Type?		-	-
+Sm_t00011084-RA	aliphatic amidase	3.5.1.4				-	-
+Sm_t00000084-RA	allantoicase	3.5.3.4				-	-
+Sm_t00010662-RA	alpha carbonic anhydrase	4.2.1.1				-	-
+Sm_t00005447-RA	alpha-galactosidase	3.2.1.22				-	-
+Sm_t00001235-RA	alpha-L-rhamnosidase	3.2.1.40				-	-
+Sm_t00008429-RA	alpha/beta hydrolase family protein	-				-	-
+Sm_t00003718-RA	alpha/beta hydrolase family protein	-				-	-
+Sm_t00012035-RA	alpha/beta hydrolase family protein	-				-	-
+Sm_t00018099-RA	alpha/beta hydrolase family protein	-				-	-
+Sm_t00007581-RA	alpha/beta hydrolase family protein	-				-	-
+Sm_t00005166-RA	amino-acid acetyltransferase	2.3.1.1		Weird upstream coverage; could be truncated		-	-
+Sm_t00011064-RA	anaphase-promoting complex subunit 1	-				-	-
+Sm_t00009425-RA	ankyrin repeat domain-containing protein	-				-	-
+Sm_t00016996-RA	ankyrin repeat domain-containing protein	-				-	-
+Sm_t00017005-RA	ankyrin repeat domain-containing protein	-				-	-
+Sm_t00017057-RA	ankyrin repeat domain-containing protein	-				-	-
+Sm_t00005295-RA	ankyrin repeat domain-containing protein	-				-	-
+Sm_t00016502-RA	ankyrin repeat domain-containing protein	-				-	-
+Sm_t00002359-RA	anoctamin	-				-	-
+Sm_t00017904-RA	AP-4 complex accessory subunit Tepsin	-		Half coverage		-	-
+Sm_t00020525-RA	AP-4 complex accessory subunit Tepsin	-		Half coverage		-	-
+Sm_t00018662-RA	AP2/ERF family transcription factor	-				-	-
+Sm_t00016439-RA	arylsulfatase G	3.1.6.1,3.1.6.15		Triple-check?		-	-
+Sm_t00017044-RA	asparagine synthetase	6.3.5.4		Weird coverage		-	-
+Sm_t00015525-RA	aspartate-ammonia ligase	6.3.1.1				-	-
+Sm_t00011498-RA	aspartic peptidase, A1 family	3.4.23.-				-	-
+Sm_t00011797-RA	ATP synthase subunit beta, mitochondrial	7.1.2.2				-	-
+Sm_t00006130-RA	ATP-dependent DNA helicase	3.6.4.12				-	-
+Sm_t00004931-RA	ATP-dependent DNA helicase, RecQ family	3.6.4.12				-	-
+Sm_t00014434-RA	ATP-dependent kinase, chloroplastic	2.7.1.-		AIM12? Uridine kinase?		Plastid	-
+Sm_t00008908-RA	aurora kinase	2.7.11.1				-	-
+Sm_t00007723-RA	bestrophin family protein	-				-	-
+Sm_t00020371-RA	bestrophin family protein, chloroplastic	-		Half coverage		Plastid	-
+Sm_t00013463-RA	bestrophin family protein, mitochondrial	-				-	Mito
+Sm_t00015480-RA	beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase, mitochondrial	2.4.1.144		Should this be mitochondrial?		-	Mito
+Sm_t00001474-RA	bifunctional dihydrofolate reductase/thymidylate synthase	1.5.1.3,2.1.1.45				-	-
+Sm_t00008301-RA	bile acid:sodium symporter family protein	-				-	-
+Sm_t00009609-RA	bile acid:sodium symporter family protein	-				-	-
+Sm_t00014465-RA	bile acid:sodium symporter family protein	-				-	-
+Sm_t00001108-RA	branched-chain amino acid aminotransferase	2.6.1.42		D-alanine aminotransferase?		-	-
+Sm_t00018467-RA	C2HC-type zinc finger protein	-				-	-
+Sm_t00005782-RA	calcium-dependent protein kinase	2.7.11.1				-	-
+Sm_t00009640-RA	calcium:proton antiporter	-				-	-
+Sm_t00005638-RA	CAP domain-containing protein	-				-	-
+Sm_t00007847-RA	CAP domain-containing protein	-				-	-
+Sm_t00011731-RA	CAP domain-containing protein	-				-	-
+Sm_t00014838-RA	CAP domain-containing protein	-				-	-
+Sm_t00014484-RA	CAP domain-containing protein	-				-	-
+Sm_t00015031-RA	carbohydrate sulfotransferase	2.8.2.-		Type?		-	-
+Sm_t00011504-RA	cardiolipin synthase-related protein	2.7.8.-		Triple-check EC?		-	-
+Sm_t00000606-RA	cation-transporting ATPase	7.2.2.-		P-type		-	-
+Sm_t00010095-RA	Cdc45-like protein	-				-	-
+Sm_t00011123-RA	cell division control protein 6	-				-	-
+Sm_t00002528-RA	cell division cycle protein 20	-				-	-
+Sm_t00006883-RA	cell division cycle protein 20	-				-	-
+Sm_t00014856-RA	chalcone isomerase domain-containing protein	-				-	-
+Sm_t00005339-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00006234-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00009968-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00009994-RA	chlorophyll a-b binding domain-containing protein	-		Mitochondrial?		-	Mito
+Sm_t00011192-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00013186-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00014117-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00014172-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00018476-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00021487-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00021488-RA	chlorophyll a-b binding domain-containing protein	-				-	-
+Sm_t00000232-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00000401-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00000987-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00003421-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00003670-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00007377-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00008079-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00008080-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00009220-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00009403-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00009590-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00011988-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00012658-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00015030-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00015706-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00015707-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00016389-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-		Slightly weird coverage		Plastid	-
+Sm_t00016968-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00018477-RA	chlorophyll a-b binding domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00000714-RA	chlorophyll a-b binding domain-containing protein, chloroplastic, partial	-		Models should be merged		-	-
+Sm_t00000715-RA	chlorophyll a-b binding domain-containing protein, chloroplastic, partial	-		Models should be merged		Plastid	-
+Sm_t00004134-RA	choice-of-anchor L domain-containing protein	-				-	-
+Sm_t00004254-RA	choline/carnitine O-acyltransferase	2.3.1.-		Fix CDS, VERY truncated		-	-
+Sm_t00008859-RA	choline/carnitine O-acyltransferase, chloroplastic	2.3.1.-				Plastid	-
+Sm_t00013828-RA	chromatin assembly factor 1 subunit A	-				-	-
+Sm_t00013829-RA	chromatin assembly factor 1 subunit A	-				-	-
+Sm_t00012105-RA	chromodomain-helicase-DNA-binding protein	3.6.4.12			Type?	-	-
+Sm_t00000293-RA	chromosome transmission fidelity factor 18	-				-	-
+Sm_t00003398-RA	chromosome transmission fidelity factor 18	-				-	-
+Sm_t00010222-RA	citrate synthase, mitochondrial	2.3.3.1				-	Mito
+Sm_t00017243-RA	ClC family voltage-gated chloride channel protein, partial	-		Models should be merged		-	-
+Sm_t00017244-RA	ClC family voltage-gated chloride channel protein, partial	-		Models should be merged		-	-
+Sm_t00013402-RA	condensin complex subunit	-				-	-
+Sm_t00002277-RA	condensin complex subunit 1	-				-	-
+Sm_t00017250-RA	condensin complex subunit 2	-				-	-
+Sm_t00014399-RA	condensin complex subunit 3	-				-	-
+Sm_t00001403-RA	condensin-2 complex subunit G2	-				-	-
+Sm_t00001406-RA	condensin-2 complex subunit H2	-				-	-
+Sm_t00008037-RA	conserved oligomeric Golgi complex subunit 4	-				-	-
+Sm_t00006703-RA	COP9 signalosome complex subunit 5	3.4.-.-				-	-
+Sm_t00000091-RA	CTD small phosphatase-like protein 2	3.1.3.-		Definitely '2'?		-	-
+Sm_t00000434-RA	cyclin family protein	-				-	-
+Sm_t00003665-RA	cyclin family protein	-				-	-
+Sm_t00004945-RA	cyclin family protein	-				-	-
+Sm_t00005819-RA	cyclin family protein	-				-	-
+Sm_t00007071-RA	cyclin family protein	-				-	-
+Sm_t00007285-RA	cyclin family protein	-		2/3 coverage		-	-
+Sm_t00009970-RA	cyclin family protein	-				-	-
+Sm_t00010459-RA	cyclin family protein	-				-	-
+Sm_t00010460-RA	cyclin family protein	-				-	-
+Sm_t00011984-RA	cyclin family protein	-				-	-
+Sm_t00016333-RA	cyclin family protein	-				-	-
+Sm_t00018465-RA	cyclin family protein	-				-	-
+Sm_t00004739-RA	cyclin J family protein	-				-	-
+Sm_t00011758-RA	cyclin-dependent kinase	2.7.11.22		Also 2.7.11.23?		-	-
+Sm_t00013378-RA	cysteine synthase	2.5.1.47				-	-
+Sm_t00013888-RA	cysteine synthase	2.5.1.47				-	-
+Sm_t00004625-RA	cysteine synthase 1, mitochondrial	2.5.1.47				-	Mito
+Sm_t00003367-RA	cysteine synthase, mitochondrial	2.5.1.47				-	Mito
+Sm_t00015390-RA	cytochrome b561 and DOMON domain-containing protein	-				-	-
+Sm_t00003209-RA	cytochrome b6-f complex iron-sulfur subunit	7.1.1.6				-	-
+Sm_t00012684-RA	cytochrome c family protein, chloroplastic	-		c6 or c-553?		Plastid	-
+Sm_t00009118-RA	cytochrome P450 family protein, chloroplastic	-				Plastid	-
+Sm_t00004621-RA	cytochrome-c peroxidase	1.11.1.5				-	-
+Sm_t00022490-RA	cytochrome-c peroxidase, chloroplastic	1.11.1.5				Plastid	-
+Sm_t00001391-RA	cytoplasmic dynein heavy chain	-				-	-
+Sm_t00012567-RA	D-2-hydroxyacid dehydrogenase, mitochondrial	1.1.1.-				-	Mito
+Sm_t00012835-RA	D-cysteine desulfhydrase	4.4.1.15				-	-
+Sm_t00005887-RA	Delta-6 fatty acid desaturase	1.14.19.3		Also 1.14.19.44?		-	-
+Sm_t00007801-RA	Delta(24)-sterol reductase	1.3.1.72				-	-
+Sm_t00005945-RA	DENN domain-containing protein	-				-	-
+Sm_t00003463-RA	diacylglycerol lipase	3.1.1.116				-	-
+Sm_t00004961-RA	diacylglycerol lipase	3.1.1.116				-	-
+Sm_t00000664-RA	dienelactone hydrolase	3.1.1.45				-	-
+Sm_t00012183-RA	dihydrolipoamide dehydrogenase, mitochondrial	1.8.1.4				-	Mito
+Sm_t00022465-RA	dihydrolipoamide succinyltransferase, mitochondrial	2.3.1.61				-	Mito
+Sm_t00017683-RA	dimethylarginine dimethylaminohydrolase	3.5.3.18		Half coverage; model should be split		-	-
+Sm_t00001812-RA	divalent metal cation transporter	-				-	-
+Sm_t00012904-RA	DNA (cytosine-5)-methyltransferase	2.1.1.37				-	-
+Sm_t00014377-RA	DNA excision repair protein ERCC-6-like protein	3.6.4.12				-	-
+Sm_t00002842-RA	DNA ligase 1	6.5.1.1				-	-
+Sm_t00008259-RA	DNA ligase 4	6.5.1.1				-	-
+Sm_t00000223-RA	DNA mismatch repair protein MLH1	-				-	-
+Sm_t00001174-RA	DNA mismatch repair protein MutS family protein	-				-	-
+Sm_t00013401-RA	DNA mismatch repair protein MutS family protein	-				-	-
+Sm_t00019691-RA	DNA mismatch repair protein MutS family protein	-				-	-
+Sm_t00011974-RA	DNA photo-lyase	4.1.99.-		4.1.99.3 or 4.1.99.13?		-	-
+Sm_t00013295-RA	DNA polymerase alpha catalytic subunit	2.7.7.7				-	-
+Sm_t00000707-RA	DNA polymerase alpha subunit B	-				-	-
+Sm_t00007391-RA	DNA polymerase delta catalytic subunit	2.7.7.7,3.1.11.-				-	-
+Sm_t00008144-RA	DNA polymerase epsilon catalytic subunit A	2.7.7.7,3.1.11.-				-	-
+Sm_t00011080-RA	DNA polymerase epsilon subunit 2	-				-	-
+Sm_t00014630-RA	DNA primase large subunit	-				-	-
+Sm_t00002212-RA	DNA primase small subunit, partial	2.7.7.102		Models should be merged		-	-
+Sm_t00002213-RA	DNA primase small subunit, partial	2.7.7.102		Models should be merged		-	-
+Sm_t00008022-RA	DNA replication complex GINS protein PSF3	-				-	-
+Sm_t00005869-RA	DNA replication licensing factor	3.6.4.12		Which one?		-	-
+Sm_t00008451-RA	DNA replication licensing factor	3.6.4.12		Which one?		-	-
+Sm_t00006708-RA	DNA replication licensing factor MCM10	-		No conserved domains?		-	-
+Sm_t00017938-RA	DNA replication licensing factor MCM2	3.6.4.12		Half coverage		-	-
+Sm_t00002526-RA	DNA replication licensing factor MCM5	3.6.4.12				-	-
+Sm_t00002066-RA	DNA replication licensing factor MCM6	3.6.4.12				-	-
+Sm_t00001621-RA	DNA replication licensing factor MCM7	3.6.4.12				-	-
+Sm_t00016926-RA	DNA topoisomerase 6 subunit B	5.6.2.2				-	-
+Sm_t00012415-RA	DNA topoisomerase, type II	5.6.2.2				-	-
+Sm_t00007232-RA	DNA topoisomerase, type II	5.6.2.2				-	-
+Sm_t00012069-RA	DNA-(apurinic or apyrimidinic site) lyase	4.2.99.18		Triple-check?		-	-
+Sm_t00003277-RA	DnaJ domain-containing protein	-				-	-
+Sm_t00012173-RA	DnaJ domain-containing protein	-				-	-
+Sm_t00018448-RA	DnaJ domain-containing protein	-				-	-
+Sm_t00001546-RA	DOMON domain-containing protein	-				-	-
+Sm_t00016496-RA	dopamine beta-hydroxylase-related protein	1.14.17.-				-	-
+Sm_t00005258-RA	drug/metabolite transporter (DMT) family transporter	-				-	-
+Sm_t00000610-RA	drug/metabolite transporter (DMT) family transporter	-				-	-
+Sm_t00005111-RA	drug/metabolite transporter (DMT) family transporter	-				-	-
+Sm_t00004876-RA	drug/metabolite transporter (DMT) family transporter, chloroplastic	-				Plastid	-
+Sm_t00008357-RA	DUF1517 domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00008580-RA	DUF262 and DUF1524 domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00002963-RA	DUF285 domain-containing protein	-				-	-
+Sm_t00015486-RA	DUF285 domain-containing protein	-				-	-
+Sm_t00016672-RA	DUF285 domain-containing protein	-				-	-
+Sm_t00019819-RA	DUF285 domain-containing protein	-				-	-
+Sm_t00010345-RA	DUF285 domain-containing protein, partial	-		Models should be merged		-	-
+Sm_t00012174-RA	DUF3119 domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00009106-RA	DUF333 domain-containing protein	-				-	-
+Sm_t00010191-RA	DUF3593 and DUF2499 domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00008631-RA	DUF393 domain-containing protein	-				-	-
+Sm_t00019820-RA	DUF4782 domain-containing protein, mitochondrial	-				-	Mito
+Sm_t00008444-RA	DUF839 domain-containing protein	-				-	-
+Sm_t00008472-RA	DUF839 domain-containing protein	-				-	-
+Sm_t00019835-RA	DUF839 domain-containing protein	-				-	-
+Sm_t00002780-RA	dUTP pyrophosphatase	3.6.1.23				-	-
+Sm_t00006102-RA	dynamin family protein	-		Model should be split		-	-
+Sm_t00009573-RA	E3 ubiquitin-protein ligase, UBR family	2.3.2.27				-	-
+Sm_t00000093-RA	EF-hand motif-containing protein	-				-	-
+Sm_t00004530-RA	EH domain-containing protein	-				-	-
+Sm_t00007641-RA	EH domain-containing protein	-				-	-
+Sm_t00004401-RA	elongation of very long chain fatty acids protein	2.3.1.199				-	-
+Sm_t00018408-RA	endoplasmic reticulum-Golgi intermediate compartment protein	-		Model should be split		-	-
+Sm_t00010558-RA	enoyl-CoA hydratase family protein, mitochondrial	-				-	Mito
+Sm_t00000574-RA	enoyl-CoA hydratase, mitochondrial	4.2.1.17		Model should be split	Other half - predicted protein	-	Mito
+Sm_t00003317-RA	ethanolamine-phosphate phospho-lyase, mitochondrial	4.2.3.2		Half coverage	Or alanine-glyoxylate aminotransferase? (2.6.1.44)	-	Mito
+Sm_t00005338-RA	eukaryotic elongation factor 2 kinase	2.7.11.20				-	-
+Sm_t00012787-RA	exported calcium-binding glycoprotein-related protein	-		Check!		-	-
+Sm_t00013925-RA	exportin-2	-				-	-
+Sm_t00014355-RA	extracellular metalloproteinase	3.4.24.-				-	-
+Sm_t00003332-RA	extradiol ring-cleavage dioxygenase, class III	1.13.-.-		1.13.11.- something?	4,5-DOPA extradiol dioxygenase?	-	-
+Sm_t00008602-RA	FAD-dependent oxidoreductase	1.-.-.-				-	-
+Sm_t00009483-RA	FAD-dependent oxidoreductase	1.-.-.-		Model should be split		-	-
+Sm_t00015455-RA	FAD-dependent oxidoreductase	1.-.-.-				-	-
+Sm_t00011566-RA	Fanconi anemia group D2 protein	-				-	-
+Sm_t00017678-RA	farnesyl pyrophosphate synthase	2.5.1.1,2.5.1.10		Half (1/3?) coverage		-	-
+Sm_t00022508-RA	fatty acid desaturase	1.14.19.-		cytochrome b5 domain?		-	-
+Sm_t00003662-RA	ferredoxin--NADP reductase	1.18.1.2				-	-
+Sm_t00007552-RA	ferredoxin--NADP+ reductase, chloroplastic	1.18.1.2				Plastid	-
+Sm_t00004390-RA	ferredoxin-dependent glutamate synthase	1.4.7.1		Triple-check designation		-	-
+Sm_t00004385-RA	ferredoxin, chloroplastic	-				Plastid	-
+Sm_t00014946-RA	FH2 domain-containing protein	-				-	-
+Sm_t00013979-RA	FHA domain-containing CAMK family serine/threonine-protein kinase	2.7.11.1				-	-
+Sm_t00011920-RA	fidgetin-like protein	3.6.4.-				-	-
+Sm_t00012118-RA	filamin family protein	-				-	-
+Sm_t00010529-RA	flavin monoamine oxidase family protein	1.5.3.-		More specific?		-	-
+Sm_t00008826-RA	flavin-containing monooxygenase, chloroplastic	-				Plastid	-
+Sm_t00003651-RA	flavin-containing monooxygenase, mitochondrial	-				-	Mito
+Sm_t00012696-RA	folate-sensitive fragile site protein Fra10Ac1	-				-	-
+Sm_t00020284-RA	formate--tetrahydrofolate ligase	6.3.4.3		Half coverage		-	-
+Sm_t00010620-RA	frataxin	1.16.3.1		Half coverage		-	-
+Sm_t00012114-RA	fructosamine/ketosamine-3-kinase	2.7.1.171,2.7.1.172		Check ECs		-	-
+Sm_t00005862-RA	fructose-bisphosphate aldolase (class II)	4.1.2.13				-	-
+Sm_t00016391-RA	fucoxanthin-chlorophyll a-c binding protein	-				-	-
+Sm_t00016423-RA	fucoxanthin-chlorophyll a-c binding protein	-				-	-
+Sm_t00016979-RA	fucoxanthin-chlorophyll a-c binding protein	-				-	-
+Sm_t00016980-RA	fucoxanthin-chlorophyll a-c binding protein	-				-	-
+Sm_t00000482-RA	fucoxanthin-chlorophyll a-c binding protein, chloroplastic	-				Plastid	-
+Sm_t00001940-RA	fucoxanthin-chlorophyll a-c binding protein, chloroplastic	-				Plastid	-
+Sm_t00003779-RA	fucoxanthin-chlorophyll a-c binding protein, chloroplastic	-				Plastid	-
+Sm_t00008359-RA	fucoxanthin-chlorophyll a-c binding protein, chloroplastic	-		Check when CDD back up	Slightly weird coverage	Plastid	-
+Sm_t00008635-RA	fucoxanthin-chlorophyll a-c binding protein, chloroplastic	-				Plastid	-
+Sm_t00008639-RA	fucoxanthin-chlorophyll a-c binding protein, chloroplastic	-				Plastid	-
+Sm_t00010519-RA	fucoxanthin-chlorophyll a-c binding protein, chloroplastic	-		Weird coverage		Plastid	-
+Sm_t00014101-RA	fucoxanthin-chlorophyll a-c binding protein, chloroplastic	-		Split this model?		Plastid	-
+Sm_t00016417-RA	fucoxanthin-chlorophyll a-c binding protein, chloroplastic	-				Plastid	-
+Sm_t00011812-RA	FUN14 family protein	-				-	-
+Sm_t00007954-RA	galactokinase, chloroplastic	2.7.1.6				Plastid	-
+Sm_t00000116-RA	gamma tubulin complex protein	-				-	-
+Sm_t00020250-RA	gamma-interferon-inducible lysosomal thiol reductase	1.8.-.-				-	-
+Sm_t00007518-RA	gamma-tubulin complex component 3	-				-	-
+Sm_t00004842-RA	geranylgeranyl diphosphate synthase	2.5.1.-,2.5.1.1,2.5.1.10,2.5.1.29				-	-
+Sm_t00008853-RA	Gfo/Idh/MocA family oxidoreductase	1.-.-.-				-	-
+Sm_t00003419-RA	glucokinase	2.7.1.2				-	-
+Sm_t00003914-RA	glucose-6-phosphate isomerase	5.3.1.9				-	-
+Sm_t00004865-RA	glutamate decarboxylase	4.1.1.15				-	-
+Sm_t00001808-RA	glutamate dehydrogenase (NADP+), partial	1.4.1.4		Models should be merged	Check EC/type? Ammonia assim?	-	-
+Sm_t00001809-RA	glutamate dehydrogenase (NADP+), partial	1.4.1.4		Models should be merged	Check EC/type? Ammonia assim?	-	-
+Sm_t00007540-RA	glutamate synthase [NADPH] small chain	1.4.1.13		Not 1.4.1.14? Check...		-	-
+Sm_t00013188-RA	glutamine synthetase (class 1)	6.3.1.2				-	-
+Sm_t00018157-RA	glutamine synthetase (class 3), mitochondrial	6.3.1.2				-	Mito
+Sm_t00012475-RA	glutaryl-CoA dehydrogenase, mitochondrial	1.3.8.6				-	Mito
+Sm_t00006932-RA	glutathione S-transferase	2.5.1.18				-	-
+Sm_t00012907-RA	glutathione S-transferase	2.5.1.18				-	-
+Sm_t00006628-RA	glutathione S-transferase, mitochondrial	2.5.1.18				-	Mito
+Sm_t00000167-RA	glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12				-	-
+Sm_t00001027-RA	glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12				-	-
+Sm_t00002437-RA	glyceraldehyde-3-phosphate dehydrogenase, chloroplastic	1.2.1.12				-	-
+Sm_t00002762-RA	glycerol kinase	2.7.1.30				-	-
+Sm_t00010557-RA	glycine cleavage system regulatory protein, mitochondrial	-				-	Mito
+Sm_t00004119-RA	glycosyl hydrolase (family 31)	3.2.1.-		3.2.1.20 or 3.2.1.207?		-	-
+Sm_t00015591-RA	glycosyltransferase (family 32)	2.4.1.-		Half coverage		-	-
+Sm_t00003681-RA	glycosyltransferase (family 92)	2.4.1.-				-	-
+Sm_t00018681-RA	glycosyltransferase 64 domain-containing protein	-				-	-
+Sm_t00010318-RA	GPI mannosyltransferase 4	2.4.1.-				-	-
+Sm_t00006038-RA	GTR/RAG family Ras-related GTP-binding protein	3.6.5.-				-	-
+Sm_t00015736-RA	haloacid dehalogenase family hydrolase	3.1.3.-				-	-
+Sm_t00013145-RA	haloacid dehalogenase family hydrolase, mitochondrial	3.1.3.-				-	Mito
+Sm_t00002682-RA	heat shock factor family protein	-				-	-
+Sm_t00004851-RA	heat shock factor family protein	-				-	-
+Sm_t00006263-RA	heat shock factor family protein	-				-	-
+Sm_t00006933-RA	heat shock factor family protein	-				-	-
+Sm_t00009917-RA	heat shock factor family protein	-				-	-
+Sm_t00010287-RA	heat shock factor family protein	-				-	-
+Sm_t00010522-RA	heat shock factor family protein	-				-	-
+Sm_t00012214-RA	heat shock factor family protein	-				-	-
+Sm_t00014324-RA	heat shock factor family protein	-				-	-
+Sm_t00016326-RA	heat shock factor family protein	-				-	-
+Sm_t00017056-RA	heat shock factor family protein	-				-	-
+Sm_t00017058-RA	heat shock factor family protein	-				-	-
+Sm_t00017059-RA	heat shock factor family protein	-				-	-
+Sm_t00017060-RA	heat shock factor family protein	-				-	-
+Sm_t00017061-RA	heat shock factor family protein	-				-	-
+Sm_t00012653-RA	heat shock factor family protein	-				-	-
+Sm_t00015411-RA	heat shock factor family protein	-				-	-
+Sm_t00015412-RA	heat shock factor family protein	-				-	-
+Sm_t00004381-RA	helicase senataxin-related protein	3.6.4.-				-	-
+Sm_t00001991-RA	helicase-associated domain-containing protein	-				-	-
+Sm_t00005096-RA	helicase-associated domain-containing protein	-				-	-
+Sm_t00017043-RA	helicase-associated domain-containing protein	-				-	-
+Sm_t00017051-RA	helicase-associated domain-containing protein	-		Weird coverage; model should be split	Other half - asparagine synthase?	-	-
+Sm_t00016638-RA	heme-degrading monooxygenase	1.14.-.-				-	-
+Sm_t00001050-RA	heme-degrading protein	-		EC?		-	-
+Sm_t00001257-RA	heme-dependent peroxidase	1.11.1.7				-	-
+Sm_t00017245-RA	heme-dependent peroxidase	1.11.1.7				-	-
+Sm_t00017246-RA	heme-dependent peroxidase	1.11.1.7				-	-
+Sm_t00002834-RA	heme-dependent peroxidase	1.11.1.7				-	-
+Sm_t00003560-RA	heme-dependent peroxidase	1.11.1.7				-	-
+Sm_t00009174-RA	heme-dependent peroxidase	1.11.1.7				-	-
+Sm_t00016642-RA	heme-dependent peroxidase	1.11.1.7				-	-
+Sm_t00012043-RA	high mobility group protein	-				-	-
+Sm_t00018138-RA	histidine triad nucleotide-binding protein	3.9.1.-		More specific?		-	-
+Sm_t00007846-RA	histone chaperone, ASF1 family	-				-	-
+Sm_t00016969-RA	histone deacetylase	3.5.1.98				-	-
+Sm_t00011982-RA	histone H1	-				-	-
+Sm_t00012289-RA	histone H1	-		Half coverage		-	-
+Sm_t00014508-RA	histone H1	-		Half coverage		-	-
+Sm_t00000131-RA	histone H2A	-				-	-
+Sm_t00002406-RA	histone H2A	-				-	-
+Sm_t00005146-RA	histone H2A	-				-	-
+Sm_t00005144-RA	histone H2B	-				-	-
+Sm_t00004787-RA	histone RNA hairpin-binding protein	-				-	-
+Sm_t00007509-RA	homocysteine S-methyltransferase family protein	2.1.1.-		More specific?	Model should be split	-	-
+Sm_t00006547-RA	HTTM domain-containing protein					-	-
+Sm_t00009822-RA	HVA22/TB2/DP1 family protein	-				-	-
+Sm_t00010938-RA	hydroxymethylglutaryl-CoA synthase, mitochondrial	2.3.3.10		Half coverage		-	Mito
+Sm_t00008345-RA	hypoxanthine phosphoribosyltransferase	2.4.2.8				-	-
+Sm_t00003783-RA	IMPACT family protein	-				-	-
+Sm_t00002477-RA	importin alpha family protein	-				-	-
+Sm_t00014311-RA	inner centromere protein	-				-	-
+Sm_t00005754-RA	inorganic phosphate transporter	-				-	-
+Sm_t00003251-RA	inosine triphosphate pyrophosphatase, chloroplastic	3.6.1.9				Plastid	-
+Sm_t00002583-RA	inosine triphosphate pyrophosphatase, partial	3.6.1.9		Models should be merged		-	-
+Sm_t00001927-RA	inositol 2-dehydrogenase, chloroplastic	1.1.1.18				Plastid	-
+Sm_t00001928-RA	inositol 2-dehydrogenase, chloroplastic	1.1.1.18				Plastid	-
+Sm_t00009888-RA	inositol polyphosphate 5-phosphatase	3.1.3.56				-	-
+Sm_t00011753-RA	inositol-phosphate phosphatase, chloroplastic	3.1.3.25				Plastid	-
+Sm_t00002471-RA	intraflagellar transport protein 88-like protein, chloroplastic			3' end unusual, with v. high coverage	No conserved domains?	Plastid	-
+Sm_t00015420-RA	inwardly rectifying potassium channel	-				-	-
+Sm_t00008918-RA	ion transport protein	-				-	-
+Sm_t00006848-RA	IPT/TIG domain-containing protein, partial	-		Models should be merged		-	-
+Sm_t00002089-RA	isocitrate dehydrogenase [NADP], mitochondrial	1.1.1.42				-	Mito
+Sm_t00004950-RA	kelch repeat-containing protein	-				-	-
+Sm_t00006080-RA	kelch repeat-containing protein	-				-	-
+Sm_t00004047-RA	KH-I domain-containing RNA-binding protein	-		More specific?		-	-
+Sm_t00007952-RA	kinesin family protein	-				-	-
+Sm_t00011245-RA	kinesin family protein	-				-	-
+Sm_t00017929-RA	kinesin family protein	-		Half coverage		-	-
+Sm_t00002355-RA	kinesin family protein	-				-	-
+Sm_t00005157-RA	kinesin family protein	-				-	-
+Sm_t00011286-RA	kinesin family protein	-				-	-
+Sm_t00000162-RA	kinesin family protein	-				-	-
+Sm_t00001825-RA	kinesin family protein	-				-	-
+Sm_t00004108-RA	kinesin family protein	-				-	-
+Sm_t00008186-RA	kinesin family protein	-				-	-
+Sm_t00011757-RA	kinesin family protein	-				-	-
+Sm_t00012628-RA	kinesin family protein	-				-	-
+Sm_t00012629-RA	kinesin family protein	-				-	-
+Sm_t00012263-RA	kinesin family protein	-				-	-
+Sm_t00017874-RA	kinesin family protein	-				-	-
+Sm_t00009937-RA	kinesin-like protein, partial	-		Models should be merged		-	-
+Sm_t00009938-RA	kinesin-like protein, partial	-		Models should be merged		-	-
+Sm_t00009939-RA	kinesin-like protein, partial	-		Models should be merged		-	-
+Sm_t00013919-RA	kinetochore protein NDC80	-				-	-
+Sm_t00014125-RA	kinetochore protein NUF2	-				-	-
+Sm_t00001107-RA	kringle domain-containing protein	-				-	-
+Sm_t00014171-RA	L-cysteine desulfhydrase-related protein	4.4.-.-		More specific?		-	-
+Sm_t00001197-RA	L-threonine aldolase, mitochondrial	4.1.2.48		Low specificity?		-	Mito
+Sm_t00003443-RA	lactonase family protein	-		More specific?		-	-
+Sm_t00004413-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00010985-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00011898-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00011901-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00001744-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00004026-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00005741-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00007768-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00009812-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00011878-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00020502-RA	leucine-rich repeat domain-containing protein	-				-	-
+Sm_t00000012-RA	leucine-rich repeat protein	-				-	-
+Sm_t00002892-RA	leucine-rich repeat protein	-				-	-
+Sm_t00007897-RA	leucine-rich repeat protein	-				-	-
+Sm_t00009285-RA	leucine-rich repeat protein	-				-	-
+Sm_t00014999-RA	leucine-rich repeat protein	-				-	-
+Sm_t00015450-RA	leucine-rich repeat protein	-				-	-
+Sm_t00016577-RA	leucine-rich repeat protein	-				-	-
+Sm_t00016578-RA	leucine-rich repeat protein	-				-	-
+Sm_t00001856-RA	leucine-rich repeat protein	-				-	-
+Sm_t00003626-RA	leucine-rich repeat protein	-				-	-
+Sm_t00010278-RA	limiting CO2-inducible proteins B/C beta carbonic anhydrase domain-containing protein	-				-	-
+Sm_t00001344-RA	limiting CO2-inducible proteins B/C beta carbonic anhydrase domain-containing protein, mitochondrial	-				-	Mito
+Sm_t00000816-RA	lin-54 family protein	-				-	-
+Sm_t00006741-RA	lipase class 3 family protein	3.1.1.-				-	-
+Sm_t00016460-RA	lipoxygenase	1.13.11.-			1.13.11.33,1.13.11.34 ?	-	-
+Sm_t00020479-RA	lipoxygenase	1.13.11.-				-	-
+Sm_t00002223-RA	long-chain fatty acid CoA synthetase	6.2.1.3		Eukaryotic type?		-	-
+Sm_t00005724-RA	luminal-binding protein	-				-	-
+Sm_t00006274-RA	lysine methyltransferase	2.1.1.-				-	-
+Sm_t00005797-RA	macro domain-containing protein	-				-	-
+Sm_t00007308-RA	macro domain-containing protein, mitochondrial	-		2/3 coverage		-	Mito
+Sm_t00006880-RA	MAGE family protein	-				-	-
+Sm_t00012477-RA	magnesium-chelatase subunit ChlH, chloroplastic	6.6.1.1				Plastid	-
+Sm_t00002676-RA	malate dehydrogenase, mitochondrial	1.1.1.37		CDS fixed; mitochondrial		-	-
+Sm_t00010528-RA	mannitol dehydrogenase-related protein	1.1.1.-		More specific?		-	-
+Sm_t00010455-RA	MAP3K-like serine/threonine kinase	2.7.11.-				-	-
+Sm_t00012925-RA	mechanosensitive ion channel protein	-				-	-
+Sm_t00003990-RA	medium chain reductase/dehydrogenase (MDR)/zinc-dependent alcohol dehydrogenase-like family protein	-		More specific?	MDR8 domain	-	-
+Sm_t00004594-RA	medium chain reductase/dehydrogenase (MDR)/zinc-dependent alcohol dehydrogenase-like family protein	-		More specific?	MDR8 domain	-	-
+Sm_t00006352-RA	medium chain reductase/dehydrogenase (MDR)/zinc-dependent alcohol dehydrogenase-like family protein	-		More specific?	MDR8 domain	-	-
+Sm_t00012609-RA	medium chain reductase/dehydrogenase (MDR)/zinc-dependent alcohol dehydrogenase-like family protein	-		More specific?	MDR8 domain	-	-
+Sm_t00007725-RA	membrane protein	-				-	-
+Sm_t00017038-RA	membrane protein, mitochondrial	-				-	Mito
+Sm_t00015429-RA	metacaspase	3.4.22.-				-	-
+Sm_t00012547-RA	metal-dependent hydrolase	3.-.-.-				-	-
+Sm_t00009879-RA	metallopeptidase (family M50)	3.4.24.-				-	-
+Sm_t00006310-RA	metallophosphoesterase	3.1.-.-				-	-
+Sm_t00017658-RA	metallophosphoesterase	3.1.-.-				-	-
+Sm_t00004107-RA	methyltransferase	2.1.1.-				-	-
+Sm_t00004132-RA	methyltransferase	2.1.1.-				-	-
+Sm_t00004133-RA	methyltransferase	2.1.1.-				-	-
+Sm_t00007282-RA	methyltransferase	2.1.1.-				-	-
+Sm_t00011438-RA	methyltransferase	2.1.1.-				-	-
+Sm_t00012461-RA	methyltransferase	2.1.1.-				-	-
+Sm_t00015444-RA	methyltransferase	2.1.1.-				-	-
+Sm_t00001468-RA	MFS transporter	-		Model should be split		-	-
+Sm_t00002205-RA	MFS transporter	-				-	-
+Sm_t00002648-RA	MFS transporter	-				-	-
+Sm_t00003983-RA	MFS transporter	-				-	-
+Sm_t00006469-RA	MFS transporter	-				-	-
+Sm_t00007489-RA	MFS transporter	-				-	-
+Sm_t00012952-RA	MFS transporter	-				-	-
+Sm_t00013974-RA	MFS transporter	-				-	-
+Sm_t00019851-RA	MFS transporter	-				-	-
+Sm_t00003992-RA	MICOS complex subunit MIC60, mitochondrial	-				-	Mito
+Sm_t00011414-RA	microtubule associated protein, MAP65/ASE1 family	-				-	-
+Sm_t00009588-RA	microtubule-associated protein RP/EB family member	-				-	-
+Sm_t00004655-RA	MIP/aquaporin family protein	-		Aquaporin, or glycerol uptake?		-	-
+Sm_t00005559-RA	mismatch repair endonuclease PMS2	3.1.-.-				-	-
+Sm_t00009212-RA	mitochondrial carrier protein	-		Mitochondrial?		-	-
+Sm_t00000756-RA	mitochondrial carrier protein	-		???		Plastid	-
+Sm_t00007343-RA	mitochondrial-processing peptidase	3.4.24.64		First exon should be removed		-	-
+Sm_t00015035-RA	mitochondrial-processing peptidase	3.4.24.64				-	Mito
+Sm_t00000979-RA	mitogen-activated protein kinase	2.7.11.24				-	-
+Sm_t00002035-RA	mitogen-activated protein kinase kinase kinase	2.7.11.25				-	-
+Sm_t00010926-RA	mitogen-activated protein kinase kinase kinase	2.7.11.25		Half coverage		-	-
+Sm_t00009723-RA	mitotic spindle assembly checkpoint protein MAD2A	-				-	-
+Sm_t00010018-RA	MOB1/phocein family kinase activator	-				-	-
+Sm_t00013033-RA	molybdate-anion transporter	-				-	-
+Sm_t00011769-RA	monogalactosyldiacylglycerol synthase	2.4.1.46				-	-
+Sm_t00006671-RA	MOSC domain-containing protein	1.7.-.-				-	-
+Sm_t00005931-RA	Mpv17/PMP22 family protein	-				-	-
+Sm_t00007942-RA	MRG family protein	-				-	-
+Sm_t00020203-RA	multidrug and toxic compound extrusion (MATE) family protein	-				-	-
+Sm_t00003310-RA	Myb-like DNA-binding domain-containing protein	-				-	-
+Sm_t00014747-RA	Myb-like DNA-binding domain-containing protein	-				-	-
+Sm_t00018610-RA	Myb-like DNA-binding domain-containing protein	-				-	-
+Sm_t00020358-RA	Myb-like DNA-binding domain-containing protein	-		Half coverage		-	-
+Sm_t00002278-RA	myosin family protein	-				-	-
+Sm_t00003786-RA	myosin family protein	-				-	-
+Sm_t00012012-RA	myosin heavy chain			Triple check...		-	-
+Sm_t00007410-RA	myosin, class 29	-				-	-
+Sm_t00019924-RA	N-acetyl-gamma-glutamyl-phosphate reductase, chloroplastic	1.2.1.38				Plastid	-
+Sm_t00013256-RA	N-acetylgalactosamine-6-sulfatase	3.1.6.4				-	-
+Sm_t00016551-RA	N-acetylgalactosamine-6-sulfatase	3.1.6.4				-	-
+Sm_t00008058-RA	N-acetylglutamate kinase, chloroplastic	2.7.2.8				Plastid	-
+Sm_t00014235-RA	NAD-dependent protein deacetylase sitruin-2	2.3.1.-,2.3.1.286				-	-
+Sm_t00011156-RA	NAD(P) transhydrogenase	7.1.1.1				-	-
+Sm_t00000907-RA	NAD(P) transhydrogenase, chloroplastic	7.1.1.1				Plastid	-
+Sm_t00003949-RA	NAD(P)/FAD-dependent oxidoreductase	1.-.-.-				-	-
+Sm_t00010286-RA	NADPH oxidase	1.6.3.-				-	-
+Sm_t00021040-RA	NADPH oxidase	1.6.3.-				-	-
+Sm_t00008549-RA	nitronate monooxygenase	1.13.12.16				-	-
+Sm_t00010969-RA	nitronate monooxygenase	1.13.12.16				-	-
+Sm_t00017636-RA	nitronate monooxygenase	1.13.12.16				-	-
+Sm_t00006579-RA	nitroreductase family protein, chloroplastic	1.-.-.-				Plastid	-
+Sm_t00002962-RA	non-structural maintenance of chromosomes element 4	-				-	-
+Sm_t00012258-RA	NRAMP family transporter	-				-	-
+Sm_t00002976-RA	ornithine decarboxylase	4.1.1.17				-	-
+Sm_t00012435-RA	P-loop containing nucleotide triphosphate hydrolase					-	-
+Sm_t00005145-RA	pantoate--beta-alanine ligase	6.3.2.1				-	-
+Sm_t00000451-RA	papain family cysteine protease	3.4.22.-				-	-
+Sm_t00006316-RA	PAS domain-containing protein	-				-	-
+Sm_t00009346-RA	peptidase (family S51)					-	-
+Sm_t00010704-RA	peptidase S9 prolyl oligopeptidase family protein, chloroplastic/mitochondrial					Plastid	Mito
+Sm_t00017624-RA	peptidyl-prolyl cis-trans isomerase	5.2.1.8				-	-
+Sm_t00004996-RA	peptidyl-prolyl cis-trans isomerase, cyclophilin type	5.2.1.8				-	-
+Sm_t00008104-RA	peptidyl-prolyl cis-trans isomerase, cyclophilin type	5.2.1.8				-	-
+Sm_t00013138-RA	peptidyl-prolyl cis-trans isomerase, cyclophilin type	5.2.1.8				-	-
+Sm_t00007173-RA	peptidyl-prolyl cis-trans isomerase, cyclophilin type, chloroplastic	5.2.1.8		Half coverage		Plastid	-
+Sm_t00012356-RA	peptidyl-prolyl cis-trans isomerase, cyclophilin type, chloroplastic	5.2.1.8		Half coverage		Plastid	-
+Sm_t00004370-RA	peptidyl-prolyl cis-trans isomerase, cyclophilin type, chloroplastic	5.2.1.8				Plastid	-
+Sm_t00005498-RA	peptidyl-prolyl cis-trans isomerase, cyclophilin type, chloroplastic	5.2.1.8				Plastid	-
+Sm_t00014181-RA	peptidylprolyl isomerase	5.2.1.8				-	-
+Sm_t00003462-RA	peroxiredoxin	1.11.1.-		More specific? .24 or .25?		-	-
+Sm_t00005470-RA	peroxiredoxin 6, 1-cys peroxiredoxin			1.11.1.7 and 1.11.1.15?		-	-
+Sm_t00003325-RA	peroxisomal membrane protein	-				-	-
+Sm_t00015353-RA	peroxisomal membrane protein	-				-	-
+Sm_t00003663-RA	PGR5-like protein			No conserved domains?		-	-
+Sm_t00012153-RA	phage integrase-related protein, chloroplastic			No conserved domains		Plastid	-
+Sm_t00002864-RA	pheophorbide a oxygenase, chloroplastic	1.14.15.17				Plastid	-
+Sm_t00003958-RA	phosphate transporter	-				-	-
+Sm_t00009823-RA	phosphate transporter	-				-	-
+Sm_t00009825-RA	phosphate transporter	-				-	-
+Sm_t00008496-RA	phosphatidylinositol-4-phosphate 5-kinase-related protein	-				-	-
+Sm_t00008499-RA	phosphatidylinositol-4-phosphate 5-kinase-related protein	-				-	-
+Sm_t00014962-RA	phosphatidylinositol-4-phosphate 5-kinase-related protein	-				-	-
+Sm_t00014893-RA	phosphatidylinositol-4-phosphate 5-kinase-related protein	-				-	-
+Sm_t00006837-RA	phosphoenolpyruvate synthase	2.7.9.2				-	-
+Sm_t00004667-RA	phosphoenolpyruvate synthase	2.7.9.2				-	-
+Sm_t00006832-RA	phosphoenolpyruvate synthase, chloroplastic, partial	2.7.9.2		Models should be merged		-	-
+Sm_t00006833-RA	phosphoenolpyruvate synthase, chloroplastic, partial	2.7.9.2		Models should be merged		-	-
+Sm_t00014177-RA	phosphoglucosamine mutase family protein	5.4.2.10		Triple-check EC?		-	-
+Sm_t00008825-RA	phosphoglycerate kinase	2.7.2.3				-	-
+Sm_t00019238-RA	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)	5.4.2.11		Possible alt. splicing		-	-
+Sm_t00000679-RA	phosphoinositide-specific phospholipase C domain-containing protein	-				-	-
+Sm_t00001339-RA	phospholipase D	3.1.4.4				-	-
+Sm_t00009826-RA	phospholipase/carboxylesterase family protein	3.1.-.-				-	-
+Sm_t00006124-RA	phosphopantothenate--cysteine ligase	6.3.2.-		ATP (6.3.2.51) or CTP (6.3.2.5)?		-	-
+Sm_plastid_g00158	photosystem I P700 chlorophyll a apoprotein A1	-		psaA		-	-
+Sm_plastid_g00157	photosystem I P700 chlorophyll a apoprotein A2	-		psaB		-	-
+Sm_plastid_g00092	photosystem II 44 kDa protein	-		psbC		-	-
+Sm_plastid_g00138	photosystem II 47 kDa protein	-		psbB		-	-
+Sm_plastid_g00094	photosystem II D2 protein	-		psbD		-	-
+Sm_t00012284-RA	photosystem II Psb31 protein, chloroplastic	-		Half coverage		Plastid	-
+Sm_t00014503-RA	photosystem II Psb31 protein, chloroplastic	-		Half coverage		Plastid	-
+Sm_t00008071-RA	photosystem II reaction center protein M, chloroplastic	-				Plastid	-
+Sm_t00003298-RA	phytanoyl-CoA dioxygenase family protein	-				-	-
+Sm_t00022505-RA	phytoene/squalene synthase family protein, chloroplastic	2.5.1.-				Plastid	-
+Sm_t00004223-RA	plasma membrane ATPase	7.1.2.1				-	-
+Sm_t00004232-RA	plasma membrane ATPase	7.1.2.1				-	-
+Sm_t00003808-RA	plasma-membrane choline transporter	-				-	-
+Sm_t00010751-RA	plastid RNA polymerase sigma factor	-				-	-
+Sm_t00000901-RA	polo-like kinase	2.7.11.21				-	-
+Sm_t00001629-RA	poly(A) polymerase	2.7.7.19				-	-
+Sm_t00010590-RA	poly(U)-specific endoribonuclease	4.6.1.-				-	-
+Sm_t00002074-RA	polyamine aminopropyltransferase	2.5.1.16		More ECs?		-	-
+Sm_t00007731-RA	polyamine aminopropyltransferase	2.5.1.16		More ECs?		-	-
+Sm_t00020190-RA	polyamine aminopropyltransferase	2.5.1.16		More ECs?		-	-
+Sm_t00020204-RA	polyamine aminopropyltransferase	2.5.1.16		More ECs?		-	-
+Sm_t00020210-RA	polyamine aminopropyltransferase	2.5.1.16		More ECs?	Model should be split	-	-
+Sm_t00010170-RA	polyphosphoinositide phosphatase	3.1.3.-		More EC nos.?		-	-
+Sm_t00019136-RA	polysaccharide deacetylase-related protein			putative urate catabolism protein?		-	-
+Sm_t00003256-RA	possible activator 1 subunit					-	-
+Sm_t00005808-RA	possible aspartate aminotransferase	2.6.1.1		1/3 coverage	Multifunctional?	-	-
+Sm_t00007296-RA	possible aspartate aminotransferase	2.6.1.1		2/3 coverage	Multifunctional?	-	-
+Sm_t00013970-RA	possible CbbX-like protein	-				-	-
+Sm_t00015684-RA	possible chlorophyll a/b binding protein	-		Model on wrong strand	Weird coverage	-	-
+Sm_t00000334-RA	possible dehydrogenase	1.-.-.-				-	-
+Sm_t00009309-RA	possible dehydrogenase	1.-.-.-				-	-
+Sm_t00014380-RA	possible DNA helicase					-	-
+Sm_t00008494-RA	possible DNA polymerase alpha accessory factor	-		CDS must be fixed		-	-
+Sm_t00014895-RA	possible Gfo/Idh/MocA family oxidoreductase, chloroplastic	1.-.-.-				Plastid	-
+Sm_t00016640-RA	possible glutathione S-transferase C-terminal domain-containing protein					-	-
+Sm_t00021498-RA	possible glycosyltransferase family 61 protein			No conserved domains		-	-
+Sm_t00021506-RA	possible glycosyltransferase family 61 protein			No conserved domains		-	-
+Sm_t00021515-RA	possible glycosyltransferase family 61 protein			No conserved domains		-	-
+Sm_t00018110-RA	possible heme-dependent peroxidase	1.11.1.7		Model should be split		-	-
+Sm_t00005822-RA	possible isopentenyl-diphosphate delta-isomerase, chloroplastic/mitochondrial	5.3.3.2				Plastid	Mito
+Sm_t00010280-RA	possible limiting CO2-inducible proteins B/C beta carbonic anhydrase domain-containing protein			Wrong strand?	No conserved domains	-	-
+Sm_t00001869-RA	possible multifunctional fusion protein					-	-
+Sm_t00013943-RA	possible osmosensing histidine protein kinase SLN1, chloroplastic					Plastid	-
+Sm_t00003876-RA	possible phytoene dehydrogenase-related protein, mitochondrial					-	Mito
+Sm_t00017611-RA	possible rRNA methylase					-	-
+Sm_t00000846-RA	possible SEC14 family lipid-binding protein					-	-
+Sm_t00006952-RA	possible transforming growth factor alpha-related protein					-	-
+Sm_t00009344-RA	possible transmembrane protein 42					-	-
+Sm_t00001425-RA	possible trimethyllysine dioxygenase, mitochondrial	1.14.11.8				-	-
+Sm_t00012678-RA	possible tweety-related protein					-	-
+Sm_t00000015-RA	possible uric acid degradation bifunctional protein TTL	3.5.2.17,4.1.1.97				-	-
+Sm_t00015743-RA	potassium-chloride cotransporter	-				-	-
+Sm_t00020359-RA	predicted AAA ATPase	-		Half coverage		-	-
+Sm_t00002812-RA	predicted AAA ATPase	-				-	-
+Sm_t00004116-RA	predicted AAA ATPase	-				-	-
+Sm_t00005234-RA	predicted AAA ATPase	-				-	-
+Sm_t00005614-RA	predicted AAA ATPase	-				-	-
+Sm_t00008923-RA	predicted AAA ATPase	-				-	-
+Sm_t00010380-RA	predicted AAA ATPase	-				-	-
+Sm_t00011561-RA	predicted AAA ATPase	-				-	-
+Sm_t00017045-RA	predicted AAA ATPase	-				-	-
+Sm_t00021049-RA	predicted AAA ATPase	-				-	-
+Sm_t00014889-RA	predicted dehydrogenase, mitochondrial	1.-.-.-				-	Mito
+Sm_t00000332-RA	predicted protein					-	-
+Sm_t00000016-RA	predicted protein	-				-	-
+Sm_t00000017-RA	predicted protein	-				-	-
+Sm_t00000036-RA	predicted protein	-				-	-
+Sm_t00000050-RA	predicted protein	-				-	-
+Sm_t00000112-RA	predicted protein	-				-	-
+Sm_t00000114-RA	predicted protein	-				-	-
+Sm_t00000124-RA	predicted protein	-				-	-
+Sm_t00000128-RA	predicted protein	-				-	-
+Sm_t00000150-RA	predicted protein	-				-	-
+Sm_t00000153-RA	predicted protein	-				-	-
+Sm_t00000154-RA	predicted protein	-				-	-
+Sm_t00000158-RA	predicted protein	-				-	-
+Sm_t00000171-RA	predicted protein	-				-	-
+Sm_t00000176-RA	predicted protein	-				-	-
+Sm_t00000196-RA	predicted protein	-				-	-
+Sm_t00000218-RA	predicted protein	-				-	-
+Sm_t00000227-RA	predicted protein	-				-	-
+Sm_t00000254-RA	predicted protein	-				-	-
+Sm_t00000287-RA	predicted protein	-				-	-
+Sm_t00000307-RA	predicted protein	-				-	-
+Sm_t00000314-RA	predicted protein	-				-	-
+Sm_t00000319-RA	predicted protein	-				-	-
+Sm_t00000320-RA	predicted protein	-				-	-
+Sm_t00000321-RA	predicted protein	-				-	-
+Sm_t00000322-RA	predicted protein	-				-	-
+Sm_t00000323-RA	predicted protein	-				-	-
+Sm_t00000324-RA	predicted protein	-				-	-
+Sm_t00000335-RA	predicted protein	-				-	-
+Sm_t00000337-RA	predicted protein	-				-	-
+Sm_t00000341-RA	predicted protein	-				-	-
+Sm_t00000345-RA	predicted protein	-				-	-
+Sm_t00000374-RA	predicted protein	-				-	-
+Sm_t00000375-RA	predicted protein	-				-	-
+Sm_t00000376-RA	predicted protein	-				-	-
+Sm_t00000385-RA	predicted protein	-				-	-
+Sm_t00000386-RA	predicted protein	-				-	-
+Sm_t00000388-RA	predicted protein	-				-	-
+Sm_t00000461-RA	predicted protein	-				-	-
+Sm_t00000483-RA	predicted protein	-				-	-
+Sm_t00000510-RA	predicted protein	-				-	-
+Sm_t00000554-RA	predicted protein	-				-	-
+Sm_t00000631-RA	predicted protein	-				-	-
+Sm_t00000633-RA	predicted protein	-				-	-
+Sm_t00000634-RA	predicted protein	-				-	-
+Sm_t00000635-RA	predicted protein	-				-	-
+Sm_t00000673-RA	predicted protein	-				-	-
+Sm_t00000685-RA	predicted protein	-				-	-
+Sm_t00000694-RA	predicted protein	-				-	-
+Sm_t00000706-RA	predicted protein	-				-	-
+Sm_t00000741-RA	predicted protein	-				-	-
+Sm_t00000800-RA	predicted protein	-				-	-
+Sm_t00000808-RA	predicted protein	-				-	-
+Sm_t00000819-RA	predicted protein	-				-	-
+Sm_t00000844-RA	predicted protein	-				-	-
+Sm_t00000857-RA	predicted protein	-				-	-
+Sm_t00000858-RA	predicted protein	-				-	-
+Sm_t00000860-RA	predicted protein	-				-	-
+Sm_t00000928-RA	predicted protein	-				-	-
+Sm_t00000951-RA	predicted protein	-				-	-
+Sm_t00001003-RA	predicted protein	-				-	-
+Sm_t00001033-RA	predicted protein	-				-	-
+Sm_t00001061-RA	predicted protein	-				-	-
+Sm_t00001084-RA	predicted protein	-				-	-
+Sm_t00001098-RA	predicted protein	-				-	-
+Sm_t00001127-RA	predicted protein	-				-	-
+Sm_t00001181-RA	predicted protein	-				-	-
+Sm_t00001192-RA	predicted protein	-				-	-
+Sm_t00001207-RA	predicted protein	-				-	-
+Sm_t00001232-RA	predicted protein	-				-	-
+Sm_t00001280-RA	predicted protein	-		Half coverage region		-	-
+Sm_t00001345-RA	predicted protein	-				-	-
+Sm_t00001356-RA	predicted protein	-				-	-
+Sm_t00001374-RA	predicted protein	-				-	-
+Sm_t00001375-RA	predicted protein	-				-	-
+Sm_t00001379-RA	predicted protein	-				-	-
+Sm_t00001407-RA	predicted protein	-				-	-
+Sm_t00001417-RA	predicted protein	-				-	-
+Sm_t00001420-RA	predicted protein	-				-	-
+Sm_t00001480-RA	predicted protein	-				-	-
+Sm_t00001549-RA	predicted protein	-				-	-
+Sm_t00001550-RA	predicted protein	-				-	-
+Sm_t00001560-RA	predicted protein	-				-	-
+Sm_t00001566-RA	predicted protein	-				-	-
+Sm_t00001630-RA	predicted protein	-				-	-
+Sm_t00001635-RA	predicted protein	-				-	-
+Sm_t00001649-RA	predicted protein	-				-	-
+Sm_t00001655-RA	predicted protein	-				-	-
+Sm_t00001739-RA	predicted protein	-				-	-
+Sm_t00001777-RA	predicted protein	-				-	-
+Sm_t00001789-RA	predicted protein	-				-	-
+Sm_t00001804-RA	predicted protein	-				-	-
+Sm_t00001836-RA	predicted protein	-				-	-
+Sm_t00001846-RA	predicted protein	-				-	-
+Sm_t00001855-RA	predicted protein	-				-	-
+Sm_t00001860-RA	predicted protein	-				-	-
+Sm_t00001861-RA	predicted protein	-				-	-
+Sm_t00001880-RA	predicted protein	-				-	-
+Sm_t00001936-RA	predicted protein	-				-	-
+Sm_t00001954-RA	predicted protein	-				-	-
+Sm_t00001977-RA	predicted protein	-				-	-
+Sm_t00002021-RA	predicted protein	-				-	-
+Sm_t00002036-RA	predicted protein	-				-	-
+Sm_t00002057-RA	predicted protein	-				-	-
+Sm_t00002102-RA	predicted protein	-				-	-
+Sm_t00002104-RA	predicted protein	-				-	-
+Sm_t00002135-RA	predicted protein	-				-	-
+Sm_t00002139-RA	predicted protein	-				-	-
+Sm_t00002155-RA	predicted protein	-				-	-
+Sm_t00002171-RA	predicted protein	-				-	-
+Sm_t00002214-RA	predicted protein	-		Should this be merged with 2212/3?		-	-
+Sm_t00002256-RA	predicted protein	-				-	-
+Sm_t00002292-RA	predicted protein	-				-	-
+Sm_t00002300-RA	predicted protein	-				-	-
+Sm_t00002301-RA	predicted protein	-				-	-
+Sm_t00002303-RA	predicted protein	-				-	-
+Sm_t00002347-RA	predicted protein	-				-	-
+Sm_t00002364-RA	predicted protein	-				-	-
+Sm_t00002369-RA	predicted protein	-				-	-
+Sm_t00002370-RA	predicted protein	-				-	-
+Sm_t00002415-RA	predicted protein	-				-	-
+Sm_t00002462-RA	predicted protein	-				-	-
+Sm_t00002463-RA	predicted protein	-				-	-
+Sm_t00002502-RA	predicted protein	-				-	-
+Sm_t00002563-RA	predicted protein	-				-	-
+Sm_t00002615-RA	predicted protein	-				-	-
+Sm_t00002715-RA	predicted protein	-				-	-
+Sm_t00002716-RA	predicted protein	-				-	-
+Sm_t00002723-RA	predicted protein	-				-	-
+Sm_t00002724-RA	predicted protein	-				-	-
+Sm_t00002728-RA	predicted protein	-				-	-
+Sm_t00002729-RA	predicted protein	-				-	-
+Sm_t00002793-RA	predicted protein	-				-	-
+Sm_t00002813-RA	predicted protein	-				-	-
+Sm_t00002814-RA	predicted protein	-				-	-
+Sm_t00002838-RA	predicted protein	-				-	-
+Sm_t00002839-RA	predicted protein	-				-	-
+Sm_t00002856-RA	predicted protein	-				-	-
+Sm_t00002893-RA	predicted protein	-				-	-
+Sm_t00002895-RA	predicted protein	-				-	-
+Sm_t00002918-RA	predicted protein	-				-	-
+Sm_t00002951-RA	predicted protein	-				-	-
+Sm_t00002964-RA	predicted protein	-				-	-
+Sm_t00003013-RA	predicted protein	-				-	-
+Sm_t00003049-RA	predicted protein	-				-	-
+Sm_t00003074-RA	predicted protein	-		Half coverage		-	-
+Sm_t00003106-RA	predicted protein	-				-	-
+Sm_t00003148-RA	predicted protein	-				-	-
+Sm_t00003149-RA	predicted protein	-				-	-
+Sm_t00003150-RA	predicted protein	-				-	-
+Sm_t00003151-RA	predicted protein	-				-	-
+Sm_t00003202-RA	predicted protein	-				-	-
+Sm_t00003228-RA	predicted protein	-				-	-
+Sm_t00003257-RA	predicted protein	-				-	-
+Sm_t00003364-RA	predicted protein	-				-	-
+Sm_t00003375-RA	predicted protein	-				-	-
+Sm_t00003411-RA	predicted protein	-				-	-
+Sm_t00003434-RA	predicted protein	-				-	-
+Sm_t00003438-RA	predicted protein	-				-	-
+Sm_t00003464-RA	predicted protein	-				-	-
+Sm_t00003490-RA	predicted protein	-				-	-
+Sm_t00003491-RA	predicted protein	-				-	-
+Sm_t00003495-RA	predicted protein	-				-	-
+Sm_t00003498-RA	predicted protein	-				-	-
+Sm_t00003501-RA	predicted protein	-				-	-
+Sm_t00003510-RA	predicted protein	-				-	-
+Sm_t00003511-RA	predicted protein	-				-	-
+Sm_t00003515-RA	predicted protein	-				-	-
+Sm_t00003519-RA	predicted protein	-				-	-
+Sm_t00003559-RA	predicted protein	-				-	-
+Sm_t00003561-RA	predicted protein	-				-	-
+Sm_t00003562-RA	predicted protein	-				-	-
+Sm_t00003567-RA	predicted protein	-				-	-
+Sm_t00003582-RA	predicted protein	-				-	-
+Sm_t00003610-RA	predicted protein	-				-	-
+Sm_t00003612-RA	predicted protein	-				-	-
+Sm_t00003625-RA	predicted protein	-				-	-
+Sm_t00003627-RA	predicted protein	-				-	-
+Sm_t00003632-RA	predicted protein	-				-	-
+Sm_t00003633-RA	predicted protein	-				-	-
+Sm_t00003636-RA	predicted protein	-				-	-
+Sm_t00003637-RA	predicted protein	-				-	-
+Sm_t00003652-RA	predicted protein	-				-	-
+Sm_t00003657-RA	predicted protein	-				-	-
+Sm_t00003659-RA	predicted protein	-				-	-
+Sm_t00003667-RA	predicted protein	-				-	-
+Sm_t00003697-RA	predicted protein	-				-	-
+Sm_t00003736-RA	predicted protein	-				-	-
+Sm_t00003773-RA	predicted protein	-				-	-
+Sm_t00003807-RA	predicted protein	-				-	-
+Sm_t00003825-RA	predicted protein	-				-	-
+Sm_t00003838-RA	predicted protein	-				-	-
+Sm_t00003937-RA	predicted protein	-				-	-
+Sm_t00003945-RA	predicted protein	-				-	-
+Sm_t00003972-RA	predicted protein	-				-	-
+Sm_t00003984-RA	predicted protein	-				-	-
+Sm_t00003999-RA	predicted protein	-				-	-
+Sm_t00004000-RA	predicted protein	-				-	-
+Sm_t00004033-RA	predicted protein	-				-	-
+Sm_t00004042-RA	predicted protein	-				-	-
+Sm_t00004087-RA	predicted protein	-				-	-
+Sm_t00004091-RA	predicted protein	-				-	-
+Sm_t00004093-RA	predicted protein	-				-	-
+Sm_t00004106-RA	predicted protein	-				-	-
+Sm_t00004110-RA	predicted protein	-				-	-
+Sm_t00004112-RA	predicted protein	-				-	-
+Sm_t00004114-RA	predicted protein	-				-	-
+Sm_t00004117-RA	predicted protein	-				-	-
+Sm_t00004118-RA	predicted protein	-				-	-
+Sm_t00004120-RA	predicted protein	-		Model should be split		-	-
+Sm_t00004123-RA	predicted protein	-				-	-
+Sm_t00004124-RA	predicted protein	-				-	-
+Sm_t00004125-RA	predicted protein	-				-	-
+Sm_t00004126-RA	predicted protein	-				-	-
+Sm_t00004136-RA	predicted protein	-				-	-
+Sm_t00004139-RA	predicted protein	-				-	-
+Sm_t00004140-RA	predicted protein	-				-	-
+Sm_t00004177-RA	predicted protein	-				-	-
+Sm_t00004187-RA	predicted protein	-				-	-
+Sm_t00004188-RA	predicted protein	-				-	-
+Sm_t00004225-RA	predicted protein	-				-	-
+Sm_t00004238-RA	predicted protein	-				-	-
+Sm_t00004244-RA	predicted protein	-				-	-
+Sm_t00004293-RA	predicted protein	-				-	-
+Sm_t00004347-RA	predicted protein	-				-	-
+Sm_t00004364-RA	predicted protein	-				-	-
+Sm_t00004375-RA	predicted protein	-				-	-
+Sm_t00004377-RA	predicted protein	-				-	-
+Sm_t00004378-RA	predicted protein	-				-	-
+Sm_t00004412-RA	predicted protein	-				-	-
+Sm_t00004414-RA	predicted protein	-				-	-
+Sm_t00004416-RA	predicted protein	-				-	-
+Sm_t00004417-RA	predicted protein	-				-	-
+Sm_t00004418-RA	predicted protein	-				-	-
+Sm_t00004440-RA	predicted protein	-				-	-
+Sm_t00004441-RA	predicted protein	-				-	-
+Sm_t00004443-RA	predicted protein	-				-	-
+Sm_t00004444-RA	predicted protein	-				-	-
+Sm_t00004445-RA	predicted protein	-				-	-
+Sm_t00004446-RA	predicted protein	-				-	-
+Sm_t00004447-RA	predicted protein	-				-	-
+Sm_t00004448-RA	predicted protein	-				-	-
+Sm_t00004449-RA	predicted protein	-				-	-
+Sm_t00004451-RA	predicted protein	-				-	-
+Sm_t00004452-RA	predicted protein	-				-	-
+Sm_t00004466-RA	predicted protein	-				-	-
+Sm_t00004503-RA	predicted protein	-				-	-
+Sm_t00004534-RA	predicted protein	-				-	-
+Sm_t00004535-RA	predicted protein	-				-	-
+Sm_t00004552-RA	predicted protein	-				-	-
+Sm_t00004553-RA	predicted protein	-				-	-
+Sm_t00004556-RA	predicted protein	-				-	-
+Sm_t00004632-RA	predicted protein	-				-	-
+Sm_t00004652-RA	predicted protein	-				-	-
+Sm_t00004653-RA	predicted protein	-				-	-
+Sm_t00004660-RA	predicted protein	-				-	-
+Sm_t00004668-RA	predicted protein	-				-	-
+Sm_t00004686-RA	predicted protein	-				-	-
+Sm_t00004753-RA	predicted protein	-				-	-
+Sm_t00004781-RA	predicted protein	-				-	-
+Sm_t00004813-RA	predicted protein	-				-	-
+Sm_t00004833-RA	predicted protein	-				-	-
+Sm_t00004841-RA	predicted protein	-				-	-
+Sm_t00004858-RA	predicted protein	-				-	-
+Sm_t00004862-RA	predicted protein	-				-	-
+Sm_t00004899-RA	predicted protein	-				-	-
+Sm_t00004921-RA	predicted protein	-				-	-
+Sm_t00004935-RA	predicted protein	-				-	-
+Sm_t00004944-RA	predicted protein	-				-	-
+Sm_t00004951-RA	predicted protein	-				-	-
+Sm_t00004953-RA	predicted protein	-				-	-
+Sm_t00004966-RA	predicted protein	-				-	-
+Sm_t00004967-RA	predicted protein	-				-	-
+Sm_t00004997-RA	predicted protein	-				-	-
+Sm_t00005001-RA	predicted protein	-				-	-
+Sm_t00005002-RA	predicted protein	-				-	-
+Sm_t00005011-RA	predicted protein	-				-	-
+Sm_t00005015-RA	predicted protein	-				-	-
+Sm_t00005067-RA	predicted protein	-				-	-
+Sm_t00005069-RA	predicted protein	-				-	-
+Sm_t00005085-RA	predicted protein	-				-	-
+Sm_t00005094-RA	predicted protein	-				-	-
+Sm_t00005116-RA	predicted protein	-				-	-
+Sm_t00005126-RA	predicted protein	-				-	-
+Sm_t00005127-RA	predicted protein	-				-	-
+Sm_t00005128-RA	predicted protein	-				-	-
+Sm_t00005130-RA	predicted protein	-				-	-
+Sm_t00005132-RA	predicted protein	-				-	-
+Sm_t00005136-RA	predicted protein	-				-	-
+Sm_t00005139-RA	predicted protein	-				-	-
+Sm_t00005211-RA	predicted protein	-				-	-
+Sm_t00005213-RA	predicted protein	-				-	-
+Sm_t00005231-RA	predicted protein	-				-	-
+Sm_t00005232-RA	predicted protein	-				-	-
+Sm_t00005241-RA	predicted protein	-				-	-
+Sm_t00005242-RA	predicted protein	-				-	-
+Sm_t00005244-RA	predicted protein	-				-	-
+Sm_t00005245-RA	predicted protein	-				-	-
+Sm_t00005248-RA	predicted protein	-				-	-
+Sm_t00005260-RA	predicted protein	-				-	-
+Sm_t00005276-RA	predicted protein	-				-	-
+Sm_t00005292-RA	predicted protein	-				-	-
+Sm_t00005296-RA	predicted protein	-				-	-
+Sm_t00005324-RA	predicted protein	-				-	-
+Sm_t00005340-RA	predicted protein	-				-	-
+Sm_t00005349-RA	predicted protein	-				-	-
+Sm_t00005351-RA	predicted protein	-				-	-
+Sm_t00005362-RA	predicted protein	-				-	-
+Sm_t00005366-RA	predicted protein	-				-	-
+Sm_t00005367-RA	predicted protein	-				-	-
+Sm_t00005429-RA	predicted protein	-				-	-
+Sm_t00005441-RA	predicted protein	-				-	-
+Sm_t00005442-RA	predicted protein	-				-	-
+Sm_t00005450-RA	predicted protein	-				-	-
+Sm_t00005451-RA	predicted protein	-				-	-
+Sm_t00005464-RA	predicted protein	-				-	-
+Sm_t00005477-RA	predicted protein	-				-	-
+Sm_t00005536-RA	predicted protein	-				-	-
+Sm_t00005606-RA	predicted protein	-				-	-
+Sm_t00005617-RA	predicted protein	-				-	-
+Sm_t00005628-RA	predicted protein	-				-	-
+Sm_t00005633-RA	predicted protein	-				-	-
+Sm_t00005669-RA	predicted protein	-				-	-
+Sm_t00005686-RA	predicted protein	-				-	-
+Sm_t00005690-RA	predicted protein	-				-	-
+Sm_t00005723-RA	predicted protein	-				-	-
+Sm_t00005729-RA	predicted protein	-				-	-
+Sm_t00005764-RA	predicted protein	-				-	-
+Sm_t00005768-RA	predicted protein	-				-	-
+Sm_t00005769-RA	predicted protein	-				-	-
+Sm_t00005775-RA	predicted protein	-				-	-
+Sm_t00005776-RA	predicted protein	-				-	-
+Sm_t00005787-RA	predicted protein	-				-	-
+Sm_t00005890-RA	predicted protein	-				-	-
+Sm_t00005891-RA	predicted protein	-				-	-
+Sm_t00005916-RA	predicted protein	-				-	-
+Sm_t00005962-RA	predicted protein	-				-	-
+Sm_t00005985-RA	predicted protein	-				-	-
+Sm_t00005986-RA	predicted protein	-				-	-
+Sm_t00006007-RA	predicted protein	-				-	-
+Sm_t00006037-RA	predicted protein	-				-	-
+Sm_t00006052-RA	predicted protein	-				-	-
+Sm_t00006053-RA	predicted protein	-				-	-
+Sm_t00006063-RA	predicted protein	-				-	-
+Sm_t00006064-RA	predicted protein	-				-	-
+Sm_t00006111-RA	predicted protein	-				-	-
+Sm_t00006212-RA	predicted protein	-				-	-
+Sm_t00006225-RA	predicted protein	-				-	-
+Sm_t00006233-RA	predicted protein	-				-	-
+Sm_t00006257-RA	predicted protein	-				-	-
+Sm_t00006258-RA	predicted protein	-				-	-
+Sm_t00006260-RA	predicted protein	-				-	-
+Sm_t00006275-RA	predicted protein	-				-	-
+Sm_t00006304-RA	predicted protein	-				-	-
+Sm_t00006305-RA	predicted protein	-				-	-
+Sm_t00006311-RA	predicted protein	-				-	-
+Sm_t00006330-RA	predicted protein	-				-	-
+Sm_t00006347-RA	predicted protein	-				-	-
+Sm_t00006348-RA	predicted protein	-				-	-
+Sm_t00006369-RA	predicted protein	-				-	-
+Sm_t00006377-RA	predicted protein	-				-	-
+Sm_t00006378-RA	predicted protein	-				-	-
+Sm_t00006414-RA	predicted protein	-				-	-
+Sm_t00006415-RA	predicted protein	-				-	-
+Sm_t00006416-RA	predicted protein	-				-	-
+Sm_t00006417-RA	predicted protein	-				-	-
+Sm_t00006432-RA	predicted protein	-				-	-
+Sm_t00006452-RA	predicted protein	-				-	-
+Sm_t00006460-RA	predicted protein	-				-	-
+Sm_t00006502-RA	predicted protein	-				-	-
+Sm_t00006503-RA	predicted protein	-				-	-
+Sm_t00006505-RA	predicted protein	-				-	-
+Sm_t00006527-RA	predicted protein	-				-	-
+Sm_t00006557-RA	predicted protein	-				-	-
+Sm_t00006558-RA	predicted protein	-				-	-
+Sm_t00006576-RA	predicted protein	-				-	-
+Sm_t00006618-RA	predicted protein	-				-	-
+Sm_t00006619-RA	predicted protein	-				-	-
+Sm_t00006627-RA	predicted protein	-				-	-
+Sm_t00006682-RA	predicted protein	-				-	-
+Sm_t00006743-RA	predicted protein	-				-	-
+Sm_t00006756-RA	predicted protein	-				-	-
+Sm_t00006779-RA	predicted protein	-				-	-
+Sm_t00006780-RA	predicted protein	-				-	-
+Sm_t00006794-RA	predicted protein	-				-	-
+Sm_t00006795-RA	predicted protein	-				-	-
+Sm_t00006820-RA	predicted protein	-				-	-
+Sm_t00006926-RA	predicted protein	-				-	-
+Sm_t00006937-RA	predicted protein	-				-	-
+Sm_t00006994-RA	predicted protein	-				-	-
+Sm_t00007008-RA	predicted protein	-				-	-
+Sm_t00007009-RA	predicted protein	-				-	-
+Sm_t00007047-RA	predicted protein	-				-	-
+Sm_t00007061-RA	predicted protein	-				-	-
+Sm_t00007072-RA	predicted protein	-				-	-
+Sm_t00007073-RA	predicted protein	-				-	-
+Sm_t00007074-RA	predicted protein	-				-	-
+Sm_t00007075-RA	predicted protein	-				-	-
+Sm_t00007089-RA	predicted protein	-				-	-
+Sm_t00007128-RA	predicted protein	-				-	-
+Sm_t00007145-RA	predicted protein	-				-	-
+Sm_t00007171-RA	predicted protein	-				-	-
+Sm_t00007210-RA	predicted protein	-				-	-
+Sm_t00007212-RA	predicted protein	-				-	-
+Sm_t00007222-RA	predicted protein	-				-	-
+Sm_t00007244-RA	predicted protein	-				-	-
+Sm_t00007270-RA	predicted protein	-				-	-
+Sm_t00007379-RA	predicted protein	-				-	-
+Sm_t00007437-RA	predicted protein	-				-	-
+Sm_t00007510-RA	predicted protein	-				-	-
+Sm_t00007511-RA	predicted protein	-				-	-
+Sm_t00007517-RA	predicted protein	-				-	-
+Sm_t00007541-RA	predicted protein	-				-	-
+Sm_t00007548-RA	predicted protein	-				-	-
+Sm_t00007556-RA	predicted protein	-				-	-
+Sm_t00007585-RA	predicted protein	-				-	-
+Sm_t00007642-RA	predicted protein	-				-	-
+Sm_t00007672-RA	predicted protein	-				-	-
+Sm_t00007676-RA	predicted protein	-				-	-
+Sm_t00007681-RA	predicted protein	-				-	-
+Sm_t00007682-RA	predicted protein	-				-	-
+Sm_t00007694-RA	predicted protein	-				-	-
+Sm_t00007713-RA	predicted protein	-				-	-
+Sm_t00007720-RA	predicted protein	-				-	-
+Sm_t00007737-RA	predicted protein	-				-	-
+Sm_t00007748-RA	predicted protein	-				-	-
+Sm_t00007792-RA	predicted protein	-				-	-
+Sm_t00007793-RA	predicted protein	-				-	-
+Sm_t00007884-RA	predicted protein	-				-	-
+Sm_t00007921-RA	predicted protein	-				-	-
+Sm_t00007928-RA	predicted protein	-				-	-
+Sm_t00007999-RA	predicted protein	-				-	-
+Sm_t00008017-RA	predicted protein	-				-	-
+Sm_t00008029-RA	predicted protein	-				-	-
+Sm_t00008082-RA	predicted protein	-				-	-
+Sm_t00008108-RA	predicted protein	-				-	-
+Sm_t00008118-RA	predicted protein	-				-	-
+Sm_t00008123-RA	predicted protein	-				-	-
+Sm_t00008142-RA	predicted protein	-				-	-
+Sm_t00008149-RA	predicted protein	-				-	-
+Sm_t00008180-RA	predicted protein	-				-	-
+Sm_t00008181-RA	predicted protein	-				-	-
+Sm_t00008182-RA	predicted protein	-				-	-
+Sm_t00008190-RA	predicted protein	-				-	-
+Sm_t00008228-RA	predicted protein	-				-	-
+Sm_t00008233-RA	predicted protein	-				-	-
+Sm_t00008248-RA	predicted protein	-				-	-
+Sm_t00008279-RA	predicted protein	-				-	-
+Sm_t00008302-RA	predicted protein	-				-	-
+Sm_t00008306-RA	predicted protein	-				-	-
+Sm_t00008322-RA	predicted protein	-				-	-
+Sm_t00008350-RA	predicted protein	-				-	-
+Sm_t00008356-RA	predicted protein	-				-	-
+Sm_t00008364-RA	predicted protein	-				-	-
+Sm_t00008367-RA	predicted protein	-				-	-
+Sm_t00008369-RA	predicted protein	-				-	-
+Sm_t00008386-RA	predicted protein	-				-	-
+Sm_t00008462-RA	predicted protein	-				-	-
+Sm_t00008498-RA	predicted protein	-				-	-
+Sm_t00008500-RA	predicted protein	-				-	-
+Sm_t00008503-RA	predicted protein	-				-	-
+Sm_t00008504-RA	predicted protein	-				-	-
+Sm_t00008505-RA	predicted protein	-				-	-
+Sm_t00008581-RA	predicted protein	-				-	-
+Sm_t00008587-RA	predicted protein	-				-	-
+Sm_t00008663-RA	predicted protein	-				-	-
+Sm_t00008687-RA	predicted protein	-				-	-
+Sm_t00008688-RA	predicted protein	-				-	-
+Sm_t00008698-RA	predicted protein	-				-	-
+Sm_t00008706-RA	predicted protein	-				-	-
+Sm_t00008708-RA	predicted protein	-				-	-
+Sm_t00008709-RA	predicted protein	-				-	-
+Sm_t00008712-RA	predicted protein	-				-	-
+Sm_t00008714-RA	predicted protein	-				-	-
+Sm_t00008727-RA	predicted protein	-				-	-
+Sm_t00008747-RA	predicted protein	-				-	-
+Sm_t00008750-RA	predicted protein	-				-	-
+Sm_t00008781-RA	predicted protein	-				-	-
+Sm_t00008784-RA	predicted protein	-				-	-
+Sm_t00008817-RA	predicted protein	-				-	-
+Sm_t00008831-RA	predicted protein	-				-	-
+Sm_t00008845-RA	predicted protein	-				-	-
+Sm_t00008846-RA	predicted protein	-				-	-
+Sm_t00008851-RA	predicted protein	-				-	-
+Sm_t00008905-RA	predicted protein	-				-	-
+Sm_t00008906-RA	predicted protein	-				-	-
+Sm_t00008907-RA	predicted protein	-				-	-
+Sm_t00008916-RA	predicted protein	-				-	-
+Sm_t00008917-RA	predicted protein	-				-	-
+Sm_t00008919-RA	predicted protein	-				-	-
+Sm_t00008920-RA	predicted protein	-				-	-
+Sm_t00008963-RA	predicted protein	-				-	-
+Sm_t00008986-RA	predicted protein	-				-	-
+Sm_t00008988-RA	predicted protein	-				-	-
+Sm_t00008990-RA	predicted protein	-				-	-
+Sm_t00008993-RA	predicted protein	-				-	-
+Sm_t00009042-RA	predicted protein	-				-	-
+Sm_t00009065-RA	predicted protein	-				-	-
+Sm_t00009066-RA	predicted protein	-				-	-
+Sm_t00009175-RA	predicted protein	-				-	-
+Sm_t00009213-RA	predicted protein	-				-	-
+Sm_t00009240-RA	predicted protein	-				-	-
+Sm_t00009254-RA	predicted protein	-				-	-
+Sm_t00009255-RA	predicted protein	-				-	-
+Sm_t00009256-RA	predicted protein	-				-	-
+Sm_t00009262-RA	predicted protein	-				-	-
+Sm_t00009275-RA	predicted protein	-				-	-
+Sm_t00009306-RA	predicted protein	-				-	-
+Sm_t00009308-RA	predicted protein	-				-	-
+Sm_t00009310-RA	predicted protein	-				-	-
+Sm_t00009370-RA	predicted protein	-				-	-
+Sm_t00009455-RA	predicted protein	-				-	-
+Sm_t00009485-RA	predicted protein	-				-	-
+Sm_t00009486-RA	predicted protein	-				-	-
+Sm_t00009552-RA	predicted protein	-				-	-
+Sm_t00009556-RA	predicted protein	-				-	-
+Sm_t00009651-RA	predicted protein	-				-	-
+Sm_t00009664-RA	predicted protein	-				-	-
+Sm_t00009665-RA	predicted protein	-				-	-
+Sm_t00009669-RA	predicted protein	-				-	-
+Sm_t00009675-RA	predicted protein	-				-	-
+Sm_t00009680-RA	predicted protein	-				-	-
+Sm_t00009692-RA	predicted protein	-				-	-
+Sm_t00009710-RA	predicted protein	-				-	-
+Sm_t00009738-RA	predicted protein	-				-	-
+Sm_t00009746-RA	predicted protein	-				-	-
+Sm_t00009757-RA	predicted protein	-				-	-
+Sm_t00009813-RA	predicted protein	-				-	-
+Sm_t00009814-RA	predicted protein	-				-	-
+Sm_t00009875-RA	predicted protein	-				-	-
+Sm_t00009887-RA	predicted protein	-				-	-
+Sm_t00009890-RA	predicted protein	-				-	-
+Sm_t00009891-RA	predicted protein	-				-	-
+Sm_t00009894-RA	predicted protein	-				-	-
+Sm_t00009900-RA	predicted protein	-				-	-
+Sm_t00009901-RA	predicted protein	-				-	-
+Sm_t00009906-RA	predicted protein	-				-	-
+Sm_t00009911-RA	predicted protein	-				-	-
+Sm_t00009914-RA	predicted protein	-				-	-
+Sm_t00009922-RA	predicted protein	-				-	-
+Sm_t00009925-RA	predicted protein	-				-	-
+Sm_t00009926-RA	predicted protein	-				-	-
+Sm_t00009927-RA	predicted protein	-				-	-
+Sm_t00009951-RA	predicted protein	-				-	-
+Sm_t00009952-RA	predicted protein	-				-	-
+Sm_t00009953-RA	predicted protein	-				-	-
+Sm_t00009965-RA	predicted protein	-				-	-
+Sm_t00009982-RA	predicted protein	-				-	-
+Sm_t00010002-RA	predicted protein	-		Model should be removed		-	-
+Sm_t00010067-RA	predicted protein	-				-	-
+Sm_t00010097-RA	predicted protein	-				-	-
+Sm_t00010130-RA	predicted protein	-				-	-
+Sm_t00010131-RA	predicted protein	-				-	-
+Sm_t00010132-RA	predicted protein	-				-	-
+Sm_t00010157-RA	predicted protein	-				-	-
+Sm_t00010187-RA	predicted protein	-				-	-
+Sm_t00010262-RA	predicted protein	-				-	-
+Sm_t00010275-RA	predicted protein	-				-	-
+Sm_t00010302-RA	predicted protein	-				-	-
+Sm_t00010316-RA	predicted protein	-				-	-
+Sm_t00010329-RA	predicted protein	-				-	-
+Sm_t00010364-RA	predicted protein	-				-	-
+Sm_t00010381-RA	predicted protein	-				-	-
+Sm_t00010397-RA	predicted protein	-				-	-
+Sm_t00010413-RA	predicted protein	-				-	-
+Sm_t00010423-RA	predicted protein	-				-	-
+Sm_t00010451-RA	predicted protein	-				-	-
+Sm_t00010461-RA	predicted protein	-				-	-
+Sm_t00010526-RA	predicted protein	-				-	-
+Sm_t00010530-RA	predicted protein	-				-	-
+Sm_t00010540-RA	predicted protein	-				-	-
+Sm_t00010552-RA	predicted protein	-				-	-
+Sm_t00010576-RA	predicted protein	-				-	-
+Sm_t00010588-RA	predicted protein	-				-	-
+Sm_t00010594-RA	predicted protein	-				-	-
+Sm_t00010641-RA	predicted protein	-		Half coverage		-	-
+Sm_t00010663-RA	predicted protein	-				-	-
+Sm_t00010679-RA	predicted protein	-				-	-
+Sm_t00010693-RA	predicted protein	-				-	-
+Sm_t00010696-RA	predicted protein	-				-	-
+Sm_t00010715-RA	predicted protein	-				-	-
+Sm_t00010724-RA	predicted protein	-				-	-
+Sm_t00010798-RA	predicted protein	-				-	-
+Sm_t00010849-RA	predicted protein	-				-	-
+Sm_t00010908-RA	predicted protein	-				-	-
+Sm_t00010909-RA	predicted protein	-				-	-
+Sm_t00010910-RA	predicted protein	-				-	-
+Sm_t00010925-RA	predicted protein	-		Half coverage		-	-
+Sm_t00010940-RA	predicted protein	-		Half coverage		-	-
+Sm_t00010944-RA	predicted protein	-				-	-
+Sm_t00010946-RA	predicted protein	-				-	-
+Sm_t00010968-RA	predicted protein	-				-	-
+Sm_t00010970-RA	predicted protein	-				-	-
+Sm_t00011006-RA	predicted protein	-				-	-
+Sm_t00011048-RA	predicted protein	-				-	-
+Sm_t00011049-RA	predicted protein	-				-	-
+Sm_t00011071-RA	predicted protein	-				-	-
+Sm_t00011095-RA	predicted protein	-				-	-
+Sm_t00011205-RA	predicted protein	-				-	-
+Sm_t00011224-RA	predicted protein	-				-	-
+Sm_t00011229-RA	predicted protein	-				-	-
+Sm_t00011230-RA	predicted protein	-				-	-
+Sm_t00011237-RA	predicted protein	-				-	-
+Sm_t00011246-RA	predicted protein	-				-	-
+Sm_t00011248-RA	predicted protein	-				-	-
+Sm_t00011260-RA	predicted protein	-				-	-
+Sm_t00011261-RA	predicted protein	-				-	-
+Sm_t00011271-RA	predicted protein	-				-	-
+Sm_t00011285-RA	predicted protein	-				-	-
+Sm_t00011306-RA	predicted protein	-				-	-
+Sm_t00011324-RA	predicted protein	-				-	-
+Sm_t00011331-RA	predicted protein	-				-	-
+Sm_t00011340-RA	predicted protein	-				-	-
+Sm_t00011350-RA	predicted protein	-				-	-
+Sm_t00011395-RA	predicted protein	-				-	-
+Sm_t00011396-RA	predicted protein	-				-	-
+Sm_t00011403-RA	predicted protein	-				-	-
+Sm_t00011447-RA	predicted protein	-				-	-
+Sm_t00011533-RA	predicted protein	-				-	-
+Sm_t00011540-RA	predicted protein	-				-	-
+Sm_t00011577-RA	predicted protein	-				-	-
+Sm_t00011601-RA	predicted protein	-		Half coverage region		-	-
+Sm_t00011640-RA	predicted protein	-				-	-
+Sm_t00011684-RA	predicted protein	-				-	-
+Sm_t00011743-RA	predicted protein	-				-	-
+Sm_t00011785-RA	predicted protein	-				-	-
+Sm_t00011786-RA	predicted protein	-				-	-
+Sm_t00011793-RA	predicted protein	-				-	-
+Sm_t00011837-RA	predicted protein	-				-	-
+Sm_t00011873-RA	predicted protein	-				-	-
+Sm_t00011874-RA	predicted protein	-				-	-
+Sm_t00011887-RA	predicted protein	-				-	-
+Sm_t00011913-RA	predicted protein	-				-	-
+Sm_t00011933-RA	predicted protein	-				-	-
+Sm_t00011945-RA	predicted protein	-				-	-
+Sm_t00011992-RA	predicted protein	-				-	-
+Sm_t00011993-RA	predicted protein	-				-	-
+Sm_t00011994-RA	predicted protein	-				-	-
+Sm_t00012004-RA	predicted protein	-				-	-
+Sm_t00012006-RA	predicted protein	-				-	-
+Sm_t00012008-RA	predicted protein	-				-	-
+Sm_t00012016-RA	predicted protein	-				-	-
+Sm_t00012085-RA	predicted protein	-				-	-
+Sm_t00012089-RA	predicted protein	-				-	-
+Sm_t00012113-RA	predicted protein	-				-	-
+Sm_t00012119-RA	predicted protein	-				-	-
+Sm_t00012121-RA	predicted protein	-				-	-
+Sm_t00012122-RA	predicted protein	-				-	-
+Sm_t00012123-RA	predicted protein	-				-	-
+Sm_t00012166-RA	predicted protein	-				-	-
+Sm_t00012182-RA	predicted protein	-				-	-
+Sm_t00012190-RA	predicted protein	-				-	-
+Sm_t00012229-RA	predicted protein	-				-	-
+Sm_t00012257-RA	predicted protein	-				-	-
+Sm_t00012261-RA	predicted protein	-				-	-
+Sm_t00012262-RA	predicted protein	-				-	-
+Sm_t00012280-RA	predicted protein	-		Half coverage		-	-
+Sm_t00012295-RA	predicted protein	-		Half coverage		-	-
+Sm_t00012379-RA	predicted protein	-				-	-
+Sm_t00012392-RA	predicted protein	-				-	-
+Sm_t00012394-RA	predicted protein	-				-	-
+Sm_t00012404-RA	predicted protein	-				-	-
+Sm_t00012426-RA	predicted protein	-				-	-
+Sm_t00012472-RA	predicted protein	-				-	-
+Sm_t00012481-RA	predicted protein	-				-	-
+Sm_t00012493-RA	predicted protein	-				-	-
+Sm_t00012497-RA	predicted protein	-				-	-
+Sm_t00012536-RA	predicted protein	-				-	-
+Sm_t00012591-RA	predicted protein	-				-	-
+Sm_t00012620-RA	predicted protein	-				-	-
+Sm_t00012622-RA	predicted protein	-				-	-
+Sm_t00012634-RA	predicted protein	-				-	-
+Sm_t00012635-RA	predicted protein	-				-	-
+Sm_t00012652-RA	predicted protein	-				-	-
+Sm_t00012659-RA	predicted protein	-				-	-
+Sm_t00012660-RA	predicted protein	-				-	-
+Sm_t00012694-RA	predicted protein	-				-	-
+Sm_t00012697-RA	predicted protein	-				-	-
+Sm_t00012717-RA	predicted protein	-				-	-
+Sm_t00012736-RA	predicted protein	-				-	-
+Sm_t00012748-RA	predicted protein	-				-	-
+Sm_t00012814-RA	predicted protein	-				-	-
+Sm_t00012823-RA	predicted protein	-				-	-
+Sm_t00012827-RA	predicted protein	-				-	-
+Sm_t00012916-RA	predicted protein	-				-	-
+Sm_t00012926-RA	predicted protein	-				-	-
+Sm_t00012927-RA	predicted protein	-				-	-
+Sm_t00012946-RA	predicted protein	-				-	-
+Sm_t00012947-RA	predicted protein	-				-	-
+Sm_t00012950-RA	predicted protein	-				-	-
+Sm_t00012951-RA	predicted protein	-				-	-
+Sm_t00012969-RA	predicted protein	-				-	-
+Sm_t00012990-RA	predicted protein	-				-	-
+Sm_t00013003-RA	predicted protein	-				-	-
+Sm_t00013093-RA	predicted protein	-				-	-
+Sm_t00013168-RA	predicted protein	-				-	-
+Sm_t00013169-RA	predicted protein	-				-	-
+Sm_t00013170-RA	predicted protein	-				-	-
+Sm_t00013181-RA	predicted protein	-				-	-
+Sm_t00013190-RA	predicted protein	-				-	-
+Sm_t00013194-RA	predicted protein	-				-	-
+Sm_t00013217-RA	predicted protein	-				-	-
+Sm_t00013228-RA	predicted protein	-				-	-
+Sm_t00013291-RA	predicted protein	-				-	-
+Sm_t00013301-RA	predicted protein	-				-	-
+Sm_t00013323-RA	predicted protein	-				-	-
+Sm_t00013346-RA	predicted protein	-				-	-
+Sm_t00013362-RA	predicted protein	-				-	-
+Sm_t00013366-RA	predicted protein	-				-	-
+Sm_t00013367-RA	predicted protein	-				-	-
+Sm_t00013375-RA	predicted protein	-				-	-
+Sm_t00013396-RA	predicted protein	-				-	-
+Sm_t00013429-RA	predicted protein	-				-	-
+Sm_t00013438-RA	predicted protein	-				-	-
+Sm_t00013439-RA	predicted protein	-				-	-
+Sm_t00013440-RA	predicted protein	-				-	-
+Sm_t00013462-RA	predicted protein	-				-	-
+Sm_t00013480-RA	predicted protein	-				-	-
+Sm_t00013482-RA	predicted protein	-				-	-
+Sm_t00013518-RA	predicted protein	-				-	-
+Sm_t00013830-RA	predicted protein	-				-	-
+Sm_t00013916-RA	predicted protein	-				-	-
+Sm_t00013945-RA	predicted protein	-				-	-
+Sm_t00014000-RA	predicted protein	-				-	-
+Sm_t00014001-RA	predicted protein	-				-	-
+Sm_t00014020-RA	predicted protein	-				-	-
+Sm_t00014041-RA	predicted protein	-				-	-
+Sm_t00014044-RA	predicted protein	-				-	-
+Sm_t00014045-RA	predicted protein	-				-	-
+Sm_t00014046-RA	predicted protein	-				-	-
+Sm_t00014053-RA	predicted protein	-				-	-
+Sm_t00014054-RA	predicted protein	-				-	-
+Sm_t00014059-RA	predicted protein	-				-	-
+Sm_t00014078-RA	predicted protein	-				-	-
+Sm_t00014079-RA	predicted protein	-				-	-
+Sm_t00014083-RA	predicted protein	-				-	-
+Sm_t00014118-RA	predicted protein	-				-	-
+Sm_t00014119-RA	predicted protein	-				-	-
+Sm_t00014120-RA	predicted protein	-				-	-
+Sm_t00014121-RA	predicted protein	-				-	-
+Sm_t00014122-RA	predicted protein	-				-	-
+Sm_t00014124-RA	predicted protein	-				-	-
+Sm_t00014156-RA	predicted protein	-				-	-
+Sm_t00014167-RA	predicted protein	-				-	-
+Sm_t00014203-RA	predicted protein	-				-	-
+Sm_t00014207-RA	predicted protein	-				-	-
+Sm_t00014210-RA	predicted protein	-				-	-
+Sm_t00014225-RA	predicted protein	-				-	-
+Sm_t00014226-RA	predicted protein	-				-	-
+Sm_t00014245-RA	predicted protein	-				-	-
+Sm_t00014263-RA	predicted protein	-				-	-
+Sm_t00014266-RA	predicted protein	-				-	-
+Sm_t00014272-RA	predicted protein	-				-	-
+Sm_t00014306-RA	predicted protein	-				-	-
+Sm_t00014361-RA	predicted protein	-				-	-
+Sm_t00014363-RA	predicted protein	-				-	-
+Sm_t00014373-RA	predicted protein	-				-	-
+Sm_t00014459-RA	predicted protein	-				-	-
+Sm_t00014483-RA	predicted protein	-				-	-
+Sm_t00014499-RA	predicted protein	-		Half coverage		-	-
+Sm_t00014514-RA	predicted protein	-		Half coverage		-	-
+Sm_t00014587-RA	predicted protein	-				-	-
+Sm_t00014629-RA	predicted protein	-				-	-
+Sm_t00014635-RA	predicted protein	-				-	-
+Sm_t00014646-RA	predicted protein	-				-	-
+Sm_t00014672-RA	predicted protein	-				-	-
+Sm_t00014704-RA	predicted protein	-				-	-
+Sm_t00014789-RA	predicted protein	-				-	-
+Sm_t00014824-RA	predicted protein	-				-	-
+Sm_t00014831-RA	predicted protein	-				-	-
+Sm_t00014912-RA	predicted protein	-				-	-
+Sm_t00014915-RA	predicted protein	-				-	-
+Sm_t00014917-RA	predicted protein	-				-	-
+Sm_t00014923-RA	predicted protein	-				-	-
+Sm_t00014926-RA	predicted protein	-				-	-
+Sm_t00014941-RA	predicted protein	-				-	-
+Sm_t00014964-RA	predicted protein	-				-	-
+Sm_t00014986-RA	predicted protein	-				-	-
+Sm_t00014993-RA	predicted protein	-				-	-
+Sm_t00015002-RA	predicted protein	-				-	-
+Sm_t00015005-RA	predicted protein	-				-	-
+Sm_t00015028-RA	predicted protein	-				-	-
+Sm_t00015393-RA	predicted protein	-				-	-
+Sm_t00015417-RA	predicted protein	-				-	-
+Sm_t00015430-RA	predicted protein	-				-	-
+Sm_t00015452-RA	predicted protein	-				-	-
+Sm_t00015456-RA	predicted protein	-				-	-
+Sm_t00015474-RA	predicted protein	-				-	-
+Sm_t00015483-RA	predicted protein	-				-	-
+Sm_t00015501-RA	predicted protein	-				-	-
+Sm_t00015502-RA	predicted protein	-				-	-
+Sm_t00015508-RA	predicted protein	-				-	-
+Sm_t00015521-RA	predicted protein	-				-	-
+Sm_t00015523-RA	predicted protein	-				-	-
+Sm_t00015529-RA	predicted protein	-				-	-
+Sm_t00015530-RA	predicted protein	-				-	-
+Sm_t00015538-RA	predicted protein	-				-	-
+Sm_t00015566-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015573-RA	predicted protein	-		Weird coverage		-	-
+Sm_t00015576-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015587-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015589-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015590-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015592-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015593-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015604-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015606-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015635-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015642-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015652-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015654-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015656-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015669-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015671-RA	predicted protein	-		Half coverage		-	-
+Sm_t00015688-RA	predicted protein	-				-	-
+Sm_t00015712-RA	predicted protein	-				-	-
+Sm_t00015750-RA	predicted protein	-				-	-
+Sm_t00016317-RA	predicted protein	-				-	-
+Sm_t00016318-RA	predicted protein	-				-	-
+Sm_t00016329-RA	predicted protein	-				-	-
+Sm_t00016330-RA	predicted protein	-				-	-
+Sm_t00016331-RA	predicted protein	-				-	-
+Sm_t00016332-RA	predicted protein	-				-	-
+Sm_t00016352-RA	predicted protein	-				-	-
+Sm_t00016358-RA	predicted protein	-				-	-
+Sm_t00016359-RA	predicted protein	-				-	-
+Sm_t00016362-RA	predicted protein	-				-	-
+Sm_t00016363-RA	predicted protein	-				-	-
+Sm_t00016386-RA	predicted protein	-				-	-
+Sm_t00016408-RA	predicted protein	-				-	-
+Sm_t00016409-RA	predicted protein	-				-	-
+Sm_t00016410-RA	predicted protein	-				-	-
+Sm_t00016412-RA	predicted protein	-				-	-
+Sm_t00016413-RA	predicted protein	-				-	-
+Sm_t00016414-RA	predicted protein	-				-	-
+Sm_t00016415-RA	predicted protein	-				-	-
+Sm_t00016430-RA	predicted protein	-				-	-
+Sm_t00016432-RA	predicted protein	-				-	-
+Sm_t00016459-RA	predicted protein	-				-	-
+Sm_t00016476-RA	predicted protein	-				-	-
+Sm_t00016477-RA	predicted protein	-				-	-
+Sm_t00016478-RA	predicted protein	-				-	-
+Sm_t00016479-RA	predicted protein	-				-	-
+Sm_t00016480-RA	predicted protein	-				-	-
+Sm_t00016499-RA	predicted protein	-				-	-
+Sm_t00016532-RA	predicted protein	-				-	-
+Sm_t00016536-RA	predicted protein	-				-	-
+Sm_t00016581-RA	predicted protein	-				-	-
+Sm_t00016582-RA	predicted protein	-				-	-
+Sm_t00016599-RA	predicted protein	-				-	-
+Sm_t00016616-RA	predicted protein	-				-	-
+Sm_t00016624-RA	predicted protein	-				-	-
+Sm_t00016634-RA	predicted protein	-				-	-
+Sm_t00016636-RA	predicted protein	-				-	-
+Sm_t00016647-RA	predicted protein	-				-	-
+Sm_t00016671-RA	predicted protein	-				-	-
+Sm_t00016887-RA	predicted protein	-				-	-
+Sm_t00016975-RA	predicted protein	-				-	-
+Sm_t00016976-RA	predicted protein	-				-	-
+Sm_t00016977-RA	predicted protein	-				-	-
+Sm_t00016982-RA	predicted protein	-		Model should be removed		-	-
+Sm_t00016986-RA	predicted protein	-				-	-
+Sm_t00016987-RA	predicted protein	-				-	-
+Sm_t00017000-RA	predicted protein	-				-	-
+Sm_t00017008-RA	predicted protein	-				-	-
+Sm_t00017026-RA	predicted protein	-				-	-
+Sm_t00017027-RA	predicted protein	-				-	-
+Sm_t00017034-RA	predicted protein	-				-	-
+Sm_t00017035-RA	predicted protein	-				-	-
+Sm_t00017050-RA	predicted protein	-				-	-
+Sm_t00017079-RA	predicted protein	-				-	-
+Sm_t00017080-RA	predicted protein	-				-	-
+Sm_t00017083-RA	predicted protein	-				-	-
+Sm_t00017084-RA	predicted protein	-				-	-
+Sm_t00017223-RA	predicted protein	-				-	-
+Sm_t00017254-RA	predicted protein	-				-	-
+Sm_t00017264-RA	predicted protein	-				-	-
+Sm_t00017295-RA	predicted protein	-				-	-
+Sm_t00017297-RA	predicted protein	-				-	-
+Sm_t00017311-RA	predicted protein	-				-	-
+Sm_t00017623-RA	predicted protein	-				-	-
+Sm_t00017652-RA	predicted protein	-				-	-
+Sm_t00017653-RA	predicted protein	-				-	-
+Sm_t00017659-RA	predicted protein	-				-	-
+Sm_t00017664-RA	predicted protein	-				-	-
+Sm_t00017667-RA	predicted protein	-				-	-
+Sm_t00017876-RA	predicted protein	-				-	-
+Sm_t00017882-RA	predicted protein	-		Half coverage		-	-
+Sm_t00017884-RA	predicted protein	-		Half coverage		-	-
+Sm_t00017892-RA	predicted protein	-		Half coverage		-	-
+Sm_t00017927-RA	predicted protein	-		Half coverage		-	-
+Sm_t00018097-RA	predicted protein	-				-	-
+Sm_t00018100-RA	predicted protein	-				-	-
+Sm_t00018101-RA	predicted protein	-				-	-
+Sm_t00018113-RA	predicted protein	-				-	-
+Sm_t00018117-RA	predicted protein	-				-	-
+Sm_t00018118-RA	predicted protein	-				-	-
+Sm_t00018143-RA	predicted protein	-				-	-
+Sm_t00018166-RA	predicted protein	-				-	-
+Sm_t00018428-RA	predicted protein	-				-	-
+Sm_t00018440-RA	predicted protein	-				-	-
+Sm_t00018454-RA	predicted protein	-				-	-
+Sm_t00018455-RA	predicted protein	-				-	-
+Sm_t00018469-RA	predicted protein	-				-	-
+Sm_t00018470-RA	predicted protein	-				-	-
+Sm_t00018471-RA	predicted protein	-				-	-
+Sm_t00018472-RA	predicted protein	-				-	-
+Sm_t00018483-RA	predicted protein	-				-	-
+Sm_t00018485-RA	predicted protein	-				-	-
+Sm_t00018489-RA	predicted protein	-				-	-
+Sm_t00018492-RA	predicted protein	-				-	-
+Sm_t00018495-RA	predicted protein	-				-	-
+Sm_t00018714-RA	predicted protein	-				-	-
+Sm_t00018726-RA	predicted protein	-				-	-
+Sm_t00018824-RA	predicted protein	-				-	-
+Sm_t00018847-RA	predicted protein	-				-	-
+Sm_t00019122-RA	predicted protein	-				-	-
+Sm_t00019135-RA	predicted protein	-				-	-
+Sm_t00019142-RA	predicted protein	-				-	-
+Sm_t00019145-RA	predicted protein	-				-	-
+Sm_t00019156-RA	predicted protein	-				-	-
+Sm_t00019174-RA	predicted protein	-				-	-
+Sm_t00019178-RA	predicted protein	-				-	-
+Sm_t00019179-RA	predicted protein	-				-	-
+Sm_t00019180-RA	predicted protein	-				-	-
+Sm_t00019191-RA	predicted protein	-				-	-
+Sm_t00019209-RA	predicted protein	-				-	-
+Sm_t00019235-RA	predicted protein	-				-	-
+Sm_t00019678-RA	predicted protein	-				-	-
+Sm_t00019816-RA	predicted protein	-				-	-
+Sm_t00019818-RA	predicted protein	-				-	-
+Sm_t00019834-RA	predicted protein	-				-	-
+Sm_t00019920-RA	predicted protein	-				-	-
+Sm_t00019948-RA	predicted protein	-				-	-
+Sm_t00020188-RA	predicted protein	-				-	-
+Sm_t00020191-RA	predicted protein	-				-	-
+Sm_t00020263-RA	predicted protein	-				-	-
+Sm_t00020270-RA	predicted protein	-				-	-
+Sm_t00020302-RA	predicted protein	-				-	-
+Sm_t00020309-RA	predicted protein	-				-	-
+Sm_t00020312-RA	predicted protein	-				-	-
+Sm_t00020318-RA	predicted protein	-				-	-
+Sm_t00020320-RA	predicted protein	-				-	-
+Sm_t00020478-RA	predicted protein	-				-	-
+Sm_t00020537-RA	predicted protein	-		Half coverage		-	-
+Sm_t00020544-RA	predicted protein	-		Half coverage		-	-
+Sm_t00020545-RA	predicted protein	-		Half coverage		-	-
+Sm_t00020549-RA	predicted protein	-		Half coverage		-	-
+Sm_t00020830-RA	predicted protein	-				-	-
+Sm_t00021034-RA	predicted protein	-				-	-
+Sm_t00021039-RA	predicted protein	-				-	-
+Sm_t00021041-RA	predicted protein	-				-	-
+Sm_t00021482-RA	predicted protein	-				-	-
+Sm_t00021504-RA	predicted protein	-				-	-
+Sm_t00021710-RA	predicted protein	-				-	-
+Sm_t00021961-RA	predicted protein	-				-	-
+Sm_t00022143-RA	predicted protein	-				-	-
+Sm_t00022466-RA	predicted protein	-				-	-
+Sm_t00007078-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00000258-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00000493-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00000516-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00000519-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00000661-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00001012-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00001722-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00001966-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00001990-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00002360-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00002443-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00002485-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00002486-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00002579-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00002835-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00003270-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00003526-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00003528-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00003554-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00003762-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00003910-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00004501-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00004864-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00005082-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00005176-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00005313-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00005314-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00005710-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00006277-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00006279-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00006280-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00006564-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00006715-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00006825-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00006998-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00007606-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00007758-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00008286-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00008450-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00008991-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00009198-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00009567-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00009759-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00009815-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00009876-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00010322-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00010324-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00010844-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00010880-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00011624-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00011748-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00011763-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00012112-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00012141-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00012974-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00013413-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00013868-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00013870-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00014100-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00014816-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00014890-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00015476-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00015481-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00016364-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00016639-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00017627-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00017628-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00020269-RA	predicted protein, chloroplastic	-				Plastid	-
+Sm_t00001343-RA	predicted protein, chloroplastic/mitochondrial	-				Plastid	Mito
+Sm_t00010681-RA	predicted protein, chloroplastic/mitochondrial	-				Plastid	Mito
+Sm_t00000693-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00001156-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00003429-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00003551-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00004627-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00008822-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00009431-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00013386-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00014254-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00020287-RA	predicted protein, mitochondrial	-				-	Mito
+Sm_t00010105-RA	predicted protein, partial	-		Models should be merged		-	-
+Sm_t00010106-RA	predicted protein, partial	-		Models should be merged		-	-
+Sm_t00011265-RA	probable bifunctional methylthioribulose-1-phosphate dehydratase/enolase-phosphatase E1					-	-
+Sm_t00010834-RA	probable chromatin-remodeling complex ATPase chain					-	-
+Sm_t00008798-RA	probable manganese-dependent inorganic pyrophosphatase	3.6.1.1				-	-
+Sm_t00018644-RA	prolactin regulatory element-binding protein	-				-	-
+Sm_t00017255-RA	proliferating cell nuclear antigen	-				-	-
+Sm_t00003275-RA	prolyl 4-hydroxylase alpha subunit					-	-
+Sm_t00007199-RA	prolyl 4-hydroxylase alpha subunit					-	-
+Sm_t00009109-RA	prolyl 4-hydroxylase alpha subunit-like protein					-	-
+Sm_t00012380-RA	prolyl 4-hydroxylase alpha subunit-like protein					-	-
+Sm_t00011545-RA	prolyl 4-hydroxylase family protein					-	-
+Sm_t00012081-RA	propionate--CoA ligase	6.2.1.17				-	-
+Sm_t00010979-RA	prostaglandin G/H synthase family protein					-	-
+Sm_t00018862-RA	protein CLEC16A	-				-	-
+Sm_t00004088-RA	protein deglycase	3.5.1.124		Also nucleic acid deglycase? (see hchA)		-	-
+Sm_t00003951-RA	protein disulfide-isomerase 5-4	-				-	-
+Sm_t00008346-RA	protein jagged-1-like protein					-	-
+Sm_t00009350-RA	protein kinase family protein	2.7.-.-				-	-
+Sm_t00003693-RA	protein kinase family protein, chloroplastic					Plastid	-
+Sm_t00009889-RA	protein O-glucosyltransferase	2.4.1.-,2.4.2.-				-	-
+Sm_t00009912-RA	protein O-glucosyltransferase	2.4.1.-,2.4.2.-				-	-
+Sm_t00011845-RA	protein O-glucosyltransferase	2.4.1.-,2.4.2.-				-	-
+Sm_t00010575-RA	protein tyrosine kinase	2.7.10.-				-	-
+Sm_t00008381-RA	protein-serine/threonine phosphatase, PP2C family	3.1.3.16				-	-
+Sm_t00011424-RA	protein-serine/threonine phosphatase, PP2C family, chloroplastic	3.1.3.16				Plastid	-
+Sm_t00000915-RA	pyridine nucleotide-disulfide oxidoreductase family protein, chloroplastic					Plastid	-
+Sm_t00013008-RA	pyridoxal reductase, chloroplastic	1.1.1.65				-	-
+Sm_t00008922-RA	pyridoxine/pyridoxamine 5'-phosphate oxidase, chloroplastic/mitochondrial	1.4.3.5				Plastid	Mito
+Sm_t00000043-RA	pyruvate carboxylase, mitochondrial	6.4.1.1				-	Mito
+Sm_t00013496-RA	pyruvate dehydrogenase E1 component, alpha subunit, partial	1.2.4.1		Models should be merged		-	-
+Sm_t00000181-RA	pyruvate kinase, chloroplastic	2.7.1.40				Plastid	-
+Sm_t00000932-RA	Rab-type small GTPase					-	-
+Sm_t00006531-RA	RAD50 family protein					-	-
+Sm_t00011140-RA	RAD52 family DNA repair protein					-	-
+Sm_t00011142-RA	RAD52 family DNA repair protein					-	-
+Sm_t00011145-RA	RAD52 family DNA repair protein					-	-
+Sm_t00019187-RA	RAP domain-containing protein	-				-	-
+Sm_t00005363-RA	RCC1 domain-containing protein	-				-	-
+Sm_t00005411-RA	RCC1 domain-containing protein	-				-	-
+Sm_t00010199-RA	RCC1 domain-containing protein	-				-	-
+Sm_t00015392-RA	RCC1 domain-containing protein	-				-	-
+Sm_t00015448-RA	RCC1 domain-containing protein	-				-	-
+Sm_t00011721-RA	RecQ-like DNA helicase					-	-
+Sm_t00012906-RA	regulator of telomere elongation helicase 1	3.6.4.12				-	-
+Sm_t00004576-RA	replication factor C subunit 5	-				-	-
+Sm_t00005255-RA	rhomboid family protein	-				-	-
+Sm_t00015410-RA	rhomboid family protein	-				-	-
+Sm_t00001404-RA	ribonuclease H2 subunit A	3.1.26.4				-	-
+Sm_t00007648-RA	ribonucleoside-diphosphate reductase subunit M2					-	-
+Sm_t00000924-RA	ribonucleoside-diphosphate reductase, large subunit					-	-
+Sm_t00011155-RA	ribonucleoside-diphosphate reductase, small chain					-	-
+Sm_t00018137-RA	ricin-type beta-trefoil lectin domain-containing protein					-	-
+Sm_t00004615-RA	Rieske-like [2Fe-2S] domain-containing protein	-				-	-
+Sm_t00000216-RA	RING finger protein	-				-	-
+Sm_t00020193-RA	RNA helicase MOV-10-like protein					-	-
+Sm_t00004154-RA	RNA-binding protein	-				-	-
+Sm_t00005886-RA	RNA-binding protein	-				-	-
+Sm_t00004393-RA	Rossmann-fold NAD(P)-binding domain-containing protein					-	-
+Sm_t00006695-RA	Rossmann-fold NAD(P)-binding domain-containing protein					-	-
+Sm_t00004610-RA	Rossmann-fold NAD(P)-binding domain-containing protein, chloroplastic					Plastid	-
+Sm_t00010267-RA	Rossmann-fold NAD(P)-binding domain-containing protein, chloroplastic					Plastid	-
+Sm_t00003231-RA	RuBisCO large subunit methyltransferase					-	-
+Sm_t00006173-RA	RUS1 family protein					-	-
+Sm_t00000071-RA	S-adenosylmethionine decarboxylase	4.1.1.50				-	-
+Sm_t00008289-RA	SDR family NAD(P)-dependent oxidoreductase					-	-
+Sm_t00008550-RA	SDR family NAD(P)-dependent oxidoreductase					-	-
+Sm_t00010255-RA	SDR family NAD(P)-dependent oxidoreductase					-	-
+Sm_t00010981-RA	SEC14 family lipid-binding protein	-				-	-
+Sm_t00007526-RA	SecY/SEC61-alpha family protein					-	-
+Sm_t00007605-RA	Sel1-like repeat family protein	-				-	-
+Sm_t00014808-RA	Sel1-like repeat family protein	-				-	-
+Sm_t00014821-RA	Sel1-like repeat family protein	-				-	-
+Sm_t00014858-RA	Sel1-like repeat family protein	-				-	-
+Sm_t00014960-RA	Sel1-like repeat family protein	-				-	-
+Sm_t00018819-RA	Sel1-like repeat family protein	-				-	-
+Sm_t00018822-RA	Sel1-like repeat family protein	-				-	-
+Sm_t00012802-RA	separin	3.4.22.49				-	-
+Sm_t00011461-RA	serine/threonine-protein kinase	2.7.11.-				-	-
+Sm_t00012202-RA	serine/threonine-protein kinase	2.7.11.-				-	-
+Sm_t00006250-RA	serine/threonine-protein kinase	2.7.11.-				-	-
+Sm_t00007668-RA	serine/threonine-protein kinase	2.7.11.-				-	-
+Sm_t00011627-RA	serine/threonine-protein kinase	2.7.11.-				-	-
+Sm_t00014300-RA	serine/threonine-protein kinase	2.7.11.-				-	-
+Sm_t00002193-RA	serine/threonine-protein kinase ATR					-	-
+Sm_t00009667-RA	serine/threonine-protein phosphatase					-	-
+Sm_t00012712-RA	serine/threonine-protein phosphatase 4 regulatory subunit 1					-	-
+Sm_t00007762-RA	serine/threonine-protein phosphatase, family 2C, chloroplastic			Bifunctional w/ kinase?		Plastid	-
+Sm_t00012875-RA	SET domain-containing protein	2.1.1.-				-	-
+Sm_t00018733-RA	SET domain-containing protein	2.1.1.-				-	-
+Sm_t00006568-RA	SET domain-containing protein, chloroplastic	2.1.1.-				Plastid	-
+Sm_t00004783-RA	SH3 domain-containing Ysc84-like protein					-	-
+Sm_t00016622-RA	sialate O-acetylesterase					-	-
+Sm_t00018109-RA	sialate O-acetylesterase	3.1.1.53		Triple-check?		-	-
+Sm_t00006766-RA	silicon transporter	-		Weird coverage		-	-
+Sm_t00006767-RA	silicon transporter	-		Weird coverage		-	-
+Sm_t00015513-RA	silicon transporter	-		Weird coverage		-	-
+Sm_t00015514-RA	silicon transporter	-		Weird coverage		-	-
+Sm_t00006132-RA	sister chromatid cohesion protein PDS5					-	-
+Sm_t00010673-RA	SNF family helicase					-	-
+Sm_t00006813-RA	SNF2 family helicase	-				-	-
+Sm_t00021483-RA	SNF2 family helicase	-				-	-
+Sm_t00004251-RA	SNF2/RAD54 helicase family protein	-				-	-
+Sm_t00016668-RA	sodium/calcium exchanger protein	-				-	-
+Sm_t00001030-RA	sodium/hydrogen exchanger protein	-				-	-
+Sm_t00012784-RA	sodium/phosphate cotransporter	-				-	-
+Sm_t00013403-RA	sodium/potassium-transporting ATPase subunit alpha	7.2.2.13				-	-
+Sm_t00022507-RA	sodium/potassium-transporting ATPase subunit alpha	7.2.2.13				-	-
+Sm_t00012903-RA	sodium/potassium/calcium exchanger	-				-	-
+Sm_t00016909-RA	SOUL heme-binding protein, chloroplastic					Plastid	-
+Sm_t00005364-RA	spermidine/spermine synthase family protein	2.5.1.-				-	-
+Sm_t00012007-RA	spermidine/spermine synthase family protein	2.5.1.-				-	-
+Sm_t00016657-RA	spermidine/spermine synthase family protein	2.5.1.-				-	-
+Sm_t00020301-RA	spermidine/spermine synthase family protein	2.5.1.-				-	-
+Sm_t00004438-RA	SprT family zinc-dependent metalloprotease					-	-
+Sm_t00013009-RA	Staphylococcal nuclease-like protein					-	-
+Sm_t00001023-RA	START domain-containing protein					-	-
+Sm_t00003392-RA	sterol methyltransferase					-	-
+Sm_t00009385-RA	strawberry notch family protein					-	-
+Sm_t00016908-RA	strawberry notch family protein					-	-
+Sm_t00005560-RA	strawberry notch family protein, partial			Models should be merged	Half coverage	-	-
+Sm_t00005561-RA	strawberry notch family protein, partial			Models should be merged	Half coverage	-	-
+Sm_t00005562-RA	strawberry notch family protein, partial			Models should be merged	Half coverage	-	-
+Sm_t00004942-RA	structural maintenance of chromosomes protein					-	-
+Sm_t00002442-RA	structural maintenance of chromosomes protein 2					-	-
+Sm_t00006842-RA	structural maintenance of chromosomes protein 4					-	-
+Sm_t00007278-RA	structural maintenance of chromosomes protein 5					-	-
+Sm_t00012457-RA	structural maintenance of chromosomes protein 5					-	-
+Sm_t00006577-RA	subtilase family peptidase					-	-
+Sm_t00011804-RA	subtilisin-like peptidase (family S8)					-	-
+Sm_t00011958-RA	subtilisin-like peptidase (family S8)					-	-
+Sm_t00006584-RA	subtilisin-like serine protease					-	-
+Sm_t00000288-RA	succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial			No mito signal...?		-	-
+Sm_t00012005-RA	succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial					-	Mito
+Sm_t00011186-RA	succinate dehydrogenase cytochrome b560 subunit, mitochondrial					-	Mito
+Sm_t00012853-RA	succinate dehydrogenase iron-sulfur protein, mitochondrial					-	Mito
+Sm_t00000898-RA	succinate-CoA ligase, alpha subunit, mitochondrial					-	Mito
+Sm_t00002375-RA	succinate-CoA ligase, beta subunit, mitochondrial			Fixed CDS; mitochondrial		-	-
+Sm_t00004105-RA	succinyl-CoA:3-ketoacid coenzyme A transferase, mitochondrial	2.8.3.5		Triple-check this annotation?		-	Mito
+Sm_t00006747-RA	sugar transporter					-	-
+Sm_t00015544-RA	sulfate permease family inorganic anion transporter	-		Half coverage		-	-
+Sm_t00004189-RA	sulfate permease family inorganic anion transporter	-				-	-
+Sm_t00009709-RA	sulfate permease family inorganic anion transporter	-				-	-
+Sm_t00012267-RA	sulfate permease family inorganic anion transporter	-				-	-
+Sm_t00013890-RA	sulfate permease family inorganic anion transporter	-				-	-
+Sm_t00018508-RA	sulfate permease family inorganic anion transporter	-		Weird coverage		-	-
+Sm_t00018515-RA	sulfate permease family inorganic anion transporter	-		Weird coverage		-	-
+Sm_t00015614-RA	sulfate permease family inorganic anion transporter, chloroplastic	-		Half coverage		Plastid	-
+Sm_t00002564-RA	sulfhydryl oxidase	1.8.3.2				-	-
+Sm_t00001017-RA	sulfotransferase	2.8.2.-				-	-
+Sm_t00003365-RA	sulfotransferase family protein	2.8.2.-				-	-
+Sm_t00002604-RA	SUMO-activating enzyme subunit 1	-				-	-
+Sm_t00001755-RA	superoxide dismutase [Fe], chloroplastic	1.15.1.1				-	-
+Sm_t00012170-RA	superoxide dismutase [Fe], chloroplastic	1.15.1.1		Definitely chloroplastic?		-	-
+Sm_t00000392-RA	superoxide dismutase [Mn], mitochondrial	1.15.1.1		Definitely mitochondrial?		-	-
+Sm_t00002581-RA	superoxide dismutase [Ni]	1.15.1.1				-	-
+Sm_t00001241-RA	SWEET family sugar transporter, chloroplastic	-		Weird coverage		Plastid	-
+Sm_t00000248-RA	synembryn	-		guanine nucleotide exchange factor Ric8		-	-
+Sm_t00004754-RA	tesmin/TSO1-like protein	-				-	-
+Sm_t00005545-RA	tetracycline efflux transporter family protein	-				-	-
+Sm_t00002605-RA	tetratricopeptide repeat protein	-				-	-
+Sm_t00002891-RA	tetratricopeptide repeat protein	-				-	-
+Sm_t00004077-RA	tetratricopeptide repeat protein	-				-	-
+Sm_t00004674-RA	tetratricopeptide repeat protein	-				-	-
+Sm_t00006133-RA	tetratricopeptide repeat protein	-				-	-
+Sm_t00009978-RA	tetratricopeptide repeat protein	-				-	-
+Sm_t00011607-RA	tetratricopeptide repeat protein	-		Half coverage region		-	-
+Sm_t00014334-RA	thiol-disulfide oxidoreductase DCC family protein, chloroplastic	-				Plastid	-
+Sm_t00017267-RA	thioredoxin domain-containing protein, chloroplastic	-				Plastid	-
+Sm_t00015434-RA	threonine synthase	4.2.3.1				-	-
+Sm_t00013232-RA	thymidylate kinase	2.7.4.9				-	-
+Sm_t00012242-RA	timeless family protein	-				-	-
+Sm_t00007339-RA	TLD domain-containing protein	-				-	-
+Sm_t00004415-RA	TMEM203 superfamily protein	-		TMEM203 or TMEM185A?		-	-
+Sm_t00000598-RA	TMEM65 domain-containing protein	-				-	-
+Sm_t00011742-RA	transcription factor E2F	-				-	-
+Sm_t00013963-RA	transcription factor, E2F/DP family	-				-	-
+Sm_t00014891-RA	transcription factor, E2F/DP family	-				-	-
+Sm_t00010034-RA	transformation/transcription domain-associated protein	-		CDS needs severe fixing		-	-
+Sm_t00014468-RA	translocator protein, chloroplastic	-				Plastid	-
+Sm_t00002811-RA	transmembrane amino acid transporter protein	-				-	-
+Sm_t00013227-RA	transporter permease, ArsB/NhaD family	-				-	-
+Sm_t00013090-RA	tricarboxylate carrier protein, mitochondrial	-		Triple-check?	No mito signal?	-	-
+Sm_t00009203-RA	triose-phosphate transporter family protein, mitochondrial	-				-	Mito
+Sm_t00009211-RA	triosephosphate isomerase	5.3.1.1				-	-
+Sm_t00000168-RA	triosephosphate isomerase/glyceraldehyde-3-phosphate dehydrogenase, mitochondrial	1.2.1.12, 5.3.1.1 				-	Mito
+Sm_t00010185-RA	tRNA pseudouridine synthase	5.4.99.-				-	-
+Sm_t00006174-RA	trypsin-like serine protease	3.4.21.-		Model should be split	Other half - Crotonase/Enoyl-Coenzyme A (CoA) hydratase superfamily	-	-
+Sm_t00007399-RA	trypsin-like serine protease	3.4.21.-				-	-
+Sm_t00012494-RA	trypsin-like serine protease	3.4.21.-				-	-
+Sm_t00020370-RA	trypsin-like serine protease	3.4.21.-		Half coverage		-	-
+Sm_t00020374-RA	trypsin-like serine protease	3.4.21.-		Half coverage		-	-
+Sm_t00020375-RA	trypsin-like serine protease	3.4.21.-		Half coverage		-	-
+Sm_t00004131-RA	tryptophan synthase beta chain	4.2.1.20				-	-
+Sm_t00013370-RA	tubulin beta chain	-				-	-
+Sm_t00008713-RA	TVP38/TMEM64 family membrane protein	-				-	-
+Sm_t00011558-RA	twinkle mtDNA helicase	3.6.4.12				-	-
+Sm_t00005981-RA	U-box domain-containing protein	-				-	-
+Sm_t00013176-RA	UAA transporter family protein	-		SLC35B...?		-	-
+Sm_t00001183-RA	ubiquitin carboxyl-terminal hydrolase	3.4.19.12				-	-
+Sm_t00005288-RA	ubiquitin carboxyl-terminal hydrolase	3.4.19.12				-	-
+Sm_t00009789-RA	ubiquitin carboxyl-terminal hydrolase	3.4.19.12				-	-
+Sm_t00016891-RA	UDP-glucose-pyrophosphorylase/phosphoglucomutase	2.7.7.9,5.4.2.2		This fusion seems to exist in other organisms, inc. PhaTr		-	-
+Sm_t00005833-RA	UDP-glycosyltransferase-related protein	2.4.1.-				-	-
+Sm_t00011008-RA	urea active transporter	-				-	-
+Sm_t00005469-RA	urea carboxylase-associated family protein	-				-	-
+Sm_t00016610-RA	V-type proton ATPase catalytic subunit A	7.1.2.2				-	-
+Sm_t00000296-RA	V-type proton ATPase subunit a	-				-	-
+Sm_t00008078-RA	V-type proton ATPase subunit B	-				-	-
+Sm_t00016453-RA	V-type proton ATPase subunit C	-				-	-
+Sm_t00017944-RA	V-type proton ATPase subunit D	-		Half coverage	d 2?	-	-
+Sm_t00011233-RA	V-type proton ATPase subunit D	-		Half coverage	d 2?	-	-
+Sm_t00000157-RA	V-type proton ATPase subunit H	-				-	-
+Sm_t00012865-RA	vacuolar protein sorting-associated protein 13	-				-	-
+Sm_t00006857-RA	vacuolar protein sorting-associated protein 33A	-				-	-
+Sm_t00018155-RA	vacuolar transporter chaperone 4	-				-	-
+Sm_t00005930-RA	WASH complex subunit 7	-				-	-
+Sm_t00012574-RA	WD40 repeat domain-containing protein	-				-	-
+Sm_t00012821-RA	WD40 repeat domain-containing protein	-				-	-
+Sm_t00000115-RA	WD40 repeat domain-containing protein	-				-	-
+Sm_t00004029-RA	WD40 repeat domain-containing protein	-				-	-
+Sm_t00000918-RA	Wee1-like protein kinase	2.7.10.2				-	-
+Sm_t00011425-RA	Wee1-like protein kinase	2.7.10.2				-	-
+Sm_t00017249-RA	xanthine/uracil permease-related protein	-				-	-
+Sm_t00003012-RA	XPG/RAD2 endonuclease family protein	3.1.-.-				-	-
+Sm_t00005222-RA	YjbQ family protein	-		UPF0047 family protein		-	-
+Sm_t00002664-RA	YqgE/AlgH family protein	-				-	-
+Sm_t00003698-RA	YqgE/AlgH family protein	-				-	-
+Sm_t00000564-RA	YqgE/AlgH family protein, chloroplastic	-				Plastid	-
+Sm_t00005941-RA	zeaxanthin epoxidase, chloroplastic	1.14.15.21				Plastid	-
+Sm_t00005989-RA	zf-MYND and TPR domain-containing protein	-				-	-
+Sm_t00006836-RA	zf-MYND and TPR domain-containing protein	-				-	-
+Sm_t00018878-RA	zf-MYND and TPR domain-containing protein	-				-	-
+Sm_t00005196-RA	zinc-binding dehydrogenase	-		More specific? EC number?		-	-
+Sm_t00004919-RA	zinc-binding dehydrogenase	-		More specific? EC number?		-	-
+Sm_t00004923-RA	zinc-binding dehydrogenase	-		More specific? EC number?		-	-
+Sm_t00014295-RA	zinc-binding dehydrogenase	-		More specific? EC number?		-	-
+Sm_t00021694-RA	zinc-binding dehydrogenase	-		More specific? EC number?		-	-
+Sm_t00005663-RA	zinc-dependent metalloprotease (family M12B)	3.4.24.-				-	-
+Sm_t00006916-RA	zinc-dependent peptidase, M16 (insulinase) family	3.4.24.-		Mitochondrial presequence protease?		-	-
+Sm_t00003016-RA	zinc-dependent peptidase, M16 (insulinase) family, partial	3.4.24.-		Models should be merged		-	-
