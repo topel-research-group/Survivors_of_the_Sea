@@ -1,5 +1,9 @@
 # Readme file for final results
 
+Note - Tables of DE results for [R05](R05_FINAL/LFCs.R05.lfc0.585.reformatted.tsv) and 
+[GF04](GF04_FINAL/LFCs.GF04.lfc0.585.reformatted.tsv) use the old, work-in-progress gene naming conventions.  
+For naming conventions matching the publication and the NCBI upload, see [NameConversion.tsv](NameConversion.tsv)
+
 ## Upregulation
 
 * Genes significantly upregulated in at least one time point and strain: 6,975
