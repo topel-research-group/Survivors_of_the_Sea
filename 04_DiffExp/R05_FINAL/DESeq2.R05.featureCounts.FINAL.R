@@ -109,8 +109,8 @@ if (file.exists("dds.rds")){
 
 	distMatrix_rld <- as.matrix(all_dist_rld)
 
-	if (!file.exists("R05.featureCounts.Heatmap.png")){
-		png("R05.featureCounts.Heatmap.png")
+	if (!file.exists("R05.featureCounts.Heatmap.svg")){
+		svg("R05.featureCounts.Heatmap.svg")
 		p <- pheatmap(distMatrix_rld, annotation_col = annotation_col)
 		print(p)
 		dev.off()
@@ -118,16 +118,16 @@ if (file.exists("dds.rds")){
 
 	## PCA
 
-	if (!file.exists("R05.featureCounts.PCA.png")){
-		png("R05.featureCounts.PCA.png")
+	if (!file.exists("R05.featureCounts.PCA.svg")){
+		svg("R05.featureCounts.PCA.svg")
 		p <- plotPCA(rld, intgroup = c("Dormancy","Batch"))
 		print(p)
 		dev.off()
 	}
 
 	## PCA zoomed in on the resting stages
-	if (!file.exists("R05.featureCounts.PCA.RestingZoom.png")){
-		png("R05.featureCounts.PCA.RestingZoom.png")
+	if (!file.exists("R05.featureCounts.PCA.RestingZoom.svg")){
+		svg("R05.featureCounts.PCA.RestingZoom.svg")
 		p <- plotPCA(rld, intgroup = c("Dormancy","Batch"))
 		p <- p + coord_fixed(xlim=c(0,NA))
 		print(p)
