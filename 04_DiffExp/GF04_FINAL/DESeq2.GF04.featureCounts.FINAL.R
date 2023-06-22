@@ -37,7 +37,7 @@ coldata$Dormancy <- relevel(coldata$Dormancy, "0")
 if (file.exists("allcounts.rds")){
 	allcounts <- readRDS("allcounts.rds")
 } else {
-	inannot <- "Sm_ManualCuration.v1.1.8.gff"
+	inannot <- "Sm_ManualCuration.v1.1.9.gff"
 	infasta <- "../../01_mapping/References/Skeletonema_marinoi_Ref_v1.1.2.fst"
 
 	allcounts <- featureCounts(coldata$files,
@@ -78,7 +78,7 @@ if (file.exists("dds.rds")){
 	# PRE-FILTER THE DATASET
 	##################################################
 
-	print(paste0("Number of genes: ", nrow(dds)))		# 17,363
+	print(paste0("Number of genes: ", nrow(dds)))		# 
 
 	## Slightly stricter filter - at least one count in at least two samples
 	## 189d has only two samples, so should retain more condition-specific genes
@@ -87,7 +87,7 @@ if (file.exists("dds.rds")){
 	keep <- rowSums(counts(dds) >= 1 ) >= 2
 	dds <- dds[keep,]
 
-	print(paste0("Number of genes with one count in at least two samples: ", nrow(dds)))	# 16,658
+	print(paste0("Number of genes with one count in at least two samples: ", nrow(dds)))	# 
 
 	##################################################
 	# DATA TRANSFORMATION
@@ -146,7 +146,7 @@ if (file.exists("dds.rds")){
 	}
 }
 
-geneID2GO <- readMappings("../R05_v1.1.8.GOterms.AllGenes.tsv")
+geneID2GO <- readMappings("../R05_v1.1.9.GOterms.AllGenes.tsv")
 geneNames <- names(geneID2GO)
 
 timepoints <- as.list(levels(coldata$Dormancy))

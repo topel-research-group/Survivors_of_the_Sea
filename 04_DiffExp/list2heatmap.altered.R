@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 # Usage:
-# Rscript list2heatmap.altered.R --input infile.lst --lfc num --output outfile.png
+# Rscript list2heatmap.altered.R --input infile.lst --lfc num --output outfile.svg
 # Fixed colour scale (+/- 11.5 LFC), no numbers on cells
 
 # Note: this only looks at vegetative-vs-resting comparisons,

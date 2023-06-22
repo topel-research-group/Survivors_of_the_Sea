@@ -1,212 +1,212 @@
 GO.ID	Term	Annotated	Significant	Expected	classic
-GO:0044434	chloroplast part	266	20	3.73	6.2e-11
-GO:0044435	plastid part	271	20	3.8	8.8e-11
-GO:0009507	chloroplast	438	24	6.14	2.7e-10
-GO:0009536	plastid	449	24	6.3	4.5e-10
-GO:0009570	chloroplast stroma	177	15	2.48	6.3e-09
-GO:0009532	plastid stroma	178	15	2.5	6.8e-09
-GO:0009579	thylakoid	111	11	1.56	2.0e-07
-GO:0009534	chloroplast thylakoid	85	9	1.19	1.7e-06
-GO:0031976	plastid thylakoid	86	9	1.21	1.9e-06
-GO:0009526	plastid envelope	143	11	2.01	2.7e-06
-GO:0009941	chloroplast envelope	135	10	1.89	1.2e-05
-GO:0034357	photosynthetic membrane	65	7	0.91	2.5e-05
-GO:0042651	thylakoid membrane	65	7	0.91	2.5e-05
-GO:0044436	thylakoid part	73	7	1.02	5.4e-05
-GO:0005835	fatty acid synthase complex	2	2	0.03	0.00019
-GO:0009535	chloroplast thylakoid membrane	54	5	0.76	0.00082
-GO:0055035	plastid thylakoid membrane	55	5	0.77	0.00090
-GO:0005576	extracellular region	188	8	2.64	0.00399
-GO:0010319	stromule	9	2	0.13	0.00651
-GO:0031967	organelle envelope	463	13	6.5	0.00894
-GO:0031975	envelope	463	13	6.5	0.00894
-GO:0009533	chloroplast stromal thylakoid	11	2	0.15	0.00977
-GO:0009337	sulfite reductase complex (NADPH)	1	1	0.01	0.01403
-GO:0044421	extracellular region part	68	4	0.95	0.01435
-GO:0035658	Mon1-Ccz1 complex	2	1	0.03	0.02786
-GO:0097249	mitochondrial respiratory chain supercom...	2	1	0.03	0.02786
-GO:0048046	apoplast	50	3	0.7	0.03199
-GO:0005759	mitochondrial matrix	174	6	2.44	0.03279
-GO:0005615	extracellular space	51	3	0.72	0.03366
-GO:0044444	cytoplasmic part	2453	40	34.41	0.03472
-GO:0098807	chloroplast thylakoid membrane protein c...	3	1	0.04	0.04151
-GO:1904813	ficolin-1-rich granule lumen	25	2	0.35	0.04708
-GO:0005879	axonemal microtubule	4	1	0.06	0.05497
-GO:0010007	magnesium chelatase complex	4	1	0.06	0.05497
-GO:0042644	chloroplast nucleoid	4	1	0.06	0.05497
-GO:0062039	biofilm matrix	4	1	0.06	0.05497
-GO:0062040	fungal biofilm matrix	4	1	0.06	0.05497
-GO:0031984	organelle subcompartment	475	11	6.66	0.05939
-GO:0009295	nucleoid	29	2	0.41	0.06152
-GO:0060170	ciliary membrane	5	1	0.07	0.06824
-GO:0101002	ficolin-1-rich granule	33	2	0.46	0.07725
-GO:0000118	histone deacetylase complex	6	1	0.08	0.08133
-GO:0042646	plastid nucleoid	6	1	0.08	0.08133
-GO:0016324	apical plasma membrane	40	2	0.56	0.10738
-GO:0034774	secretory granule lumen	42	2	0.59	0.11649
-GO:0005739	mitochondrion	670	13	9.4	0.12826
-GO:0031983	vesicle lumen	45	2	0.63	0.13052
-GO:0060205	cytoplasmic vesicle lumen	45	2	0.63	0.13052
-GO:0030990	intraciliary transport particle	10	1	0.14	0.13192
-GO:0030992	intraciliary transport particle B	10	1	0.14	0.13192
-GO:0097542	ciliary tip	10	1	0.14	0.13192
-GO:0043209	myelin sheath	49	2	0.69	0.14980
-GO:0016020	membrane	1373	23	19.26	0.16475
-GO:0031012	extracellular matrix	13	1	0.18	0.16807
-GO:0009706	chloroplast inner membrane	14	1	0.2	0.17978
-GO:0098590	plasma membrane region	107	3	1.5	0.18834
-GO:0005881	cytoplasmic microtubule	15	1	0.21	0.19134
-GO:0009528	plastid inner membrane	15	1	0.21	0.19134
-GO:0044447	axoneme part	15	1	0.21	0.19134
-GO:0010287	plastoglobule	17	1	0.24	0.21398
-GO:0044441	ciliary part	63	2	0.88	0.22081
-GO:0005737	cytoplasm	2754	41	38.63	0.23117
-GO:0005618	cell wall	65	2	0.91	0.23123
-GO:0042645	mitochondrial nucleoid	19	1	0.27	0.23599
-GO:0030312	external encapsulating structure	66	2	0.93	0.23646
-GO:0061845	neuron projection branch point	23	1	0.32	0.27823
-GO:1990033	dendritic branch point	23	1	0.32	0.27823
-GO:0045177	apical part of cell	75	2	1.05	0.28370
-GO:0061174	type I terminal bouton	24	1	0.34	0.28843
-GO:0071212	subsynaptic reticulum	24	1	0.34	0.28843
-GO:0036064	ciliary basal body	25	1	0.35	0.29848
-GO:0043198	dendritic shaft	27	1	0.38	0.31818
-GO:0044446	intracellular organelle part	2209	33	30.99	0.32143
-GO:0044422	organelle part	2217	33	31.1	0.33424
-GO:0005930	axoneme	29	1	0.41	0.33733
-GO:0031969	chloroplast membrane	29	1	0.41	0.33733
-GO:0097014	ciliary plasm	29	1	0.41	0.33733
-GO:0005770	late endosome	86	2	1.21	0.34115
-GO:0030141	secretory granule	87	2	1.22	0.34632
-GO:0032838	plasma membrane bounded cell projection ...	30	1	0.42	0.34671
-GO:0042170	plastid membrane	30	1	0.42	0.34671
-GO:0005929	cilium	89	2	1.25	0.35663
-GO:0071944	cell periphery	695	11	9.75	0.38069
-GO:0031253	cell projection membrane	35	1	0.49	0.39170
-GO:0031594	neuromuscular junction	35	1	0.49	0.39170
-GO:0044429	mitochondrial part	361	6	5.06	0.39575
-GO:0044459	plasma membrane part	229	4	3.21	0.40216
-GO:0000776	kinetochore	37	1	0.52	0.40883
-GO:0043231	intracellular membrane-bounded organelle	2624	38	36.81	0.41267
-GO:0000322	storage vacuole	102	2	1.43	0.42210
-GO:0000324	fungal-type vacuole	102	2	1.43	0.42210
-GO:0031514	motile cilium	39	1	0.55	0.42549
-GO:0044433	cytoplasmic vesicle part	249	4	3.49	0.46673
-GO:0098852	lytic vacuole membrane	112	2	1.57	0.47022
-GO:0000323	lytic vacuole	182	3	2.55	0.47468
-GO:0043229	intracellular organelle	2802	40	39.31	0.48750
-GO:0099503	secretory vesicle	116	2	1.63	0.48883
-GO:0019866	organelle inner membrane	186	3	2.61	0.48937
-GO:0043195	terminal bouton	48	1	0.67	0.49494
-GO:0098800	inner mitochondrial membrane protein com...	48	1	0.67	0.49494
-GO:0031902	late endosome membrane	49	1	0.69	0.50213
-GO:0043679	axon terminus	51	1	0.72	0.51622
-GO:0044306	neuron projection terminus	53	1	0.74	0.52991
-GO:0043226	organelle	2825	40	39.63	0.54272
-GO:0005874	microtubule	56	1	0.79	0.54974
-GO:0043227	membrane-bounded organelle	2696	38	37.82	0.56549
-GO:0044440	endosomal part	138	2	1.94	0.58381
-GO:0005795	Golgi stack	62	1	0.87	0.58697
-GO:0010494	cytoplasmic stress granule	62	1	0.87	0.58697
-GO:0005765	lysosomal membrane	64	1	0.9	0.59870
-GO:0044463	cell projection part	220	3	3.09	0.60571
-GO:0120038	plasma membrane bounded cell projection ...	220	3	3.09	0.60571
-GO:0000329	fungal-type vacuole membrane	66	1	0.93	0.61011
-GO:0005887	integral component of plasma membrane	66	1	0.93	0.61011
-GO:0005777	peroxisome	67	1	0.94	0.61569
-GO:0042579	microbody	67	1	0.94	0.61569
-GO:0000775	chromosome, centromeric region	69	1	0.97	0.62662
-GO:0099513	polymeric cytoskeletal fiber	72	1	1.01	0.64245
-GO:0031226	intrinsic component of plasma membrane	74	1	1.04	0.65263
-GO:0150034	distal axon	75	1	1.05	0.65762
-GO:0005819	spindle	76	1	1.07	0.66253
-GO:0098793	presynapse	77	1	1.08	0.66738
-GO:0005743	mitochondrial inner membrane	161	2	2.26	0.66902
-GO:0005886	plasma membrane	631	8	8.85	0.68430
-GO:0033267	axon part	81	1	1.14	0.68609
-GO:0044455	mitochondrial membrane part	82	1	1.15	0.69061
-GO:0043005	neuron projection	171	2	2.4	0.70157
-GO:0044445	cytosolic part	173	2	2.43	0.70777
-GO:0099081	supramolecular polymer	87	1	1.22	0.71225
-GO:0099512	supramolecular fiber	87	1	1.22	0.71225
-GO:0098798	mitochondrial protein complex	88	1	1.23	0.71640
-GO:0099080	supramolecular complex	89	1	1.25	0.72048
-GO:0030425	dendrite	91	1	1.28	0.72849
-GO:0097447	dendritic tree	91	1	1.28	0.72849
-GO:0098791	Golgi subcompartment	188	2	2.64	0.75096
-GO:0044456	synapse part	97	1	1.36	0.75118
-GO:0005764	lysosome	102	1	1.43	0.76866
-GO:0043025	neuronal cell body	103	1	1.44	0.77201
-GO:0097458	neuron part	201	2	2.82	0.78398
-GO:0030424	axon	107	1	1.5	0.78494
-GO:0098687	chromosomal region	107	1	1.5	0.78494
-GO:0045202	synapse	109	1	1.53	0.79114
-GO:0120025	plasma membrane bounded cell projection	292	3	4.1	0.79121
-GO:0044431	Golgi apparatus part	205	2	2.88	0.79335
-GO:0099568	cytoplasmic region	110	1	1.54	0.79417
-GO:0042995	cell projection	294	3	4.12	0.79516
-GO:0005774	vacuolar membrane	208	2	2.92	0.80016
-GO:0031410	cytoplasmic vesicle	383	4	5.37	0.80291
-GO:0097708	intracellular vesicle	383	4	5.37	0.80291
-GO:0005856	cytoskeleton	300	3	4.21	0.80668
-GO:0036464	cytoplasmic ribonucleoprotein granule	116	1	1.63	0.81147
-GO:0044297	cell body	116	1	1.63	0.81147
-GO:0035770	ribonucleoprotein granule	117	1	1.64	0.81421
-GO:0031966	mitochondrial membrane	215	2	3.02	0.81529
-GO:0031982	vesicle	392	4	5.5	0.81792
-GO:0000139	Golgi membrane	119	1	1.67	0.81958
-GO:0005773	vacuole	310	3	4.35	0.82470
-GO:0010008	endosome membrane	122	1	1.71	0.82735
-GO:0005768	endosome	222	2	3.11	0.82941
-GO:0044437	vacuolar part	222	2	3.11	0.82941
-GO:0005813	centrosome	124	1	1.74	0.83234
-GO:0036477	somatodendritic compartment	126	1	1.77	0.83720
-GO:0005740	mitochondrial envelope	237	2	3.32	0.85654
-GO:0015630	microtubule cytoskeleton	237	2	3.32	0.85654
-GO:0098796	membrane protein complex	239	2	3.35	0.85985
-GO:0031090	organelle membrane	694	7	9.74	0.88372
-GO:0005815	microtubule organizing center	152	1	2.13	0.88907
-GO:0044430	cytoskeletal part	267	2	3.75	0.89957
-GO:0098588	bounding membrane of organelle	478	4	6.71	0.92003
-GO:0044425	membrane part	741	7	10.4	0.92229
-GO:0005794	Golgi apparatus	318	2	4.46	0.94672
-GO:0044424	intracellular part	3133	42	43.95	0.94838
-GO:0005622	intracellular	3135	42	43.98	0.95086
-GO:0005829	cytosol	1286	13	18.04	0.95657
-GO:0005789	endoplasmic reticulum membrane	240	1	3.37	0.97045
-GO:0098827	endoplasmic reticulum subcompartment	241	1	3.38	0.97090
-GO:0016021	integral component of membrane	368	2	5.16	0.97223
-GO:0042175	nuclear outer membrane-endoplasmic retic...	253	1	3.55	0.97577
-GO:0031224	intrinsic component of membrane	382	2	5.36	0.97697
-GO:0044432	endoplasmic reticulum part	268	1	3.76	0.98076
-GO:0044451	nucleoplasm part	272	1	3.82	0.98191
-GO:0098805	whole membrane	405	2	5.68	0.98314
-GO:0005730	nucleolus	407	2	5.71	0.98360
-GO:0044427	chromosomal part	300	1	4.21	0.98827
-GO:0005694	chromosome	358	1	5.02	0.99529
-GO:0012505	endomembrane system	821	5	11.52	0.99545
-GO:0005623	cell	3255	44	45.66	0.99574
-GO:0044464	cell part	3255	44	45.66	0.99574
-GO:1902494	catalytic complex	514	2	7.21	0.99641
-GO:0031974	membrane-enclosed lumen	1237	9	17.35	0.99774
-GO:0043233	organelle lumen	1237	9	17.35	0.99774
-GO:0070013	intracellular organelle lumen	1237	9	17.35	0.99774
-GO:0005783	endoplasmic reticulum	406	1	5.7	0.99781
-GO:0032991	protein-containing complex	1417	11	19.88	0.99814
-GO:1990904	ribonucleoprotein complex	470	1	6.59	0.99923
-GO:0043228	non-membrane-bounded organelle	1050	6	14.73	0.99924
-GO:0043232	intracellular non-membrane-bounded organ...	1050	6	14.73	0.99924
-GO:0005654	nucleoplasm	756	2	10.61	0.99992
-GO:0005634	nucleus	1516	8	21.27	0.99999
-GO:0031981	nuclear lumen	1030	3	14.45	0.99999
-GO:0044428	nuclear part	1115	3	15.64	1.00000
-GO:0005575	cellular_component	3279	46	46	1.00000
-GO:0000109	nucleotide-excision repair complex	16	0	0.22	1.00000
+GO:0009507	chloroplast	436	24	6.16	2.8e-10
+GO:0009536	plastid	447	24	6.31	4.7e-10
+GO:0044434	chloroplast part	265	19	3.74	5.9e-10
+GO:0044435	plastid part	270	19	3.81	8.2e-10
+GO:0009570	chloroplast stroma	177	14	2.5	6.1e-08
+GO:0009532	plastid stroma	178	14	2.51	6.6e-08
+GO:0009579	thylakoid	111	11	1.57	2.1e-07
+GO:0009534	chloroplast thylakoid	85	9	1.2	1.8e-06
+GO:0031976	plastid thylakoid	86	9	1.21	2.0e-06
+GO:0009526	plastid envelope	142	11	2	2.6e-06
+GO:0009941	chloroplast envelope	134	10	1.89	1.1e-05
+GO:0034357	photosynthetic membrane	65	7	0.92	2.6e-05
+GO:0042651	thylakoid membrane	65	7	0.92	2.6e-05
+GO:0044436	thylakoid part	73	7	1.03	5.6e-05
+GO:0005835	fatty acid synthase complex	2	2	0.03	0.00020
+GO:0009535	chloroplast thylakoid membrane	54	5	0.76	0.00085
+GO:0055035	plastid thylakoid membrane	55	5	0.78	0.00092
+GO:0010319	stromule	9	2	0.13	0.00659
+GO:0031967	organelle envelope	462	13	6.52	0.00926
+GO:0031975	envelope	462	13	6.52	0.00926
+GO:0009533	chloroplast stromal thylakoid	11	2	0.16	0.00989
+GO:0009337	sulfite reductase complex (NADPH)	1	1	0.01	0.01412
+GO:0005576	extracellular region	188	7	2.65	0.01498
+GO:0035658	Mon1-Ccz1 complex	2	1	0.03	0.02804
+GO:0097249	mitochondrial respiratory chain supercom...	2	1	0.03	0.02804
+GO:0048046	apoplast	50	3	0.71	0.03252
+GO:0005759	mitochondrial matrix	174	6	2.46	0.03369
+GO:0044444	cytoplasmic part	2442	40	34.48	0.03640
+GO:0098807	chloroplast thylakoid membrane protein c...	3	1	0.04	0.04177
+GO:0005879	axonemal microtubule	4	1	0.06	0.05532
+GO:0010007	magnesium chelatase complex	4	1	0.06	0.05532
+GO:0042644	chloroplast nucleoid	4	1	0.06	0.05532
+GO:0062039	biofilm matrix	4	1	0.06	0.05532
+GO:0062040	fungal biofilm matrix	4	1	0.06	0.05532
+GO:0031984	organelle subcompartment	471	11	6.65	0.05865
+GO:0009295	nucleoid	29	2	0.41	0.06222
+GO:0060170	ciliary membrane	5	1	0.07	0.06867
+GO:0044421	extracellular region part	68	3	0.96	0.06984
+GO:0005739	mitochondrion	670	14	9.46	0.07330
+GO:0000118	histone deacetylase complex	6	1	0.08	0.08184
+GO:0042646	plastid nucleoid	6	1	0.08	0.08184
+GO:0016324	apical plasma membrane	40	2	0.56	0.10853
+GO:0030990	intraciliary transport particle	9	1	0.13	0.12027
+GO:0030992	intraciliary transport particle B	9	1	0.13	0.12027
+GO:0097542	ciliary tip	10	1	0.14	0.13272
+GO:0043209	myelin sheath	49	2	0.69	0.15134
+GO:0005615	extracellular space	51	2	0.72	0.16127
+GO:0016020	membrane	1367	23	19.3	0.16773
+GO:0031012	extracellular matrix	13	1	0.18	0.16906
+GO:0009706	chloroplast inner membrane	14	1	0.2	0.18084
+GO:0098590	plasma membrane region	106	3	1.5	0.18720
+GO:0005881	cytoplasmic microtubule	15	1	0.21	0.19246
+GO:0009528	plastid inner membrane	15	1	0.21	0.19246
+GO:0044447	axoneme part	15	1	0.21	0.19246
+GO:0010287	plastoglobule	17	1	0.24	0.21521
+GO:0044441	ciliary part	62	2	0.88	0.21769
+GO:0005618	cell wall	65	2	0.92	0.23342
+GO:0005737	cytoplasm	2738	41	38.66	0.23394
+GO:0042645	mitochondrial nucleoid	19	1	0.27	0.23733
+GO:0030312	external encapsulating structure	66	2	0.93	0.23868
+GO:0061845	neuron projection branch point	23	1	0.32	0.27976
+GO:1990033	dendritic branch point	23	1	0.32	0.27976
+GO:0045177	apical part of cell	75	2	1.06	0.28624
+GO:0036064	ciliary basal body	24	1	0.34	0.29000
+GO:0061174	type I terminal bouton	24	1	0.34	0.29000
+GO:0071212	subsynaptic reticulum	24	1	0.34	0.29000
+GO:1904813	ficolin-1-rich granule lumen	25	1	0.35	0.30010
+GO:0043198	dendritic shaft	27	1	0.38	0.31988
+GO:0044446	intracellular organelle part	2197	33	31.02	0.32486
+GO:0005930	axoneme	28	1	0.4	0.32956
+GO:0097014	ciliary plasm	28	1	0.4	0.32956
+GO:0005770	late endosome	84	2	1.19	0.33359
+GO:0044422	organelle part	2205	33	31.13	0.33782
+GO:0031969	chloroplast membrane	29	1	0.41	0.33911
+GO:0032838	plasma membrane bounded cell projection ...	29	1	0.41	0.33911
+GO:0042170	plastid membrane	30	1	0.42	0.34852
+GO:0005929	cilium	88	2	1.24	0.35440
+GO:0101002	ficolin-1-rich granule	33	1	0.47	0.37599
+GO:0071944	cell periphery	690	11	9.74	0.37960
+GO:0031253	cell projection membrane	35	1	0.49	0.39367
+GO:0031594	neuromuscular junction	35	1	0.49	0.39367
+GO:0044429	mitochondrial part	361	6	5.1	0.40186
+GO:0000776	kinetochore	36	1	0.51	0.40232
+GO:0044459	plasma membrane part	228	4	3.22	0.40369
+GO:0043231	intracellular membrane-bounded organelle	2608	38	36.82	0.41431
+GO:0000322	storage vacuole	102	2	1.44	0.42534
+GO:0000324	fungal-type vacuole	102	2	1.44	0.42534
+GO:0031514	motile cilium	39	1	0.55	0.42756
+GO:0034774	secretory granule lumen	42	1	0.59	0.45176
+GO:0098852	lytic vacuole membrane	111	2	1.57	0.46889
+GO:0031983	vesicle lumen	45	1	0.64	0.47496
+GO:0060205	cytoplasmic vesicle lumen	45	1	0.64	0.47496
+GO:0000323	lytic vacuole	181	3	2.56	0.47531
+GO:0043229	intracellular organelle	2786	40	39.34	0.49215
+GO:0043195	terminal bouton	48	1	0.68	0.49720
+GO:0098800	inner mitochondrial membrane protein com...	48	1	0.68	0.49720
+GO:0019866	organelle inner membrane	187	3	2.64	0.49740
+GO:0031902	late endosome membrane	49	1	0.69	0.50440
+GO:0043679	axon terminus	51	1	0.72	0.51851
+GO:0044306	neuron projection terminus	53	1	0.75	0.53223
+GO:0043226	organelle	2809	40	39.66	0.54782
+GO:0005874	microtubule	56	1	0.79	0.55209
+GO:0043227	membrane-bounded organelle	2680	38	37.84	0.56826
+GO:0044440	endosomal part	137	2	1.93	0.58335
+GO:0005795	Golgi stack	61	1	0.86	0.58337
+GO:0010494	cytoplasmic stress granule	62	1	0.88	0.58936
+GO:0005765	lysosomal membrane	63	1	0.89	0.59527
+GO:0044463	cell projection part	219	3	3.09	0.60702
+GO:0120038	plasma membrane bounded cell projection ...	219	3	3.09	0.60702
+GO:0000329	fungal-type vacuole membrane	66	1	0.93	0.61251
+GO:0005887	integral component of plasma membrane	66	1	0.93	0.61251
+GO:0005777	peroxisome	67	1	0.95	0.61809
+GO:0042579	microbody	67	1	0.95	0.61809
+GO:0000775	chromosome, centromeric region	68	1	0.96	0.62360
+GO:0099513	polymeric cytoskeletal fiber	72	1	1.02	0.64485
+GO:0031226	intrinsic component of plasma membrane	74	1	1.04	0.65504
+GO:0005819	spindle	75	1	1.06	0.66002
+GO:0150034	distal axon	75	1	1.06	0.66002
+GO:0098793	presynapse	77	1	1.09	0.66978
+GO:0005743	mitochondrial inner membrane	162	2	2.29	0.67590
+GO:0005886	plasma membrane	627	8	8.85	0.68439
+GO:0033267	axon part	81	1	1.14	0.68848
+GO:0044433	cytoplasmic vesicle part	248	3	3.5	0.69234
+GO:0044455	mitochondrial membrane part	82	1	1.16	0.69299
+GO:0043005	neuron projection	170	2	2.4	0.70188
+GO:0044445	cytosolic part	173	2	2.44	0.71119
+GO:0030141	secretory granule	87	1	1.23	0.71460
+GO:0099081	supramolecular polymer	87	1	1.23	0.71460
+GO:0099512	supramolecular fiber	87	1	1.23	0.71460
+GO:0098798	mitochondrial protein complex	88	1	1.24	0.71874
+GO:0099080	supramolecular complex	89	1	1.26	0.72282
+GO:0030425	dendrite	91	1	1.28	0.73081
+GO:0097447	dendritic tree	91	1	1.28	0.73081
+GO:0098791	Golgi subcompartment	185	2	2.61	0.74607
+GO:0044456	synapse part	97	1	1.37	0.75345
+GO:0005764	lysosome	101	1	1.43	0.76750
+GO:0043025	neuronal cell body	103	1	1.45	0.77423
+GO:0098687	chromosomal region	105	1	1.48	0.78076
+GO:0097458	neuron part	200	2	2.82	0.78468
+GO:0030424	axon	107	1	1.51	0.78711
+GO:0044431	Golgi apparatus part	202	2	2.85	0.78943
+GO:0099568	cytoplasmic region	108	1	1.52	0.79022
+GO:0120025	plasma membrane bounded cell projection	291	3	4.11	0.79296
+GO:0045202	synapse	109	1	1.54	0.79329
+GO:0042995	cell projection	293	3	4.14	0.79692
+GO:0005774	vacuolar membrane	207	2	2.92	0.80092
+GO:0005856	cytoskeleton	299	3	4.22	0.80843
+GO:0036464	cytoplasmic ribonucleoprotein granule	116	1	1.64	0.81354
+GO:0044297	cell body	116	1	1.64	0.81354
+GO:0099503	secretory vesicle	116	1	1.64	0.81354
+GO:0000139	Golgi membrane	117	1	1.65	0.81627
+GO:0035770	ribonucleoprotein granule	117	1	1.65	0.81627
+GO:0031966	mitochondrial membrane	215	2	3.04	0.81818
+GO:0005768	endosome	218	2	3.08	0.82431
+GO:0005773	vacuole	309	3	4.36	0.82643
+GO:0010008	endosome membrane	121	1	1.71	0.82680
+GO:0044437	vacuolar part	221	2	3.12	0.83025
+GO:0005813	centrosome	124	1	1.75	0.83431
+GO:0036477	somatodendritic compartment	126	1	1.78	0.83914
+GO:0015630	microtubule cytoskeleton	236	2	3.33	0.85742
+GO:0005740	mitochondrial envelope	237	2	3.35	0.85909
+GO:0098796	membrane protein complex	239	2	3.37	0.86237
+GO:0031090	organelle membrane	691	7	9.76	0.88512
+GO:0005815	microtubule organizing center	151	1	2.13	0.88904
+GO:0044430	cytoskeletal part	266	2	3.76	0.90044
+GO:0031410	cytoplasmic vesicle	379	3	5.35	0.91694
+GO:0097708	intracellular vesicle	379	3	5.35	0.91694
+GO:0098588	bounding membrane of organelle	475	4	6.71	0.92009
+GO:0044425	membrane part	737	7	10.41	0.92282
+GO:0031982	vesicle	388	3	5.48	0.92486
+GO:0005730	nucleolus	406	3	5.73	0.93872
+GO:0005794	Golgi apparatus	313	2	4.42	0.94467
+GO:0044424	intracellular part	3111	42	43.92	0.94590
+GO:0005622	intracellular	3113	42	43.95	0.94847
+GO:0005789	endoplasmic reticulum membrane	239	1	3.37	0.97070
+GO:0098827	endoplasmic reticulum subcompartment	240	1	3.39	0.97114
+GO:0016021	integral component of membrane	366	2	5.17	0.97237
+GO:0042175	nuclear outer membrane-endoplasmic retic...	252	1	3.56	0.97601
+GO:0031224	intrinsic component of membrane	380	2	5.37	0.97711
+GO:0005829	cytosol	1278	12	18.04	0.97914
+GO:0044432	endoplasmic reticulum part	267	1	3.77	0.98097
+GO:0044451	nucleoplasm part	271	1	3.83	0.98212
+GO:0098805	whole membrane	403	2	5.69	0.98328
+GO:0044427	chromosomal part	298	1	4.21	0.98826
+GO:0005694	chromosome	354	1	5	0.99516
+GO:0005623	cell	3234	44	45.66	0.99567
+GO:0044464	cell part	3234	44	45.66	0.99567
+GO:1902494	catalytic complex	509	2	7.19	0.99632
+GO:0043228	non-membrane-bounded organelle	1044	7	14.74	0.99737
+GO:0043232	intracellular non-membrane-bounded organ...	1044	7	14.74	0.99737
+GO:0005783	endoplasmic reticulum	404	1	5.7	0.99784
+GO:0031974	membrane-enclosed lumen	1233	9	17.41	0.99785
+GO:0043233	organelle lumen	1233	9	17.41	0.99785
+GO:0070013	intracellular organelle lumen	1233	9	17.41	0.99785
+GO:0032991	protein-containing complex	1412	11	19.94	0.99824
+GO:0012505	endomembrane system	814	4	11.49	0.99882
+GO:1990904	ribonucleoprotein complex	465	1	6.57	0.99921
+GO:0005654	nucleoplasm	753	2	10.63	0.99992
+GO:0031981	nuclear lumen	1026	4	14.49	0.99996
+GO:0044428	nuclear part	1107	4	15.63	0.99999
+GO:0005634	nucleus	1504	8	21.24	0.99999
+GO:0005575	cellular_component	3258	46	46	1.00000
+GO:0000109	nucleotide-excision repair complex	16	0	0.23	1.00000
 GO:0000110	nucleotide-excision repair factor 1 comp...	5	0	0.07	1.00000
 GO:0000111	nucleotide-excision repair factor 2 comp...	1	0	0.01	1.00000
 GO:0000112	nucleotide-excision repair factor 3 comp...	7	0	0.1	1.00000
 GO:0000120	RNA polymerase I transcription factor co...	2	0	0.03	1.00000
-GO:0000123	histone acetyltransferase complex	21	0	0.29	1.00000
+GO:0000123	histone acetyltransferase complex	21	0	0.3	1.00000
 GO:0000124	SAGA complex	2	0	0.03	1.00000
 GO:0000125	PCAF complex	1	0	0.01	1.00000
 GO:0000126	transcription factor TFIIIB complex	2	0	0.03	1.00000
@@ -215,19 +215,19 @@ GO:0000137	Golgi cis cisterna	8	0	0.11	1.00000
 GO:0000138	Golgi trans cisterna	9	0	0.13	1.00000
 GO:0000144	cellular bud neck septin ring	1	0	0.01	1.00000
 GO:0000145	exocyst	2	0	0.03	1.00000
-GO:0000151	ubiquitin ligase complex	84	0	1.18	1.00000
+GO:0000151	ubiquitin ligase complex	84	0	1.19	1.00000
 GO:0000152	nuclear ubiquitin ligase complex	20	0	0.28	1.00000
 GO:0000153	cytoplasmic ubiquitin ligase complex	6	0	0.08	1.00000
 GO:0000159	protein phosphatase type 2A complex	7	0	0.1	1.00000
 GO:0000164	protein phosphatase type 1 complex	4	0	0.06	1.00000
 GO:0000172	ribonuclease MRP complex	2	0	0.03	1.00000
-GO:0000176	nuclear exosome (RNase complex)	9	0	0.13	1.00000
-GO:0000177	cytoplasmic exosome (RNase complex)	9	0	0.13	1.00000
-GO:0000178	exosome (RNase complex)	12	0	0.17	1.00000
+GO:0000176	nuclear exosome (RNase complex)	10	0	0.14	1.00000
+GO:0000177	cytoplasmic exosome (RNase complex)	10	0	0.14	1.00000
+GO:0000178	exosome (RNase complex)	13	0	0.18	1.00000
 GO:0000214	tRNA-intron endonuclease complex	1	0	0.01	1.00000
 GO:0000220	vacuolar proton-transporting V-type ATPa...	7	0	0.1	1.00000
 GO:0000221	vacuolar proton-transporting V-type ATPa...	9	0	0.13	1.00000
-GO:0000228	nuclear chromosome	240	0	3.37	1.00000
+GO:0000228	nuclear chromosome	239	0	3.37	1.00000
 GO:0000229	cytoplasmic chromosome	2	0	0.03	1.00000
 GO:0000235	astral microtubule	4	0	0.06	1.00000
 GO:0000242	pericentriolar material	5	0	0.07	1.00000
@@ -238,7 +238,7 @@ GO:0000307	cyclin-dependent protein kinase holoenzy...	18	0	0.25	1.00000
 GO:0000308	cytoplasmic cyclin-dependent protein kin...	1	0	0.01	1.00000
 GO:0000311	plastid large ribosomal subunit	1	0	0.01	1.00000
 GO:0000312	plastid small ribosomal subunit	1	0	0.01	1.00000
-GO:0000313	organellar ribosome	21	0	0.29	1.00000
+GO:0000313	organellar ribosome	21	0	0.3	1.00000
 GO:0000314	organellar small ribosomal subunit	6	0	0.08	1.00000
 GO:0000315	organellar large ribosomal subunit	13	0	0.18	1.00000
 GO:0000325	plant-type vacuole	27	0	0.38	1.00000
@@ -247,34 +247,34 @@ GO:0000331	contractile vacuole	20	0	0.28	1.00000
 GO:0000333	telomerase catalytic core complex	1	0	0.01	1.00000
 GO:0000347	THO complex	4	0	0.06	1.00000
 GO:0000399	cellular bud neck septin structure	2	0	0.03	1.00000
-GO:0000407	phagophore assembly site	18	0	0.25	1.00000
+GO:0000407	phagophore assembly site	17	0	0.24	1.00000
 GO:0000408	EKC/KEOPS complex	3	0	0.04	1.00000
 GO:0000417	HIR complex	2	0	0.03	1.00000
 GO:0000418	RNA polymerase IV complex	5	0	0.07	1.00000
 GO:0000419	RNA polymerase V complex	5	0	0.07	1.00000
 GO:0000421	autophagosome membrane	5	0	0.07	1.00000
 GO:0000427	plastid-encoded plastid RNA polymerase c...	1	0	0.01	1.00000
-GO:0000428	DNA-directed RNA polymerase complex	62	0	0.87	1.00000
+GO:0000428	DNA-directed RNA polymerase complex	62	0	0.88	1.00000
 GO:0000438	core TFIIH complex portion of holo TFIIH...	3	0	0.04	1.00000
 GO:0000439	transcription factor TFIIH core complex	8	0	0.11	1.00000
 GO:0000500	RNA polymerase I upstream activating fac...	1	0	0.01	1.00000
 GO:0000502	proteasome complex	59	0	0.83	1.00000
 GO:0000506	glycosylphosphatidylinositol-N-acetylglu...	3	0	0.04	1.00000
-GO:0000777	condensed chromosome kinetochore	16	0	0.22	1.00000
+GO:0000777	condensed chromosome kinetochore	16	0	0.23	1.00000
 GO:0000778	condensed nuclear chromosome kinetochore	12	0	0.17	1.00000
 GO:0000779	condensed chromosome, centromeric region	22	0	0.31	1.00000
 GO:0000780	condensed nuclear chromosome, centromeri...	18	0	0.25	1.00000
-GO:0000781	chromosome, telomeric region	36	0	0.51	1.00000
+GO:0000781	chromosome, telomeric region	35	0	0.49	1.00000
 GO:0000782	telomere cap complex	7	0	0.1	1.00000
 GO:0000783	nuclear telomere cap complex	7	0	0.1	1.00000
-GO:0000784	nuclear chromosome, telomeric region	30	0	0.42	1.00000
-GO:0000785	chromatin	206	0	2.89	1.00000
+GO:0000784	nuclear chromosome, telomeric region	29	0	0.41	1.00000
+GO:0000785	chromatin	205	0	2.89	1.00000
 GO:0000786	nucleosome	14	0	0.2	1.00000
 GO:0000788	nuclear nucleosome	5	0	0.07	1.00000
-GO:0000790	nuclear chromatin	169	0	2.37	1.00000
+GO:0000790	nuclear chromatin	168	0	2.37	1.00000
 GO:0000791	euchromatin	13	0	0.18	1.00000
 GO:0000792	heterochromatin	47	0	0.66	1.00000
-GO:0000793	condensed chromosome	74	0	1.04	1.00000
+GO:0000793	condensed chromosome	72	0	1.02	1.00000
 GO:0000794	condensed nuclear chromosome	51	0	0.72	1.00000
 GO:0000795	synaptonemal complex	15	0	0.21	1.00000
 GO:0000796	condensin complex	7	0	0.1	1.00000
@@ -287,7 +287,7 @@ GO:0000803	sex chromosome	12	0	0.17	1.00000
 GO:0000805	X chromosome	6	0	0.08	1.00000
 GO:0000808	origin recognition complex	2	0	0.03	1.00000
 GO:0000811	GINS complex	4	0	0.06	1.00000
-GO:0000812	Swr1 complex	9	0	0.13	1.00000
+GO:0000812	Swr1 complex	8	0	0.11	1.00000
 GO:0000813	ESCRT I complex	2	0	0.03	1.00000
 GO:0000814	ESCRT II complex	3	0	0.04	1.00000
 GO:0000815	ESCRT III complex	7	0	0.1	1.00000
@@ -309,7 +309,7 @@ GO:0000939	condensed chromosome inner kinetochore	2	0	0.03	1.00000
 GO:0000940	condensed chromosome outer kinetochore	3	0	0.04	1.00000
 GO:0000941	condensed nuclear chromosome inner kinet...	2	0	0.03	1.00000
 GO:0000942	condensed nuclear chromosome outer kinet...	2	0	0.03	1.00000
-GO:0000974	Prp19 complex	17	0	0.24	1.00000
+GO:0000974	Prp19 complex	16	0	0.23	1.00000
 GO:0001400	mating projection base	1	0	0.01	1.00000
 GO:0001401	mitochondrial sorting and assembly machi...	1	0	0.01	1.00000
 GO:0001405	PAM complex, Tim23 associated import mot...	3	0	0.04	1.00000
@@ -339,14 +339,14 @@ GO:0002178	palmitoyltransferase complex	3	0	0.04	1.00000
 GO:0002199	zona pellucida receptor complex	5	0	0.07	1.00000
 GO:0005604	basement membrane	5	0	0.07	1.00000
 GO:0005628	prospore membrane	7	0	0.1	1.00000
-GO:0005635	nuclear envelope	99	0	1.39	1.00000
-GO:0005637	nuclear inner membrane	11	0	0.15	1.00000
+GO:0005635	nuclear envelope	99	0	1.4	1.00000
+GO:0005637	nuclear inner membrane	11	0	0.16	1.00000
 GO:0005638	lamin filament	3	0	0.04	1.00000
 GO:0005639	integral component of nuclear inner memb...	2	0	0.03	1.00000
 GO:0005640	nuclear outer membrane	5	0	0.07	1.00000
 GO:0005641	nuclear envelope lumen	4	0	0.06	1.00000
 GO:0005642	annulate lamellae	2	0	0.03	1.00000
-GO:0005643	nuclear pore	21	0	0.29	1.00000
+GO:0005643	nuclear pore	21	0	0.3	1.00000
 GO:0005652	nuclear lamina	9	0	0.13	1.00000
 GO:0005655	nucleolar ribonuclease P complex	1	0	0.01	1.00000
 GO:0005656	nuclear pre-replicative complex	8	0	0.11	1.00000
@@ -356,25 +356,25 @@ GO:0005662	DNA replication factor A complex	1	0	0.01	1.00000
 GO:0005663	DNA replication factor C complex	6	0	0.08	1.00000
 GO:0005664	nuclear origin of replication recognitio...	2	0	0.03	1.00000
 GO:0005665	RNA polymerase II, core complex	15	0	0.21	1.00000
-GO:0005666	RNA polymerase III complex	16	0	0.22	1.00000
-GO:0005667	transcription factor complex	43	0	0.6	1.00000
+GO:0005666	RNA polymerase III complex	16	0	0.23	1.00000
+GO:0005667	transcription factor complex	43	0	0.61	1.00000
 GO:0005669	transcription factor TFIID complex	15	0	0.21	1.00000
 GO:0005671	Ada2/Gcn5/Ada3 transcription activator c...	4	0	0.06	1.00000
 GO:0005673	transcription factor TFIIE complex	1	0	0.01	1.00000
 GO:0005675	transcription factor TFIIH holo complex	12	0	0.17	1.00000
-GO:0005677	chromatin silencing complex	10	0	0.14	1.00000
+GO:0005677	chromatin silencing complex	11	0	0.16	1.00000
 GO:0005680	anaphase-promoting complex	12	0	0.17	1.00000
-GO:0005681	spliceosomal complex	102	0	1.43	1.00000
-GO:0005682	U5 snRNP	19	0	0.27	1.00000
+GO:0005681	spliceosomal complex	97	0	1.37	1.00000
+GO:0005682	U5 snRNP	16	0	0.23	1.00000
 GO:0005683	U7 snRNP	5	0	0.07	1.00000
-GO:0005684	U2-type spliceosomal complex	65	0	0.91	1.00000
+GO:0005684	U2-type spliceosomal complex	63	0	0.89	1.00000
 GO:0005685	U1 snRNP	10	0	0.14	1.00000
 GO:0005686	U2 snRNP	19	0	0.27	1.00000
 GO:0005687	U4 snRNP	9	0	0.13	1.00000
 GO:0005688	U6 snRNP	6	0	0.08	1.00000
-GO:0005689	U12-type spliceosomal complex	16	0	0.22	1.00000
+GO:0005689	U12-type spliceosomal complex	16	0	0.23	1.00000
 GO:0005690	U4atac snRNP	2	0	0.03	1.00000
-GO:0005697	telomerase holoenzyme complex	16	0	0.22	1.00000
+GO:0005697	telomerase holoenzyme complex	16	0	0.23	1.00000
 GO:0005700	polytene chromosome	20	0	0.28	1.00000
 GO:0005701	polytene chromosome chromocenter	3	0	0.04	1.00000
 GO:0005703	polytene chromosome puff	7	0	0.1	1.00000
@@ -393,9 +393,9 @@ GO:0005727	extrachromosomal circular DNA	2	0	0.03	1.00000
 GO:0005729	2-micrometer circle DNA	2	0	0.03	1.00000
 GO:0005732	small nucleolar ribonucleoprotein comple...	23	0	0.32	1.00000
 GO:0005736	RNA polymerase I complex	12	0	0.17	1.00000
-GO:0005741	mitochondrial outer membrane	53	0	0.74	1.00000
+GO:0005741	mitochondrial outer membrane	53	0	0.75	1.00000
 GO:0005742	mitochondrial outer membrane translocase...	2	0	0.03	1.00000
-GO:0005744	TIM23 mitochondrial import inner membran...	11	0	0.15	1.00000
+GO:0005744	TIM23 mitochondrial import inner membran...	11	0	0.16	1.00000
 GO:0005745	m-AAA complex	1	0	0.01	1.00000
 GO:0005746	mitochondrial respiratory chain	30	0	0.42	1.00000
 GO:0005747	mitochondrial respiratory chain complex ...	18	0	0.25	1.00000
@@ -413,10 +413,10 @@ GO:0005763	mitochondrial small ribosomal subunit	6	0	0.08	1.00000
 GO:0005766	primary lysosome	24	0	0.34	1.00000
 GO:0005767	secondary lysosome	7	0	0.1	1.00000
 GO:0005769	early endosome	49	0	0.69	1.00000
-GO:0005771	multivesicular body	14	0	0.2	1.00000
+GO:0005771	multivesicular body	13	0	0.18	1.00000
 GO:0005775	vacuolar lumen	17	0	0.24	1.00000
 GO:0005776	autophagosome	22	0	0.31	1.00000
-GO:0005778	peroxisomal membrane	21	0	0.29	1.00000
+GO:0005778	peroxisomal membrane	21	0	0.3	1.00000
 GO:0005779	integral component of peroxisomal membra...	9	0	0.13	1.00000
 GO:0005782	peroxisomal matrix	17	0	0.24	1.00000
 GO:0005784	Sec61 translocon complex	4	0	0.06	1.00000
@@ -425,15 +425,15 @@ GO:0005786	signal recognition particle, endoplasmic...	3	0	0.04	1.00000
 GO:0005787	signal peptidase complex	5	0	0.07	1.00000
 GO:0005788	endoplasmic reticulum lumen	25	0	0.35	1.00000
 GO:0005790	smooth endoplasmic reticulum	9	0	0.13	1.00000
-GO:0005791	rough endoplasmic reticulum	31	0	0.43	1.00000
-GO:0005793	endoplasmic reticulum-Golgi intermediate...	28	0	0.39	1.00000
+GO:0005791	rough endoplasmic reticulum	31	0	0.44	1.00000
+GO:0005793	endoplasmic reticulum-Golgi intermediate...	28	0	0.4	1.00000
 GO:0005796	Golgi lumen	2	0	0.03	1.00000
 GO:0005797	Golgi medial cisterna	9	0	0.13	1.00000
 GO:0005798	Golgi-associated vesicle	44	0	0.62	1.00000
 GO:0005801	cis-Golgi network	22	0	0.31	1.00000
-GO:0005802	trans-Golgi network	93	0	1.3	1.00000
-GO:0005811	lipid droplet	43	0	0.6	1.00000
-GO:0005814	centriole	21	0	0.29	1.00000
+GO:0005802	trans-Golgi network	90	0	1.27	1.00000
+GO:0005811	lipid droplet	42	0	0.59	1.00000
+GO:0005814	centriole	21	0	0.3	1.00000
 GO:0005816	spindle pole body	19	0	0.27	1.00000
 GO:0005818	aster	8	0	0.11	1.00000
 GO:0005822	inner plaque of spindle pole body	3	0	0.04	1.00000
@@ -446,24 +446,24 @@ GO:0005832	chaperonin-containing T-complex	7	0	0.1	1.00000
 GO:0005834	heterotrimeric G-protein complex	2	0	0.03	1.00000
 GO:0005838	proteasome regulatory particle	14	0	0.2	1.00000
 GO:0005839	proteasome core complex	22	0	0.31	1.00000
-GO:0005840	ribosome	145	0	2.03	1.00000
-GO:0005844	polysome	70	0	0.98	1.00000
+GO:0005840	ribosome	145	0	2.05	1.00000
+GO:0005844	polysome	70	0	0.99	1.00000
 GO:0005845	mRNA cap binding complex	7	0	0.1	1.00000
 GO:0005846	nuclear cap binding complex	2	0	0.03	1.00000
 GO:0005847	mRNA cleavage and polyadenylation specif...	14	0	0.2	1.00000
 GO:0005849	mRNA cleavage factor complex	14	0	0.2	1.00000
 GO:0005850	eukaryotic translation initiation factor...	5	0	0.07	1.00000
 GO:0005851	eukaryotic translation initiation factor...	8	0	0.11	1.00000
-GO:0005852	eukaryotic translation initiation factor...	11	0	0.15	1.00000
+GO:0005852	eukaryotic translation initiation factor...	11	0	0.16	1.00000
 GO:0005853	eukaryotic translation elongation factor...	1	0	0.01	1.00000
 GO:0005854	nascent polypeptide-associated complex	3	0	0.04	1.00000
 GO:0005858	axonemal dynein complex	7	0	0.1	1.00000
 GO:0005865	striated muscle thin filament	1	0	0.01	1.00000
 GO:0005868	cytoplasmic dynein complex	6	0	0.08	1.00000
 GO:0005869	dynactin complex	6	0	0.08	1.00000
-GO:0005871	kinesin complex	15	0	0.21	1.00000
+GO:0005871	kinesin complex	14	0	0.2	1.00000
 GO:0005873	plus-end kinesin complex	2	0	0.03	1.00000
-GO:0005875	microtubule associated complex	45	0	0.63	1.00000
+GO:0005875	microtubule associated complex	44	0	0.62	1.00000
 GO:0005876	spindle microtubule	19	0	0.27	1.00000
 GO:0005880	nuclear microtubule	3	0	0.04	1.00000
 GO:0005882	intermediate filament	6	0	0.08	1.00000
@@ -476,7 +476,7 @@ GO:0005901	caveola	9	0	0.13	1.00000
 GO:0005902	microvillus	3	0	0.04	1.00000
 GO:0005903	brush border	9	0	0.13	1.00000
 GO:0005905	clathrin-coated pit	13	0	0.18	1.00000
-GO:0005911	cell-cell junction	142	0	1.99	1.00000
+GO:0005911	cell-cell junction	141	0	1.99	1.00000
 GO:0005912	adherens junction	9	0	0.13	1.00000
 GO:0005918	septate junction	2	0	0.03	1.00000
 GO:0005921	gap junction	1	0	0.01	1.00000
@@ -484,9 +484,9 @@ GO:0005924	cell-substrate adherens junction	7	0	0.1	1.00000
 GO:0005925	focal adhesion	7	0	0.1	1.00000
 GO:0005933	cellular bud	25	0	0.35	1.00000
 GO:0005934	cellular bud tip	14	0	0.2	1.00000
-GO:0005935	cellular bud neck	21	0	0.29	1.00000
+GO:0005935	cellular bud neck	21	0	0.3	1.00000
 GO:0005937	mating projection	17	0	0.24	1.00000
-GO:0005938	cell cortex	80	0	1.12	1.00000
+GO:0005938	cell cortex	79	0	1.12	1.00000
 GO:0005940	septin ring	3	0	0.04	1.00000
 GO:0005942	phosphatidylinositol 3-kinase complex	4	0	0.06	1.00000
 GO:0005947	mitochondrial alpha-ketoglutarate dehydr...	4	0	0.06	1.00000
@@ -528,17 +528,17 @@ GO:0009345	glycine-tRNA ligase complex	1	0	0.01	1.00000
 GO:0009353	mitochondrial oxoglutarate dehydrogenase...	2	0	0.03	1.00000
 GO:0009368	endopeptidase Clp complex	6	0	0.08	1.00000
 GO:0009376	HslUV protease complex	1	0	0.01	1.00000
-GO:0009504	cell plate	4	0	0.06	1.00000
+GO:0009504	cell plate	3	0	0.04	1.00000
 GO:0009505	plant-type cell wall	10	0	0.14	1.00000
-GO:0009506	plasmodesma	128	0	1.8	1.00000
+GO:0009506	plasmodesma	127	0	1.79	1.00000
 GO:0009508	plastid chromosome	2	0	0.03	1.00000
 GO:0009509	chromoplast	2	0	0.03	1.00000
 GO:0009512	cytochrome b6f complex	1	0	0.01	1.00000
 GO:0009514	glyoxysome	2	0	0.03	1.00000
 GO:0009521	photosystem	2	0	0.03	1.00000
 GO:0009522	photosystem I	2	0	0.03	1.00000
-GO:0009524	phragmoplast	5	0	0.07	1.00000
-GO:0009527	plastid outer membrane	11	0	0.15	1.00000
+GO:0009524	phragmoplast	4	0	0.06	1.00000
+GO:0009527	plastid outer membrane	11	0	0.16	1.00000
 GO:0009543	chloroplast thylakoid lumen	3	0	0.04	1.00000
 GO:0009544	chloroplast ATP synthase complex	1	0	0.01	1.00000
 GO:0009547	plastid ribosome	3	0	0.04	1.00000
@@ -549,40 +549,40 @@ GO:0009782	photosystem I antenna complex	2	0	0.03	1.00000
 GO:0009840	chloroplastic endopeptidase Clp complex	4	0	0.06	1.00000
 GO:0009897	external side of plasma membrane	24	0	0.34	1.00000
 GO:0009898	cytoplasmic side of plasma membrane	24	0	0.34	1.00000
-GO:0009986	cell surface	67	0	0.94	1.00000
+GO:0009986	cell surface	67	0	0.95	1.00000
 GO:0010005	cortical microtubule, transverse to long...	1	0	0.01	1.00000
 GO:0010009	cytoplasmic side of endosome membrane	1	0	0.01	1.00000
 GO:0010369	chromocenter	9	0	0.13	1.00000
 GO:0010445	nuclear dicing body	1	0	0.01	1.00000
 GO:0010598	NAD(P)H dehydrogenase complex (plastoqui...	2	0	0.03	1.00000
-GO:0012506	vesicle membrane	93	0	1.3	1.00000
+GO:0012506	vesicle membrane	93	0	1.31	1.00000
 GO:0012507	ER to Golgi transport vesicle membrane	12	0	0.17	1.00000
 GO:0012510	trans-Golgi network transport vesicle me...	5	0	0.07	1.00000
 GO:0012511	monolayer-surrounded lipid storage body	3	0	0.04	1.00000
 GO:0014069	postsynaptic density	15	0	0.21	1.00000
 GO:0014704	intercalated disc	7	0	0.1	1.00000
-GO:0015030	Cajal body	28	0	0.39	1.00000
+GO:0015030	Cajal body	28	0	0.4	1.00000
 GO:0015629	actin cytoskeleton	44	0	0.62	1.00000
 GO:0015934	large ribosomal subunit	69	0	0.97	1.00000
 GO:0015935	small ribosomal subunit	42	0	0.59	1.00000
 GO:0016006	Nebenkern	3	0	0.04	1.00000
 GO:0016028	rhabdomere	1	0	0.01	1.00000
 GO:0016035	zeta DNA polymerase complex	1	0	0.01	1.00000
-GO:0016234	inclusion body	9	0	0.13	1.00000
+GO:0016234	inclusion body	8	0	0.11	1.00000
 GO:0016235	aggresome	2	0	0.03	1.00000
 GO:0016272	prefoldin complex	3	0	0.04	1.00000
-GO:0016281	eukaryotic translation initiation factor...	16	0	0.22	1.00000
-GO:0016282	eukaryotic 43S preinitiation complex	11	0	0.15	1.00000
+GO:0016281	eukaryotic translation initiation factor...	16	0	0.23	1.00000
+GO:0016282	eukaryotic 43S preinitiation complex	11	0	0.16	1.00000
 GO:0016323	basolateral plasma membrane	14	0	0.2	1.00000
 GO:0016328	lateral plasma membrane	4	0	0.06	1.00000
-GO:0016363	nuclear matrix	24	0	0.34	1.00000
+GO:0016363	nuclear matrix	23	0	0.32	1.00000
 GO:0016442	RISC complex	5	0	0.07	1.00000
 GO:0016456	X chromosome located dosage compensation...	1	0	0.01	1.00000
 GO:0016459	myosin complex	10	0	0.14	1.00000
 GO:0016460	myosin II complex	10	0	0.14	1.00000
 GO:0016461	unconventional myosin complex	1	0	0.01	1.00000
 GO:0016469	proton-transporting two-sector ATPase co...	19	0	0.27	1.00000
-GO:0016471	vacuolar proton-transporting V-type ATPa...	16	0	0.22	1.00000
+GO:0016471	vacuolar proton-transporting V-type ATPa...	16	0	0.23	1.00000
 GO:0016507	mitochondrial fatty acid beta-oxidation ...	2	0	0.03	1.00000
 GO:0016514	SWI/SNF complex	5	0	0.07	1.00000
 GO:0016528	sarcoplasm	6	0	0.08	1.00000
@@ -598,11 +598,11 @@ GO:0016592	mediator complex	10	0	0.14	1.00000
 GO:0016593	Cdc73/Paf1 complex	3	0	0.04	1.00000
 GO:0016600	flotillin complex	2	0	0.03	1.00000
 GO:0016602	CCAAT-binding factor complex	2	0	0.03	1.00000
-GO:0016604	nuclear body	145	0	2.03	1.00000
+GO:0016604	nuclear body	143	0	2.02	1.00000
 GO:0016605	PML body	14	0	0.2	1.00000
-GO:0016607	nuclear speck	76	0	1.07	1.00000
+GO:0016607	nuclear speck	74	0	1.04	1.00000
 GO:0016939	kinesin II complex	3	0	0.04	1.00000
-GO:0017053	transcriptional repressor complex	24	0	0.34	1.00000
+GO:0017053	transcriptional repressor complex	25	0	0.35	1.00000
 GO:0017059	serine C-palmitoyltransferase complex	3	0	0.04	1.00000
 GO:0017086	3-methyl-2-oxobutanoate dehydrogenase (l...	2	0	0.03	1.00000
 GO:0017087	mitochondrial processing peptidase compl...	2	0	0.03	1.00000
@@ -620,7 +620,7 @@ GO:0019773	proteasome core complex, alpha-subunit c...	8	0	0.11	1.00000
 GO:0019774	proteasome core complex, beta-subunit co...	12	0	0.17	1.00000
 GO:0019867	outer membrane	69	0	0.97	1.00000
 GO:0019897	extrinsic component of plasma membrane	9	0	0.13	1.00000
-GO:0019898	extrinsic component of membrane	60	0	0.84	1.00000
+GO:0019898	extrinsic component of membrane	59	0	0.83	1.00000
 GO:0019907	cyclin-dependent protein kinase activati...	2	0	0.03	1.00000
 GO:0019908	nuclear cyclin-dependent protein kinase ...	3	0	0.04	1.00000
 GO:0020015	glycosome	4	0	0.06	1.00000
@@ -629,7 +629,7 @@ GO:0020018	ciliary pocket membrane	1	0	0.01	1.00000
 GO:0020023	kinetoplast	1	0	0.01	1.00000
 GO:0022624	proteasome accessory complex	14	0	0.2	1.00000
 GO:0022625	cytosolic large ribosomal subunit	57	0	0.8	1.00000
-GO:0022626	cytosolic ribosome	115	0	1.61	1.00000
+GO:0022626	cytosolic ribosome	115	0	1.62	1.00000
 GO:0022627	cytosolic small ribosomal subunit	36	0	0.51	1.00000
 GO:0030008	TRAPP complex	9	0	0.13	1.00000
 GO:0030014	CCR4-NOT complex	10	0	0.14	1.00000
@@ -638,7 +638,7 @@ GO:0030016	myofibril	17	0	0.24	1.00000
 GO:0030017	sarcomere	17	0	0.24	1.00000
 GO:0030018	Z disc	6	0	0.08	1.00000
 GO:0030027	lamellipodium	29	0	0.41	1.00000
-GO:0030054	cell junction	173	0	2.43	1.00000
+GO:0030054	cell junction	172	0	2.43	1.00000
 GO:0030055	cell-substrate junction	7	0	0.1	1.00000
 GO:0030061	mitochondrial crista	5	0	0.07	1.00000
 GO:0030062	mitochondrial tricarboxylic acid cycle e...	4	0	0.06	1.00000
@@ -660,13 +660,13 @@ GO:0030132	clathrin coat of coated pit	8	0	0.11	1.00000
 GO:0030133	transport vesicle	66	0	0.93	1.00000
 GO:0030134	COPII-coated ER to Golgi transport vesic...	20	0	0.28	1.00000
 GO:0030135	coated vesicle	57	0	0.8	1.00000
-GO:0030136	clathrin-coated vesicle	31	0	0.43	1.00000
+GO:0030136	clathrin-coated vesicle	31	0	0.44	1.00000
 GO:0030137	COPI-coated vesicle	10	0	0.14	1.00000
-GO:0030139	endocytic vesicle	58	0	0.81	1.00000
+GO:0030139	endocytic vesicle	58	0	0.82	1.00000
 GO:0030140	trans-Golgi network transport vesicle	8	0	0.11	1.00000
 GO:0030173	integral component of Golgi membrane	22	0	0.31	1.00000
 GO:0030175	filopodium	23	0	0.32	1.00000
-GO:0030176	integral component of endoplasmic reticu...	69	0	0.97	1.00000
+GO:0030176	integral component of endoplasmic reticu...	68	0	0.96	1.00000
 GO:0030285	integral component of synaptic vesicle m...	7	0	0.1	1.00000
 GO:0030286	dynein complex	12	0	0.17	1.00000
 GO:0030289	protein phosphatase 4 complex	2	0	0.03	1.00000
@@ -679,14 +679,14 @@ GO:0030445	yeast-form cell wall	2	0	0.03	1.00000
 GO:0030446	hyphal cell wall	7	0	0.1	1.00000
 GO:0030479	actin cortical patch	12	0	0.17	1.00000
 GO:0030496	midbody	25	0	0.35	1.00000
-GO:0030532	small nuclear ribonucleoprotein complex	48	0	0.67	1.00000
-GO:0030658	transport vesicle membrane	26	0	0.36	1.00000
+GO:0030532	small nuclear ribonucleoprotein complex	45	0	0.64	1.00000
+GO:0030658	transport vesicle membrane	26	0	0.37	1.00000
 GO:0030659	cytoplasmic vesicle membrane	91	0	1.28	1.00000
 GO:0030660	Golgi-associated vesicle membrane	24	0	0.34	1.00000
 GO:0030662	coated vesicle membrane	39	0	0.55	1.00000
 GO:0030663	COPI-coated vesicle membrane	6	0	0.08	1.00000
 GO:0030665	clathrin-coated vesicle membrane	19	0	0.27	1.00000
-GO:0030666	endocytic vesicle membrane	33	0	0.46	1.00000
+GO:0030666	endocytic vesicle membrane	33	0	0.47	1.00000
 GO:0030667	secretory granule membrane	25	0	0.35	1.00000
 GO:0030669	clathrin-coated endocytic vesicle membra...	10	0	0.14	1.00000
 GO:0030670	phagocytic vesicle membrane	18	0	0.25	1.00000
@@ -694,7 +694,7 @@ GO:0030672	synaptic vesicle membrane	9	0	0.13	1.00000
 GO:0030677	ribonuclease P complex	2	0	0.03	1.00000
 GO:0030678	mitochondrial ribonuclease P complex	1	0	0.01	1.00000
 GO:0030681	multimeric ribonuclease P complex	1	0	0.01	1.00000
-GO:0030684	preribosome	121	0	1.7	1.00000
+GO:0030684	preribosome	121	0	1.71	1.00000
 GO:0030685	nucleolar preribosome	1	0	0.01	1.00000
 GO:0030686	90S preribosome	61	0	0.86	1.00000
 GO:0030687	preribosome, large subunit precursor	51	0	0.72	1.00000
@@ -709,11 +709,11 @@ GO:0030867	rough endoplasmic reticulum membrane	23	0	0.32	1.00000
 GO:0030870	Mre11 complex	1	0	0.01	1.00000
 GO:0030874	nucleolar chromatin	7	0	0.1	1.00000
 GO:0030875	rDNA protrusion	5	0	0.07	1.00000
-GO:0030880	RNA polymerase complex	63	0	0.88	1.00000
+GO:0030880	RNA polymerase complex	63	0	0.89	1.00000
 GO:0030891	VCB complex	1	0	0.01	1.00000
 GO:0030892	mitotic cohesin complex	3	0	0.04	1.00000
 GO:0030893	meiotic cohesin complex	3	0	0.04	1.00000
-GO:0030894	replisome	16	0	0.22	1.00000
+GO:0030894	replisome	16	0	0.23	1.00000
 GO:0030896	checkpoint clamp complex	1	0	0.01	1.00000
 GO:0030897	HOPS complex	5	0	0.07	1.00000
 GO:0030904	retromer complex	4	0	0.06	1.00000
@@ -745,7 +745,7 @@ GO:0031207	Sec62/Sec63 complex	1	0	0.01	1.00000
 GO:0031211	endoplasmic reticulum palmitoyltransfera...	3	0	0.04	1.00000
 GO:0031213	RSF complex	1	0	0.01	1.00000
 GO:0031225	anchored component of membrane	9	0	0.13	1.00000
-GO:0031227	intrinsic component of endoplasmic retic...	69	0	0.97	1.00000
+GO:0031227	intrinsic component of endoplasmic retic...	68	0	0.96	1.00000
 GO:0031228	intrinsic component of Golgi membrane	23	0	0.32	1.00000
 GO:0031229	intrinsic component of nuclear inner mem...	2	0	0.03	1.00000
 GO:0031231	intrinsic component of peroxisomal membr...	9	0	0.13	1.00000
@@ -756,7 +756,7 @@ GO:0031248	protein acetyltransferase complex	25	0	0.35	1.00000
 GO:0031251	PAN complex	1	0	0.01	1.00000
 GO:0031252	cell leading edge	47	0	0.66	1.00000
 GO:0031254	cell trailing edge	9	0	0.13	1.00000
-GO:0031256	leading edge membrane	26	0	0.36	1.00000
+GO:0031256	leading edge membrane	26	0	0.37	1.00000
 GO:0031258	lamellipodium membrane	18	0	0.25	1.00000
 GO:0031261	DNA replication preinitiation complex	12	0	0.17	1.00000
 GO:0031262	Ndc80 complex	2	0	0.03	1.00000
@@ -789,7 +789,7 @@ GO:0031428	box C/D snoRNP complex	5	0	0.07	1.00000
 GO:0031429	box H/ACA snoRNP complex	4	0	0.06	1.00000
 GO:0031430	M band	2	0	0.03	1.00000
 GO:0031436	BRCA1-BARD1 complex	1	0	0.01	1.00000
-GO:0031461	cullin-RING ubiquitin ligase complex	50	0	0.7	1.00000
+GO:0031461	cullin-RING ubiquitin ligase complex	50	0	0.71	1.00000
 GO:0031462	Cul2-RING ubiquitin ligase complex	2	0	0.03	1.00000
 GO:0031463	Cul3-RING ubiquitin ligase complex	3	0	0.04	1.00000
 GO:0031464	Cul4A-RING E3 ubiquitin ligase complex	4	0	0.06	1.00000
@@ -817,7 +817,7 @@ GO:0031672	A band	8	0	0.11	1.00000
 GO:0031673	H zone	2	0	0.03	1.00000
 GO:0031674	I band	9	0	0.13	1.00000
 GO:0031901	early endosome membrane	10	0	0.14	1.00000
-GO:0031903	microbody membrane	21	0	0.29	1.00000
+GO:0031903	microbody membrane	21	0	0.3	1.00000
 GO:0031904	endosome lumen	2	0	0.03	1.00000
 GO:0031907	microbody lumen	17	0	0.24	1.00000
 GO:0031910	cytostome	1	0	0.01	1.00000
@@ -828,8 +828,8 @@ GO:0031934	mating-type region heterochromatin	3	0	0.04	1.00000
 GO:0031941	filamentous actin	3	0	0.04	1.00000
 GO:0031942	i-AAA complex	1	0	0.01	1.00000
 GO:0031965	nuclear membrane	56	0	0.79	1.00000
-GO:0031968	organelle outer membrane	68	0	0.95	1.00000
-GO:0031970	organelle envelope lumen	38	0	0.53	1.00000
+GO:0031968	organelle outer membrane	68	0	0.96	1.00000
+GO:0031970	organelle envelope lumen	38	0	0.54	1.00000
 GO:0031977	thylakoid lumen	18	0	0.25	1.00000
 GO:0031978	plastid thylakoid lumen	3	0	0.04	1.00000
 GO:0031985	Golgi cisterna	27	0	0.38	1.00000
@@ -857,19 +857,19 @@ GO:0032300	mismatch repair complex	9	0	0.13	1.00000
 GO:0032301	MutSalpha complex	4	0	0.06	1.00000
 GO:0032302	MutSbeta complex	4	0	0.06	1.00000
 GO:0032389	MutLalpha complex	2	0	0.03	1.00000
-GO:0032391	photoreceptor connecting cilium	9	0	0.13	1.00000
+GO:0032391	photoreceptor connecting cilium	8	0	0.11	1.00000
 GO:0032419	extrinsic component of lysosome membrane	2	0	0.03	1.00000
 GO:0032420	stereocilium	3	0	0.04	1.00000
 GO:0032421	stereocilium bundle	4	0	0.06	1.00000
 GO:0032426	stereocilium tip	2	0	0.03	1.00000
 GO:0032432	actin filament bundle	5	0	0.07	1.00000
 GO:0032433	filopodium tip	3	0	0.04	1.00000
-GO:0032541	cortical endoplasmic reticulum	5	0	0.07	1.00000
+GO:0032541	cortical endoplasmic reticulum	4	0	0.06	1.00000
 GO:0032545	CURI complex	2	0	0.03	1.00000
 GO:0032580	Golgi cisterna membrane	5	0	0.07	1.00000
 GO:0032584	growth cone membrane	1	0	0.01	1.00000
 GO:0032587	ruffle membrane	7	0	0.1	1.00000
-GO:0032588	trans-Golgi network membrane	33	0	0.46	1.00000
+GO:0032588	trans-Golgi network membrane	33	0	0.47	1.00000
 GO:0032592	integral component of mitochondrial memb...	23	0	0.32	1.00000
 GO:0032593	insulin-responsive compartment	1	0	0.01	1.00000
 GO:0032777	Piccolo NuA4 histone acetyltransferase c...	1	0	0.01	1.00000
@@ -879,7 +879,7 @@ GO:0032807	DNA ligase IV complex	1	0	0.01	1.00000
 GO:0032809	neuronal cell body membrane	2	0	0.03	1.00000
 GO:0032865	ERMES complex	1	0	0.01	1.00000
 GO:0032982	myosin filament	9	0	0.13	1.00000
-GO:0032993	protein-DNA complex	62	0	0.87	1.00000
+GO:0032993	protein-DNA complex	62	0	0.88	1.00000
 GO:0032994	protein-lipid complex	2	0	0.03	1.00000
 GO:0033017	sarcoplasmic reticulum membrane	4	0	0.06	1.00000
 GO:0033061	DNA recombinase mediator complex	3	0	0.04	1.00000
@@ -888,9 +888,9 @@ GO:0033065	Rad51C-XRCC3 complex	2	0	0.03	1.00000
 GO:0033106	cis-Golgi network membrane	3	0	0.04	1.00000
 GO:0033116	endoplasmic reticulum-Golgi intermediate...	8	0	0.11	1.00000
 GO:0033162	melanosome membrane	3	0	0.04	1.00000
-GO:0033176	proton-transporting V-type ATPase comple...	16	0	0.22	1.00000
+GO:0033176	proton-transporting V-type ATPase comple...	16	0	0.23	1.00000
 GO:0033177	proton-transporting two-sector ATPase co...	7	0	0.1	1.00000
-GO:0033178	proton-transporting two-sector ATPase co...	11	0	0.15	1.00000
+GO:0033178	proton-transporting two-sector ATPase co...	11	0	0.16	1.00000
 GO:0033179	proton-transporting V-type ATPase, V0 do...	7	0	0.1	1.00000
 GO:0033180	proton-transporting V-type ATPase, V1 do...	9	0	0.13	1.00000
 GO:0033181	plasma membrane proton-transporting V-ty...	15	0	0.21	1.00000
@@ -919,7 +919,7 @@ GO:0033647	host intracellular organelle	2	0	0.03	1.00000
 GO:0033648	host intracellular membrane-bounded orga...	2	0	0.03	1.00000
 GO:0033698	Rpd3L complex	1	0	0.01	1.00000
 GO:0033768	SUMO-targeted ubiquitin ligase complex	1	0	0.01	1.00000
-GO:0034045	phagophore assembly site membrane	9	0	0.13	1.00000
+GO:0034045	phagophore assembly site membrane	8	0	0.11	1.00000
 GO:0034064	Tor2-Mei2-Ste11 complex	2	0	0.03	1.00000
 GO:0034098	VCP-NPL4-UFD1 AAA ATPase complex	18	0	0.25	1.00000
 GO:0034099	luminal surveillance complex	2	0	0.03	1.00000
@@ -928,7 +928,7 @@ GO:0034271	phosphatidylinositol 3-kinase complex, c...	1	0	0.01	1.00000
 GO:0034272	phosphatidylinositol 3-kinase complex, c...	1	0	0.01	1.00000
 GO:0034274	Atg12-Atg5-Atg16 complex	3	0	0.04	1.00000
 GO:0034388	Pwp2p-containing subcomplex of 90S preri...	6	0	0.08	1.00000
-GO:0034399	nuclear periphery	77	0	1.08	1.00000
+GO:0034399	nuclear periphery	75	0	1.06	1.00000
 GO:0034423	autophagosome lumen	1	0	0.01	1.00000
 GO:0034448	EGO complex	3	0	0.04	1.00000
 GO:0034451	centriolar satellite	4	0	0.06	1.00000
@@ -958,7 +958,7 @@ GO:0035032	phosphatidylinositol 3-kinase complex, c...	3	0	0.04	1.00000
 GO:0035060	brahma complex	6	0	0.08	1.00000
 GO:0035061	interchromatin granule	1	0	0.01	1.00000
 GO:0035062	omega speckle	1	0	0.01	1.00000
-GO:0035097	histone methyltransferase complex	21	0	0.29	1.00000
+GO:0035097	histone methyltransferase complex	21	0	0.3	1.00000
 GO:0035098	ESC/E(Z) complex	4	0	0.06	1.00000
 GO:0035101	FACT complex	4	0	0.06	1.00000
 GO:0035102	PRC1 complex	2	0	0.03	1.00000
@@ -966,12 +966,12 @@ GO:0035145	exon-exon junction complex	4	0	0.06	1.00000
 GO:0035189	Rb-E2F complex	1	0	0.01	1.00000
 GO:0035253	ciliary rootlet	2	0	0.03	1.00000
 GO:0035267	NuA4 histone acetyltransferase complex	8	0	0.11	1.00000
-GO:0035327	transcriptionally active chromatin	7	0	0.1	1.00000
+GO:0035327	transcriptionally active chromatin	8	0	0.11	1.00000
 GO:0035339	SPOTS complex	3	0	0.04	1.00000
 GO:0035361	Cul8-RING ubiquitin ligase complex	1	0	0.01	1.00000
 GO:0035370	UBC13-UEV1A complex	5	0	0.07	1.00000
 GO:0035371	microtubule plus-end	4	0	0.06	1.00000
-GO:0035577	azurophil granule membrane	11	0	0.15	1.00000
+GO:0035577	azurophil granule membrane	11	0	0.16	1.00000
 GO:0035578	azurophil granule lumen	10	0	0.14	1.00000
 GO:0035579	specific granule membrane	7	0	0.1	1.00000
 GO:0035580	specific granule lumen	5	0	0.07	1.00000
@@ -987,7 +987,7 @@ GO:0035841	new growing cell tip	1	0	0.01	1.00000
 GO:0035842	old cell tip after activation of bipolar...	1	0	0.01	1.00000
 GO:0035859	Seh1-associated complex	5	0	0.07	1.00000
 GO:0035861	site of double-strand break	36	0	0.51	1.00000
-GO:0035869	ciliary transition zone	13	0	0.18	1.00000
+GO:0035869	ciliary transition zone	12	0	0.17	1.00000
 GO:0035974	meiotic spindle pole body	5	0	0.07	1.00000
 GO:0036019	endolysosome	3	0	0.04	1.00000
 GO:0036020	endolysosome membrane	3	0	0.04	1.00000
