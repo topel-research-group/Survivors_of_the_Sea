@@ -3,7 +3,7 @@
 library("topGO")
 
 # Tab-separated file of gene ID (Sm_...) and associated GO terms
-geneID2GO <- readMappings("../R05_v1.1.8.GOterms.AllGenes.IncOrganelles.tsv")
+geneID2GO <- readMappings("../R05_v1.1.9.GOterms.AllGenes.IncOrganelles.tsv")
 geneNames <- names(geneID2GO)
 
 interesting_genes <- as.character(read.csv("UpAtAllTimepoints.lst", header=FALSE, sep="\t")$V1)
